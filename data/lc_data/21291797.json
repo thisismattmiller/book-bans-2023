@@ -1,0 +1,1571 @@
+{
+  "work": [
+    {
+      "@id": "http://id.loc.gov/authorities/genreForms/gf2014026339",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/GenreForm"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@language": "en",
+          "@value": "Fiction"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/marcKey": [
+        {
+          "@value": "155  $aFiction"
+        }
+      ]
+    },
+    {
+      "@id": "_:b42iddOtlocdOtgovresourcesworks21291797",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/ClassificationDdc"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/classificationPortion": [
+        {
+          "@value": "813/.6"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/source": [
+        {
+          "@id": "_:b46iddOtlocdOtgovresourcesworks21291797"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/edition": [
+        {
+          "@value": "full"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/assigner": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/organizations/dlc"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/menclvl/8",
+      "@type": [
+        "http://id.loc.gov/ontologies/bflc/EncodingLevel"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "prepublication"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "8"
+        }
+      ]
+    },
+    {
+      "@id": "_:b192iddOtlocdOtgovresourcesworks21291797",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/status": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/mstatus/c"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/agent": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/organizations/dlcmrc"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/generationProcess": [
+        {
+          "@id": "https://github.com/lcnetdev/marc2bibframe2/releases/tag/v2.7.0"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/date": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "@value": "2024-08-02T07:27:38.384617-04:00"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/mstatus/uba",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Status"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "used by assigner"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "uba"
+        }
+      ]
+    },
+    {
+      "@id": "_:b99iddOtlocdOtgovresourcesworks21291797",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Relation"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/relationship": [
+        {
+          "@id": "http://id.loc.gov/ontologies/bibframe/hasSeries"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/associatedResource": [
+        {
+          "@id": "_:b102iddOtlocdOtgovresourcesworks21291797"
+        }
+      ]
+    },
+    {
+      "@id": "_:b22iddOtlocdOtgovresourcesworks21291797",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/ClassificationLcc"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/classificationPortion": [
+        {
+          "@value": "PS3613.A175"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/assigner": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/organizations/dlc"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/status": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/mstatus/uba"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/relators/aut",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Role",
+        "http://id.loc.gov/ontologies/bibframe/Role"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Author"
+        },
+        {
+          "@value": "Author"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "aut"
+        },
+        {
+          "@value": "aut"
+        }
+      ]
+    },
+    {
+      "@id": "_:b102iddOtlocdOtgovresourcesworks21291797",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Series",
+        "http://id.loc.gov/ontologies/bflc/Uncontrolled"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/status": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/mstatus/t"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/title": [
+        {
+          "@id": "_:b111iddOtlocdOtgovresourcesworks21291797"
+        }
+      ]
+    },
+    {
+      "@id": "_:b111iddOtlocdOtgovresourcesworks21291797",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Title"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/mainTitle": [
+        {
+          "@value": "Crescent City"
+        }
+      ]
+    },
+    {
+      "@id": "_:b115iddOtlocdOtgovresourcesworks21291797",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Relation"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/relationship": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/relationship/otherphysicalformat"
+        },
+        {
+          "@id": "http://id.loc.gov/entities/relationships/printversion"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/associatedResource": [
+        {
+          "@id": "http://id.loc.gov/resources/works/21291683"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/resources/works/21291797",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Work",
+        "http://id.loc.gov/ontologies/bibframe/Text",
+        "http://id.loc.gov/ontologies/bibframe/Monograph"
+      ],
+      "http://id.loc.gov/ontologies/bflc/aap": [
+        {
+          "@value": "Maas, Sarah J. House of earth and blood"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/aap-normalized": [
+        {
+          "@value": "maassarahjhouseofearthandblood"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/language": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/languages/eng"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/genreForm": [
+        {
+          "@id": "http://id.loc.gov/authorities/genreForms/gf2014026339"
+        },
+        {
+          "@id": "http://id.loc.gov/authorities/genreForms/gf2014026333"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/classification": [
+        {
+          "@id": "_:b22iddOtlocdOtgovresourcesworks21291797"
+        },
+        {
+          "@id": "_:b42iddOtlocdOtgovresourcesworks21291797"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/contribution": [
+        {
+          "@id": "_:b62iddOtlocdOtgovresourcesworks21291797"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/title": [
+        {
+          "@id": "_:b78iddOtlocdOtgovresourcesworks21291797"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/content": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/contentTypes/txt"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/summary": [
+        {
+          "@id": "_:b88iddOtlocdOtgovresourcesworks21291797"
+        }
+      ],
+      "http://purl.org/dc/terms/isPartOf": [
+        {
+          "@id": "http://id.loc.gov/resources/works"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/relation": [
+        {
+          "@id": "_:b99iddOtlocdOtgovresourcesworks21291797"
+        },
+        {
+          "@id": "_:b115iddOtlocdOtgovresourcesworks21291797"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/hasInstance": [
+        {
+          "@id": "http://id.loc.gov/resources/instances/21291797"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/adminMetadata": [
+        {
+          "@id": "_:b161iddOtlocdOtgovresourcesworks21291797"
+        },
+        {
+          "@id": "_:b182iddOtlocdOtgovresourcesworks21291797"
+        },
+        {
+          "@id": "_:b192iddOtlocdOtgovresourcesworks21291797"
+        },
+        {
+          "@id": "_:b214iddOtlocdOtgovresourcesworks21291797"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/relationship/otherphysicalformat",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Relationship"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "other physical format"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "otherphysicalformat"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/resources/instances/21291797",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Instance"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/title": [
+        {
+          "@id": "_:b153iddOtlocdOtgovresourcesworks21291797"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/publicationStatement": [
+        {
+          "@value": "New York: Bloomsbury Publishing, 2020"
+        }
+      ]
+    },
+    {
+      "@id": "_:b153iddOtlocdOtgovresourcesworks21291797",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Title"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/mainTitle": [
+        {
+          "@value": "House of earth and blood"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/subtitle": [
+        {
+          "@value": "a Crescent City novel"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/organizations/dlc",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Organization",
+        "http://id.loc.gov/ontologies/bibframe/Organization",
+        "http://id.loc.gov/ontologies/bibframe/Agent",
+        "http://id.loc.gov/ontologies/bibframe/Organization",
+        "http://id.loc.gov/ontologies/bibframe/Organization"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "United States, Library of Congress"
+        },
+        {
+          "@value": "United States, Library of Congress"
+        },
+        {
+          "@value": "United States, Library of Congress"
+        },
+        {
+          "@value": "United States, Library of Congress"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/code",
+          "@value": "DLC"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+          "@value": "dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+          "@value": "US-dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/code",
+          "@value": "DLC"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+          "@value": "dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+          "@value": "US-dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/code",
+          "@value": "DLC"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+          "@value": "dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+          "@value": "US-dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/code",
+          "@value": "DLC"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+          "@value": "dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+          "@value": "US-dlc"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/descriptionConventions/rda",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/DescriptionConventions"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Resource description and access"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "rda"
+        }
+      ]
+    },
+    {
+      "@id": "_:b182iddOtlocdOtgovresourcesworks21291797",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/status": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/mstatus/c"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/date": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "@value": "2021-06-28T14:33:18"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/mstatus/t",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Status"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "transcribed"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "t"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/languages/eng",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Language",
+        "http://id.loc.gov/ontologies/bibframe/Language"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@language": "en",
+          "@value": "English"
+        },
+        {
+          "@language": "en",
+          "@value": "English"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#string",
+          "@value": "eng"
+        },
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#string",
+          "@value": "eng"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/authorities/genreForms/gf2014026333",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/GenreForm"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@language": "en",
+          "@value": "Fantasy fiction"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/marcKey": [
+        {
+          "@value": "155  $aFantasy fiction"
+        }
+      ]
+    },
+    {
+      "@id": "_:b62iddOtlocdOtgovresourcesworks21291797",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Contribution",
+        "http://id.loc.gov/ontologies/bibframe/PrimaryContribution"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/agent": [
+        {
+          "@id": "http://id.loc.gov/rwo/agents/n2012025986"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/role": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/relators/aut"
+        }
+      ]
+    },
+    {
+      "@id": "_:b147iddOtlocdOtgovresourcesworks21291797",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Title"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/mainTitle": [
+        {
+          "@value": "House of earth and blood"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/organizations/dlcmrc",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Agent",
+        "http://id.loc.gov/ontologies/bibframe/Organization"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "United States, Library of Congress, Network Development and MARC Standards Office"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/code",
+          "@value": "DLC-MRC"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+          "@value": "dlcmrc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+          "@value": "US-dlcmrc"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/descriptionConventions/isbd",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/DescriptionConventions"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "ISBD: International standard bibliographic description"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "isbd"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/rwo/agents/n2012025986",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Agent",
+        "http://id.loc.gov/ontologies/bibframe/Person",
+        "http://id.loc.gov/ontologies/bibframe/Agent",
+        "http://id.loc.gov/ontologies/bibframe/Person"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Maas, Sarah J."
+        },
+        {
+          "@value": "Maas, Sarah J."
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/marcKey": [
+        {
+          "@value": "1001 $aMaas, Sarah J."
+        },
+        {
+          "@value": "1001 $aMaas, Sarah J."
+        }
+      ]
+    },
+    {
+      "@id": "_:b46iddOtlocdOtgovresourcesworks21291797",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Source"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "23"
+        }
+      ]
+    },
+    {
+      "@id": "_:b131iddOtlocdOtgovresourcesworks21291797",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Contribution",
+        "http://id.loc.gov/ontologies/bibframe/PrimaryContribution"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/agent": [
+        {
+          "@id": "http://id.loc.gov/rwo/agents/n2012025986"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/role": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/relators/aut"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/resources/works/21291683",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Work"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Maas, Sarah J. House of earth and blood"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/contribution": [
+        {
+          "@id": "_:b131iddOtlocdOtgovresourcesworks21291797"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/title": [
+        {
+          "@id": "_:b147iddOtlocdOtgovresourcesworks21291797"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/entities/relationships/printversion",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Relationship"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Print version"
+        }
+      ]
+    },
+    {
+      "@id": "_:b88iddOtlocdOtgovresourcesworks21291797",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Summary"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "\"Half-Fae, half-human Bryce Quinlan loves her life. By day, she works for an antiquities dealer, selling barely legal magical artifacts, and by night, she parties with her friends, savoring every pleasure Lunathion-otherwise known as Crescent City-has to offer. But it all comes crumbling down when a ruthless murder shakes the very foundations of the city-and Bryce's world. Two years later, her job has become a dead end, and she now seeks only blissful oblivion in the city's most notorious nightclubs. But when the murderer attacks again, Bryce finds herself dragged into the investigation and paired with an infamous Fallen angel whose own brutal past haunts his every step. Hunt Athalar, personal assassin for the Archangels, wants nothing to do with Bryce Quinlan, despite being ordered to protect her. She stands for everything he once rebelled against and seems more interested in partying than solving the murder, no matter how close to home it might hit. But Hunt soon realizes there's far more to Bryce than meets the eye-and that he's going to have to find a way to work with her if they want to solve this case. As Bryce and Hunt race to untangle the mystery, they have no way of knowing the threads they tug ripple through the underbelly of the city, across warring continents, and down to the darkest levels of Hel, where things that have been sleeping for millennia are beginning to stir..\"-- Provided by publisher"
+        }
+      ]
+    },
+    {
+      "@id": "_:b161iddOtlocdOtgovresourcesworks21291797",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/status": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/mstatus/n"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/date": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#date",
+          "@value": "2019-11-06"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/agent": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/organizations/dlc"
+        }
+      ]
+    },
+    {
+      "@id": "_:b78iddOtlocdOtgovresourcesworks21291797",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Title"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/mainTitle": [
+        {
+          "@value": "House of earth and blood"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/mstatus/c",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Status",
+        "http://id.loc.gov/ontologies/bibframe/Status"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "changed"
+        },
+        {
+          "@value": "changed"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "c"
+        },
+        {
+          "@value": "c"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/contentTypes/txt",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Content"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "text"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "txt"
+        }
+      ]
+    },
+    {
+      "@id": "_:b229iddOtlocdOtgovresourcesworks21291797",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Local"
+      ],
+      "http://www.w3.org/1999/02/22-rdf-syntax-ns#value": [
+        {
+          "@value": "21291797"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/assigner": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/organizations/dlc"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/marcauthen/pcc",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/DescriptionAuthentication"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Program for Cooperative Cataloging"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "pcc"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/mstatus/n",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Status"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "new"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "n"
+        }
+      ]
+    },
+    {
+      "@id": "_:b214iddOtlocdOtgovresourcesworks21291797",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/descriptionLevel": [
+        {
+          "@id": "http://id.loc.gov/ontologies/bibframe-2-3-0/"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/encodingLevel": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/menclvl/8"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/descriptionConventions": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/descriptionConventions/isbd"
+        },
+        {
+          "@id": "http://id.loc.gov/vocabulary/descriptionConventions/rda"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/identifiedBy": [
+        {
+          "@id": "_:b229iddOtlocdOtgovresourcesworks21291797"
+        }
+      ],
+      "http://id.loc.gov/ontologies/lclocal/d906": [
+        {
+          "@value": "=906     $a 7 $b cbc $c orignew $d 1 $e ecip $f 20 $g y-gencatlg"
+        }
+      ],
+      "http://id.loc.gov/ontologies/lclocal/d925": [
+        {
+          "@value": "=925  0  $a acquire $e ecip ebook $x policy default"
+        }
+      ],
+      "http://id.loc.gov/ontologies/lclocal/d955": [
+        {
+          "@value": "=955     $a ecip ebook 2019-11-06"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/descriptionLanguage": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/languages/eng"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/descriptionAuthentication": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/marcauthen/pcc"
+        }
+      ],
+      "http://id.loc.gov/ontologies/lclocal/d985": [
+        {
+          "@value": "=985     $a LC online resource $d 2019-11-06"
+        }
+      ]
+    }
+  ],
+  "instance": [
+    {
+      "@id": "http://id.loc.gov/vocabulary/carriers/cr",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Carrier"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "online resource"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "cr"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/menclvl/8",
+      "@type": [
+        "http://id.loc.gov/ontologies/bflc/EncodingLevel"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "prepublication"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "8"
+        }
+      ]
+    },
+    {
+      "@id": "_:b128iddOtlocdOtgovresourcesinstances21291797",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/status": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/mstatus/c"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/date": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "@value": "2021-06-28T14:33:18"
+        }
+      ]
+    },
+    {
+      "@id": "_:b160iddOtlocdOtgovresourcesinstances21291797",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/descriptionLevel": [
+        {
+          "@id": "http://id.loc.gov/ontologies/bibframe-2-3-0/"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/encodingLevel": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/menclvl/8"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/descriptionConventions": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/descriptionConventions/isbd"
+        },
+        {
+          "@id": "http://id.loc.gov/vocabulary/descriptionConventions/rda"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/identifiedBy": [
+        {
+          "@id": "_:b175iddOtlocdOtgovresourcesinstances21291797"
+        }
+      ],
+      "http://id.loc.gov/ontologies/lclocal/d906": [
+        {
+          "@value": "=906     $a 7 $b cbc $c orignew $d 1 $e ecip $f 20 $g y-gencatlg"
+        }
+      ],
+      "http://id.loc.gov/ontologies/lclocal/d925": [
+        {
+          "@value": "=925  0  $a acquire $e ecip ebook $x policy default"
+        }
+      ],
+      "http://id.loc.gov/ontologies/lclocal/d955": [
+        {
+          "@value": "=955     $a ecip ebook 2019-11-06"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/descriptionLanguage": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/languages/eng"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/descriptionAuthentication": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/marcauthen/pcc"
+        }
+      ],
+      "http://id.loc.gov/ontologies/lclocal/d985": [
+        {
+          "@value": "=985     $a LC online resource $d 2019-11-06"
+        }
+      ]
+    },
+    {
+      "@id": "_:b29iddOtlocdOtgovresourcesinstances21291797",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Lccn"
+      ],
+      "http://www.w3.org/1999/02/22-rdf-syntax-ns#value": [
+        {
+          "@value": "  2019050991"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/relators/aut",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Role"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Author"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "aut"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/countries/nyu",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Place"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@language": "en",
+          "@value": "New York (State)"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#string",
+          "@value": "nyu"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/resources/works/21291797",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Work"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Maas, Sarah J. House of earth and blood"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/contribution": [
+        {
+          "@id": "_:b87iddOtlocdOtgovresourcesinstances21291797"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/title": [
+        {
+          "@id": "_:b103iddOtlocdOtgovresourcesinstances21291797"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/resources/instances/21291797",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Instance"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/issuance": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/issuance/mono"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/provisionActivity": [
+        {
+          "@id": "_:b10iddOtlocdOtgovresourcesinstances21291797"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/publicationStatement": [
+        {
+          "@value": "New York: Bloomsbury Publishing, 2020"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/identifiedBy": [
+        {
+          "@id": "_:b29iddOtlocdOtgovresourcesinstances21291797"
+        },
+        {
+          "@id": "_:b33iddOtlocdOtgovresourcesinstances21291797"
+        },
+        {
+          "@id": "_:b39iddOtlocdOtgovresourcesinstances21291797"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/responsibilityStatement": [
+        {
+          "@value": "Sarah J. Maas"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/title": [
+        {
+          "@id": "_:b53iddOtlocdOtgovresourcesinstances21291797"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/projectedProvisionDate": [
+        {
+          "@value": "2003"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/extent": [
+        {
+          "@id": "_:b61iddOtlocdOtgovresourcesinstances21291797"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/media": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/mediaTypes/c"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/carrier": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/carriers/cr"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/note": [
+        {
+          "@id": "_:b77iddOtlocdOtgovresourcesinstances21291797"
+        }
+      ],
+      "http://purl.org/dc/terms/isPartOf": [
+        {
+          "@id": "http://id.loc.gov/resources/instances"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/instanceOf": [
+        {
+          "@id": "http://id.loc.gov/resources/works/21291797"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/adminMetadata": [
+        {
+          "@id": "_:b107iddOtlocdOtgovresourcesinstances21291797"
+        },
+        {
+          "@id": "_:b128iddOtlocdOtgovresourcesinstances21291797"
+        },
+        {
+          "@id": "_:b138iddOtlocdOtgovresourcesinstances21291797"
+        },
+        {
+          "@id": "_:b160iddOtlocdOtgovresourcesinstances21291797"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/descriptionConventions/rda",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/DescriptionConventions"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Resource description and access"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "rda"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/organizations/dlc",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Agent",
+        "http://id.loc.gov/ontologies/bibframe/Organization",
+        "http://id.loc.gov/ontologies/bibframe/Organization"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "United States, Library of Congress"
+        },
+        {
+          "@value": "United States, Library of Congress"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/code",
+          "@value": "DLC"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+          "@value": "dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+          "@value": "US-dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/code",
+          "@value": "DLC"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+          "@value": "dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+          "@value": "US-dlc"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/mediaTypes/c",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Media"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "computer"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "c"
+        }
+      ]
+    },
+    {
+      "@id": "_:b103iddOtlocdOtgovresourcesinstances21291797",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Title"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/mainTitle": [
+        {
+          "@value": "House of earth and blood"
+        }
+      ]
+    },
+    {
+      "@id": "_:b61iddOtlocdOtgovresourcesinstances21291797",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Extent"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "1 online resource"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/descriptionConventions/isbd",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/DescriptionConventions"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "ISBD: International standard bibliographic description"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "isbd"
+        }
+      ]
+    },
+    {
+      "@id": "_:b39iddOtlocdOtgovresourcesinstances21291797",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Isbn"
+      ],
+      "http://www.w3.org/1999/02/22-rdf-syntax-ns#value": [
+        {
+          "@value": "9781635574043"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/status": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/mstatus/cancinv"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/qualifier": [
+        {
+          "@value": "hardback"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/organizations/dlcmrc",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Agent",
+        "http://id.loc.gov/ontologies/bibframe/Organization"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "United States, Library of Congress, Network Development and MARC Standards Office"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/code",
+          "@value": "DLC-MRC"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+          "@value": "dlcmrc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+          "@value": "US-dlcmrc"
+        }
+      ]
+    },
+    {
+      "@id": "_:b10iddOtlocdOtgovresourcesinstances21291797",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/ProvisionActivity",
+        "http://id.loc.gov/ontologies/bibframe/Publication"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/date": [
+        {
+          "@type": "http://id.loc.gov/datatypes/edtf",
+          "@value": "2020"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/place": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/countries/nyu"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/simplePlace": [
+        {
+          "@value": "New York"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/simpleAgent": [
+        {
+          "@value": "Bloomsbury Publishing"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/simpleDate": [
+        {
+          "@value": "2020"
+        }
+      ]
+    },
+    {
+      "@id": "_:b175iddOtlocdOtgovresourcesinstances21291797",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Local"
+      ],
+      "http://www.w3.org/1999/02/22-rdf-syntax-ns#value": [
+        {
+          "@value": "21291797"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/assigner": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/organizations/dlc"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/languages/eng",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Language"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@language": "en",
+          "@value": "English"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#string",
+          "@value": "eng"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/mstatus/cancinv",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Status"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "canceled or invalid"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "cancinv"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/rwo/agents/n2012025986",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Agent",
+        "http://id.loc.gov/ontologies/bibframe/Person"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Maas, Sarah J."
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/marcKey": [
+        {
+          "@value": "1001 $aMaas, Sarah J."
+        }
+      ]
+    },
+    {
+      "@id": "_:b77iddOtlocdOtgovresourcesinstances21291797",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Note",
+        "http://id.loc.gov/vocabulary/mnotetype/descsource"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Description based on print version record and CIP data provided by publisher; resource not viewed"
+        }
+      ]
+    },
+    {
+      "@id": "_:b138iddOtlocdOtgovresourcesinstances21291797",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/status": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/mstatus/c"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/agent": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/organizations/dlcmrc"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/generationProcess": [
+        {
+          "@id": "https://github.com/lcnetdev/marc2bibframe2/releases/tag/v2.7.0"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/date": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "@value": "2024-08-02T07:27:38.384617-04:00"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/issuance/mono",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Issuance"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "single unit"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "mono"
+        }
+      ]
+    },
+    {
+      "@id": "_:b87iddOtlocdOtgovresourcesinstances21291797",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Contribution",
+        "http://id.loc.gov/ontologies/bibframe/PrimaryContribution"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/agent": [
+        {
+          "@id": "http://id.loc.gov/rwo/agents/n2012025986"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/role": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/relators/aut"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/mstatus/c",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Status",
+        "http://id.loc.gov/ontologies/bibframe/Status"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "changed"
+        },
+        {
+          "@value": "changed"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "c"
+        },
+        {
+          "@value": "c"
+        }
+      ]
+    },
+    {
+      "@id": "_:b33iddOtlocdOtgovresourcesinstances21291797",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Isbn"
+      ],
+      "http://www.w3.org/1999/02/22-rdf-syntax-ns#value": [
+        {
+          "@value": "9781635574050"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/qualifier": [
+        {
+          "@value": "ebook"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/marcauthen/pcc",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/DescriptionAuthentication"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Program for Cooperative Cataloging"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "pcc"
+        }
+      ]
+    },
+    {
+      "@id": "_:b53iddOtlocdOtgovresourcesinstances21291797",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Title"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/mainTitle": [
+        {
+          "@value": "House of earth and blood"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/subtitle": [
+        {
+          "@value": "a Crescent City novel"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/mstatus/n",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Status"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "new"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "n"
+        }
+      ]
+    },
+    {
+      "@id": "_:b107iddOtlocdOtgovresourcesinstances21291797",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/status": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/mstatus/n"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/date": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#date",
+          "@value": "2019-11-06"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/agent": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/organizations/dlc"
+        }
+      ]
+    }
+  ]
+}

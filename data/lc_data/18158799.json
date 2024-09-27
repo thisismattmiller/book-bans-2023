@@ -1,0 +1,1689 @@
+{
+  "work": [
+    {
+      "@id": "_:b176iddOtlocdOtgovresourcesworks18158799",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Title"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/mainTitle": [
+        {
+          "@value": "Ivy"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/resources/instances/18158799",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Instance"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/title": [
+        {
+          "@id": "_:b176iddOtlocdOtgovresourcesworks18158799"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/publicationStatement": [
+        {
+          "@value": "[Portland, OR]: Sarah Oleksyk, [2005-]"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/mstatus/uba",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Status"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "used by assigner"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "uba"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/mserialpubtype/periodical",
+      "@type": [
+        "http://id.loc.gov/ontologies/bflc/SerialPubType"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "periodical"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "periodical"
+        }
+      ]
+    },
+    {
+      "@id": "_:b120iddOtlocdOtgovresourcesworks18158799",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Topic",
+        "http://www.loc.gov/mads/rdf/v1#ComplexSubject"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Runaway teenagers--Comic books, strips, etc."
+        }
+      ],
+      "http://www.loc.gov/mads/rdf/v1#authoritativeLabel": [
+        {
+          "@value": "Runaway teenagers--Comic books, strips, etc."
+        }
+      ],
+      "http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme": [
+        {
+          "@id": "http://id.loc.gov/authorities/subjects"
+        }
+      ],
+      "http://www.loc.gov/mads/rdf/v1#componentList": [
+        {
+          "@list": [
+            {
+              "@id": "http://id.loc.gov/authorities/subjects/sh85115844"
+            },
+            {
+              "@id": "http://id.loc.gov/authorities/subjects/sh99001401"
+            }
+          ]
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/aap-normalized": [
+        {
+          "@value": "runawayteenagerscomicbooksstripsetc"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/source": [
+        {
+          "@id": "http://id.loc.gov/authorities/subjects"
+        }
+      ]
+    },
+    {
+      "@id": "_:b213iddOtlocdOtgovresourcesworks18158799",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/status": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/mstatus/c"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/agent": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/organizations/dlcmrc"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/generationProcess": [
+        {
+          "@id": "https://github.com/lcnetdev/marc2bibframe2/releases/tag/v2.7.0"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/date": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "@value": "2024-08-02T13:46:06.892011-04:00"
+        }
+      ]
+    },
+    {
+      "@id": "_:b92iddOtlocdOtgovresourcesworks18158799",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Topic",
+        "http://www.loc.gov/mads/rdf/v1#ComplexSubject"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Teenage artists--Comic books, strips, etc."
+        }
+      ],
+      "http://www.loc.gov/mads/rdf/v1#authoritativeLabel": [
+        {
+          "@value": "Teenage artists--Comic books, strips, etc."
+        }
+      ],
+      "http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme": [
+        {
+          "@id": "http://id.loc.gov/authorities/subjects"
+        }
+      ],
+      "http://www.loc.gov/mads/rdf/v1#componentList": [
+        {
+          "@list": [
+            {
+              "@id": "http://id.loc.gov/authorities/subjects/sh87006835"
+            },
+            {
+              "@id": "http://id.loc.gov/authorities/subjects/sh99001401"
+            }
+          ]
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/aap-normalized": [
+        {
+          "@value": "teenageartistscomicbooksstripsetc"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/source": [
+        {
+          "@id": "http://id.loc.gov/authorities/subjects"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/authorities/subjects/sh99001401",
+      "@type": [
+        "http://www.loc.gov/mads/rdf/v1#GenreForm",
+        "http://www.loc.gov/mads/rdf/v1#GenreForm",
+        "http://www.loc.gov/mads/rdf/v1#GenreForm"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@language": "en",
+          "@value": "Comic books, strips, etc."
+        },
+        {
+          "@language": "en",
+          "@value": "Comic books, strips, etc."
+        },
+        {
+          "@language": "en",
+          "@value": "Comic books, strips, etc."
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/marcKey": [
+        {
+          "@value": "185  $vComic books, strips, etc."
+        },
+        {
+          "@value": "185  $vComic books, strips, etc."
+        },
+        {
+          "@value": "185  $vComic books, strips, etc."
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/descriptionConventions/rda",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/DescriptionConventions"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Resource description and access"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "rda"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/resources/works/18158799",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Work",
+        "http://id.loc.gov/ontologies/bibframe/Text",
+        "http://id.loc.gov/ontologies/bibframe/Serial"
+      ],
+      "http://id.loc.gov/ontologies/bflc/aap": [
+        {
+          "@value": "Ivy"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/aap-normalized": [
+        {
+          "@value": "ivy"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/language": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/languages/eng"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/serialPubType": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/mserialpubtype/periodical"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/notation": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/mscript/a"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/classification": [
+        {
+          "@id": "_:b28iddOtlocdOtgovresourcesworks18158799"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/title": [
+        {
+          "@id": "_:b48iddOtlocdOtgovresourcesworks18158799"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/content": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/contentTypes/txt"
+        },
+        {
+          "@id": "http://id.loc.gov/vocabulary/contentTypes/sti"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/subject": [
+        {
+          "@id": "_:b64iddOtlocdOtgovresourcesworks18158799"
+        },
+        {
+          "@id": "_:b92iddOtlocdOtgovresourcesworks18158799"
+        },
+        {
+          "@id": "_:b120iddOtlocdOtgovresourcesworks18158799"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/genreForm": [
+        {
+          "@id": "http://id.loc.gov/authorities/genreForms/gf2014026266"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/contribution": [
+        {
+          "@id": "_:b154iddOtlocdOtgovresourcesworks18158799"
+        }
+      ],
+      "http://purl.org/dc/terms/isPartOf": [
+        {
+          "@id": "http://id.loc.gov/resources/works"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/hasInstance": [
+        {
+          "@id": "http://id.loc.gov/resources/instances/18158799"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/adminMetadata": [
+        {
+          "@id": "_:b182iddOtlocdOtgovresourcesworks18158799"
+        },
+        {
+          "@id": "_:b203iddOtlocdOtgovresourcesworks18158799"
+        },
+        {
+          "@id": "_:b213iddOtlocdOtgovresourcesworks18158799"
+        },
+        {
+          "@id": "_:b235iddOtlocdOtgovresourcesworks18158799"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/organizations/dlc",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Organization",
+        "http://id.loc.gov/ontologies/bibframe/Agent",
+        "http://id.loc.gov/ontologies/bibframe/Organization",
+        "http://id.loc.gov/ontologies/bibframe/Organization"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "United States, Library of Congress"
+        },
+        {
+          "@value": "United States, Library of Congress"
+        },
+        {
+          "@value": "United States, Library of Congress"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/code",
+          "@value": "DLC"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+          "@value": "dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+          "@value": "US-dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/code",
+          "@value": "DLC"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+          "@value": "dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+          "@value": "US-dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/code",
+          "@value": "DLC"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+          "@value": "dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+          "@value": "US-dlc"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/mscript/a",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Script"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Latin"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "a"
+        }
+      ]
+    },
+    {
+      "@id": "_:b28iddOtlocdOtgovresourcesworks18158799",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/ClassificationLcc"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/classificationPortion": [
+        {
+          "@value": "Comic Book 10441"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/assigner": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/organizations/dlc"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/status": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/mstatus/uba"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/authorities/subjects/sh85115844",
+      "@type": [
+        "http://www.loc.gov/mads/rdf/v1#Topic"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@language": "en",
+          "@value": "Runaway teenagers"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/marcKey": [
+        {
+          "@value": "150  $aRunaway teenagers"
+        }
+      ]
+    },
+    {
+      "@id": "_:b48iddOtlocdOtgovresourcesworks18158799",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Title"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/mainTitle": [
+        {
+          "@value": "Ivy"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/contentTypes/sti",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Content"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "still image"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "sti"
+        }
+      ]
+    },
+    {
+      "@id": "_:b264iddOtlocdOtgovresourcesworks18158799",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Note",
+        "http://id.loc.gov/vocabulary/mnotetype/metaentry"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "0 - successive"
+        }
+      ]
+    },
+    {
+      "@id": "_:b163iddOtlocdOtgovresourcesworks18158799",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Role"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "writer"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/languages/eng",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Language",
+        "http://id.loc.gov/ontologies/bibframe/Language"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@language": "en",
+          "@value": "English"
+        },
+        {
+          "@language": "en",
+          "@value": "English"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#string",
+          "@value": "eng"
+        },
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#string",
+          "@value": "eng"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/authorities/subjects/sh85000957",
+      "@type": [
+        "http://www.loc.gov/mads/rdf/v1#Topic"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@language": "en",
+          "@value": "Teenage girls"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/marcKey": [
+        {
+          "@value": "150  $aTeenage girls"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/organizations/dlcmrc",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Agent",
+        "http://id.loc.gov/ontologies/bibframe/Organization"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "United States, Library of Congress, Network Development and MARC Standards Office"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/code",
+          "@value": "DLC-MRC"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+          "@value": "dlcmrc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+          "@value": "US-dlcmrc"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/rwo/agents/no2011164478",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Agent",
+        "http://id.loc.gov/ontologies/bibframe/Person"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Oleksyk, Sarah"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/marcKey": [
+        {
+          "@value": "1001 $aOleksyk, Sarah"
+        }
+      ]
+    },
+    {
+      "@id": "_:b182iddOtlocdOtgovresourcesworks18158799",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/status": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/mstatus/n"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/date": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#date",
+          "@value": "2014-05-21"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/agent": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/organizations/dlc"
+        }
+      ]
+    },
+    {
+      "@id": "_:b203iddOtlocdOtgovresourcesworks18158799",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/status": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/mstatus/c"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/date": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "@value": "2020-08-25T14:42:19"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/descriptionConventions/isbd",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/DescriptionConventions"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "ISBD: International standard bibliographic description"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "isbd"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/menclvl/7",
+      "@type": [
+        "http://id.loc.gov/ontologies/bflc/EncodingLevel"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "minimal"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "7"
+        }
+      ]
+    },
+    {
+      "@id": "_:b64iddOtlocdOtgovresourcesworks18158799",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Topic",
+        "http://www.loc.gov/mads/rdf/v1#ComplexSubject"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Teenage girls--Comic books, strips, etc."
+        }
+      ],
+      "http://www.loc.gov/mads/rdf/v1#authoritativeLabel": [
+        {
+          "@value": "Teenage girls--Comic books, strips, etc."
+        }
+      ],
+      "http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme": [
+        {
+          "@id": "http://id.loc.gov/authorities/subjects"
+        }
+      ],
+      "http://www.loc.gov/mads/rdf/v1#componentList": [
+        {
+          "@list": [
+            {
+              "@id": "http://id.loc.gov/authorities/subjects/sh85000957"
+            },
+            {
+              "@id": "http://id.loc.gov/authorities/subjects/sh99001401"
+            }
+          ]
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/aap-normalized": [
+        {
+          "@value": "teenagegirlscomicbooksstripsetc"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/source": [
+        {
+          "@id": "http://id.loc.gov/authorities/subjects"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/mstatus/c",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Status",
+        "http://id.loc.gov/ontologies/bibframe/Status"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "changed"
+        },
+        {
+          "@value": "changed"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "c"
+        },
+        {
+          "@value": "c"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/contentTypes/txt",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Content"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "text"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "txt"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/authorities/subjects/sh87006835",
+      "@type": [
+        "http://www.loc.gov/mads/rdf/v1#Topic"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@language": "en",
+          "@value": "Teenage artists"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/marcKey": [
+        {
+          "@value": "150 0$aTeenage artists"
+        }
+      ]
+    },
+    {
+      "@id": "_:b250iddOtlocdOtgovresourcesworks18158799",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Local"
+      ],
+      "http://www.w3.org/1999/02/22-rdf-syntax-ns#value": [
+        {
+          "@value": "18158799"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/assigner": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/organizations/dlc"
+        }
+      ]
+    },
+    {
+      "@id": "_:b154iddOtlocdOtgovresourcesworks18158799",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Contribution"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/agent": [
+        {
+          "@id": "http://id.loc.gov/rwo/agents/no2011164478"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/role": [
+        {
+          "@id": "_:b163iddOtlocdOtgovresourcesworks18158799"
+        },
+        {
+          "@id": "http://id.loc.gov/vocabulary/relators/ill"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/authorities/genreForms/gf2014026266",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/GenreForm"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@language": "en",
+          "@value": "Comics (Graphic works)"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/marcKey": [
+        {
+          "@value": "155  $aComics (Graphic works)"
+        }
+      ]
+    },
+    {
+      "@id": "_:b235iddOtlocdOtgovresourcesworks18158799",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/descriptionLevel": [
+        {
+          "@id": "http://id.loc.gov/ontologies/bibframe-2-3-0/"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/encodingLevel": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/menclvl/7"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/descriptionConventions": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/descriptionConventions/isbd"
+        },
+        {
+          "@id": "http://id.loc.gov/vocabulary/descriptionConventions/rda"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/identifiedBy": [
+        {
+          "@id": "_:b250iddOtlocdOtgovresourcesworks18158799"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/note": [
+        {
+          "@id": "_:b264iddOtlocdOtgovresourcesworks18158799"
+        }
+      ],
+      "http://id.loc.gov/ontologies/lclocal/d906": [
+        {
+          "@value": "=906     $a 0 $b ibc $c serials $d u $e ncip $f 20 $g y-ilsserca"
+        }
+      ],
+      "http://id.loc.gov/ontologies/lclocal/d925": [
+        {
+          "@value": "=925  0  $a Acquire $b 1 shelf copy $x policy default 2020-08-25"
+        }
+      ],
+      "http://id.loc.gov/ontologies/lclocal/d955": [
+        {
+          "@value": "=955     $b sr03 2020-08-25"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/descriptionLanguage": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/languages/eng"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/mstatus/n",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Status"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "new"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "n"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/authorities/subjects",
+      "@type": [
+        "http://www.loc.gov/mads/rdf/v1#MADSScheme",
+        "http://id.loc.gov/ontologies/bibframe/Source",
+        "http://www.loc.gov/mads/rdf/v1#MADSScheme",
+        "http://id.loc.gov/ontologies/bibframe/Source",
+        "http://www.loc.gov/mads/rdf/v1#MADSScheme",
+        "http://id.loc.gov/ontologies/bibframe/Source"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@language": "en",
+          "@value": "Library of Congress Subject Headings"
+        },
+        {
+          "@language": "en",
+          "@value": "Library of Congress Subject Headings"
+        },
+        {
+          "@language": "en",
+          "@value": "Library of Congress Subject Headings"
+        },
+        {
+          "@language": "en",
+          "@value": "Library of Congress Subject Headings"
+        },
+        {
+          "@language": "en",
+          "@value": "Library of Congress Subject Headings"
+        },
+        {
+          "@language": "en",
+          "@value": "Library of Congress Subject Headings"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/relators/ill",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Role"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Illustrator"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "ill"
+        }
+      ]
+    }
+  ],
+  "instance": [
+    {
+      "@id": "http://id.loc.gov/rwo/agents/n2015020748",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Agent",
+        "http://id.loc.gov/ontologies/bibframe/Organization"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Small Press Expo Collection (Library of Congress)"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/marcKey": [
+        {
+          "@value": "1102 $aSmall Press Expo Collection (Library of Congress)"
+        }
+      ]
+    },
+    {
+      "@id": "_:b157iddOtlocdOtgovresourcesinstances18158799",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/status": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/mstatus/c"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/agent": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/organizations/dlcmrc"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/generationProcess": [
+        {
+          "@id": "https://github.com/lcnetdev/marc2bibframe2/releases/tag/v2.7.0"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/date": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "@value": "2024-08-02T13:46:06.892011-04:00"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/resources/instances/18158799",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Instance"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/issuance": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/issuance/serl"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/provisionActivity": [
+        {
+          "@id": "_:b10iddOtlocdOtgovresourcesinstances18158799"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/publicationStatement": [
+        {
+          "@value": "[Portland, OR]: Sarah Oleksyk, [2005-]"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/title": [
+        {
+          "@id": "_:b35iddOtlocdOtgovresourcesinstances18158799"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/extent": [
+        {
+          "@id": "_:b39iddOtlocdOtgovresourcesinstances18158799"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/note": [
+        {
+          "@id": "_:b43iddOtlocdOtgovresourcesinstances18158799"
+        },
+        {
+          "@id": "_:b62iddOtlocdOtgovresourcesinstances18158799"
+        },
+        {
+          "@id": "_:b67iddOtlocdOtgovresourcesinstances18158799"
+        },
+        {
+          "@id": "_:b71iddOtlocdOtgovresourcesinstances18158799"
+        },
+        {
+          "@id": "_:b76iddOtlocdOtgovresourcesinstances18158799"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/dimensions": [
+        {
+          "@value": "22 cm"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/media": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/mediaTypes/n"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/carrier": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/carriers/nc"
+        }
+      ],
+      "http://purl.org/dc/terms/isPartOf": [
+        {
+          "@id": "http://id.loc.gov/resources/instances"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/instanceOf": [
+        {
+          "@id": "http://id.loc.gov/resources/works/18158799"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/hasItem": [
+        {
+          "@id": "http://id.loc.gov/resources/items/18158799"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/adminMetadata": [
+        {
+          "@id": "_:b126iddOtlocdOtgovresourcesinstances18158799"
+        },
+        {
+          "@id": "_:b147iddOtlocdOtgovresourcesinstances18158799"
+        },
+        {
+          "@id": "_:b157iddOtlocdOtgovresourcesinstances18158799"
+        },
+        {
+          "@id": "_:b179iddOtlocdOtgovresourcesinstances18158799"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/mstatus/ceased",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Status"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "ceased"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "ceased"
+        }
+      ]
+    },
+    {
+      "@id": "_:b10iddOtlocdOtgovresourcesinstances18158799",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/ProvisionActivity",
+        "http://id.loc.gov/ontologies/bibframe/Publication"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/date": [
+        {
+          "@type": "http://id.loc.gov/datatypes/edtf",
+          "@value": "2005/2007"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/status": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/mstatus/ceased"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/place": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/countries/oru"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/simplePlace": [
+        {
+          "@value": "[Portland, OR]"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/simpleAgent": [
+        {
+          "@value": "Sarah Oleksyk"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/simpleDate": [
+        {
+          "@value": "[2005-]"
+        }
+      ]
+    },
+    {
+      "@id": "_:b35iddOtlocdOtgovresourcesinstances18158799",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Title"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/mainTitle": [
+        {
+          "@value": "Ivy"
+        }
+      ]
+    },
+    {
+      "@id": "_:b126iddOtlocdOtgovresourcesinstances18158799",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/status": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/mstatus/n"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/date": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#date",
+          "@value": "2014-05-21"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/agent": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/organizations/dlc"
+        }
+      ]
+    },
+    {
+      "@id": "_:b39iddOtlocdOtgovresourcesinstances18158799",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Extent"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "5 numbers"
+        }
+      ]
+    },
+    {
+      "@id": "_:b67iddOtlocdOtgovresourcesinstances18158799",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Note"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Collected and reprinted with additional material in a cumulative volume published by Oni Press in 2011"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/resources/works/18158799",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Work"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Ivy"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/contribution": [
+        {
+          "@id": "_:b86iddOtlocdOtgovresourcesinstances18158799"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/title": [
+        {
+          "@id": "_:b105iddOtlocdOtgovresourcesinstances18158799"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/countries/oru",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Place"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@language": "en",
+          "@value": "Oregon"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#string",
+          "@value": "oru"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/resources/items/18158799",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Item"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/contribution": [
+        {
+          "@id": "_:b111iddOtlocdOtgovresourcesinstances18158799"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/organizations/dlc",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Agent",
+        "http://id.loc.gov/ontologies/bibframe/Organization",
+        "http://id.loc.gov/ontologies/bibframe/Organization"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "United States, Library of Congress"
+        },
+        {
+          "@value": "United States, Library of Congress"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/code",
+          "@value": "DLC"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+          "@value": "dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+          "@value": "US-dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/code",
+          "@value": "DLC"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+          "@value": "dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+          "@value": "US-dlc"
+        }
+      ]
+    },
+    {
+      "@id": "_:b147iddOtlocdOtgovresourcesinstances18158799",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/status": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/mstatus/c"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/date": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "@value": "2020-08-25T14:42:19"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/descriptionConventions/rda",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/DescriptionConventions"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Resource description and access"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "rda"
+        }
+      ]
+    },
+    {
+      "@id": "_:b62iddOtlocdOtgovresourcesinstances18158799",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Note",
+        "http://id.loc.gov/vocabulary/mnotetype/number"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Began in 2005?; ceased in 2007?"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/issuance/serl",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Issuance"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "serial"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "serl"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/mediaTypes/n",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Media"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "unmediated"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "n"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/descriptionConventions/isbd",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/DescriptionConventions"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "ISBD: International standard bibliographic description"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "isbd"
+        }
+      ]
+    },
+    {
+      "@id": "_:b105iddOtlocdOtgovresourcesinstances18158799",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Title"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/mainTitle": [
+        {
+          "@value": "Ivy"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/organizations/dlcmrc",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Agent",
+        "http://id.loc.gov/ontologies/bibframe/Organization"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "United States, Library of Congress, Network Development and MARC Standards Office"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/code",
+          "@value": "DLC-MRC"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+          "@value": "dlcmrc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+          "@value": "US-dlcmrc"
+        }
+      ]
+    },
+    {
+      "@id": "_:b43iddOtlocdOtgovresourcesinstances18158799",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Note",
+        "http://id.loc.gov/vocabulary/mnotetype/physical"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "black-and-white illustrations"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/rwo/agents/no2011164478",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Agent",
+        "http://id.loc.gov/ontologies/bibframe/Person"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Oleksyk, Sarah"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/marcKey": [
+        {
+          "@value": "1001 $aOleksyk, Sarah"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/languages/eng",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Language"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@language": "en",
+          "@value": "English"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#string",
+          "@value": "eng"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/carriers/nc",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Carrier"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "volume"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "nc"
+        }
+      ]
+    },
+    {
+      "@id": "_:b71iddOtlocdOtgovresourcesinstances18158799",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Note",
+        "http://id.loc.gov/vocabulary/mnotetype/descsource"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Description based on: Chapter one ([undated]); title from cover"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/relators/ctb",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Role"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Contributor"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "ctb"
+        }
+      ]
+    },
+    {
+      "@id": "_:b76iddOtlocdOtgovresourcesinstances18158799",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Note",
+        "http://id.loc.gov/vocabulary/mnotetype/descsource"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Latest issue consulted: Chapter one ([undated])"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/menclvl/7",
+      "@type": [
+        "http://id.loc.gov/ontologies/bflc/EncodingLevel"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "minimal"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "7"
+        }
+      ]
+    },
+    {
+      "@id": "_:b179iddOtlocdOtgovresourcesinstances18158799",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/descriptionLevel": [
+        {
+          "@id": "http://id.loc.gov/ontologies/bibframe-2-3-0/"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/encodingLevel": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/menclvl/7"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/descriptionConventions": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/descriptionConventions/isbd"
+        },
+        {
+          "@id": "http://id.loc.gov/vocabulary/descriptionConventions/rda"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/identifiedBy": [
+        {
+          "@id": "_:b194iddOtlocdOtgovresourcesinstances18158799"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/note": [
+        {
+          "@id": "_:b208iddOtlocdOtgovresourcesinstances18158799"
+        }
+      ],
+      "http://id.loc.gov/ontologies/lclocal/d906": [
+        {
+          "@value": "=906     $a 0 $b ibc $c serials $d u $e ncip $f 20 $g y-ilsserca"
+        }
+      ],
+      "http://id.loc.gov/ontologies/lclocal/d925": [
+        {
+          "@value": "=925  0  $a Acquire $b 1 shelf copy $x policy default 2020-08-25"
+        }
+      ],
+      "http://id.loc.gov/ontologies/lclocal/d955": [
+        {
+          "@value": "=955     $b sr03 2020-08-25"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/descriptionLanguage": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/languages/eng"
+        }
+      ]
+    },
+    {
+      "@id": "_:b208iddOtlocdOtgovresourcesinstances18158799",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Note",
+        "http://id.loc.gov/vocabulary/mnotetype/metaentry"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "0 - successive"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/mstatus/c",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Status",
+        "http://id.loc.gov/ontologies/bibframe/Status"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "changed"
+        },
+        {
+          "@value": "changed"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "c"
+        },
+        {
+          "@value": "c"
+        }
+      ]
+    },
+    {
+      "@id": "_:b111iddOtlocdOtgovresourcesinstances18158799",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Contribution"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/agent": [
+        {
+          "@id": "http://id.loc.gov/rwo/agents/n2015020748"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/role": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/relators/ctb"
+        }
+      ]
+    },
+    {
+      "@id": "_:b86iddOtlocdOtgovresourcesinstances18158799",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Contribution"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/agent": [
+        {
+          "@id": "http://id.loc.gov/rwo/agents/no2011164478"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/role": [
+        {
+          "@id": "_:b95iddOtlocdOtgovresourcesinstances18158799"
+        },
+        {
+          "@id": "http://id.loc.gov/vocabulary/relators/ill"
+        }
+      ]
+    },
+    {
+      "@id": "_:b95iddOtlocdOtgovresourcesinstances18158799",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Role"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "writer"
+        }
+      ]
+    },
+    {
+      "@id": "_:b194iddOtlocdOtgovresourcesinstances18158799",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Local"
+      ],
+      "http://www.w3.org/1999/02/22-rdf-syntax-ns#value": [
+        {
+          "@value": "18158799"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/assigner": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/organizations/dlc"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/mstatus/n",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Status"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "new"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "n"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/relators/ill",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Role"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Illustrator"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "ill"
+        }
+      ]
+    }
+  ]
+}

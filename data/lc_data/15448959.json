@@ -1,0 +1,1779 @@
+{
+  "work": [
+    {
+      "@id": "http://id.loc.gov/resources/works/15448959",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Work",
+        "http://id.loc.gov/ontologies/bibframe/Text",
+        "http://id.loc.gov/ontologies/bibframe/Monograph"
+      ],
+      "http://id.loc.gov/ontologies/bflc/aap": [
+        {
+          "@value": "Picoult, Jodi, 1966- Handle with care"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/aap-normalized": [
+        {
+          "@value": "picoultjodi1966handlewithcare"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/content": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/contentTypes/txt"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/language": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/languages/eng"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/genreForm": [
+        {
+          "@id": "http://id.loc.gov/authorities/genreForms/gf2014026339"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/classification": [
+        {
+          "@id": "_:b28iddOtlocdOtgovresourcesworks15448959"
+        },
+        {
+          "@id": "_:b50iddOtlocdOtgovresourcesworks15448959"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/contribution": [
+        {
+          "@id": "_:b70iddOtlocdOtgovresourcesworks15448959"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/title": [
+        {
+          "@id": "_:b86iddOtlocdOtgovresourcesworks15448959"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/subject": [
+        {
+          "@id": "_:b90iddOtlocdOtgovresourcesworks15448959"
+        },
+        {
+          "@id": "_:b118iddOtlocdOtgovresourcesworks15448959"
+        },
+        {
+          "@id": "_:b146iddOtlocdOtgovresourcesworks15448959"
+        },
+        {
+          "@id": "_:b174iddOtlocdOtgovresourcesworks15448959"
+        },
+        {
+          "@id": "_:b202iddOtlocdOtgovresourcesworks15448959"
+        },
+        {
+          "@id": "_:b235iddOtlocdOtgovresourcesworks15448959"
+        }
+      ],
+      "http://purl.org/dc/terms/isPartOf": [
+        {
+          "@id": "http://id.loc.gov/resources/works"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/hasInstance": [
+        {
+          "@id": "http://id.loc.gov/resources/instances/15448959"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/adminMetadata": [
+        {
+          "@id": "_:b279iddOtlocdOtgovresourcesworks15448959"
+        },
+        {
+          "@id": "_:b300iddOtlocdOtgovresourcesworks15448959"
+        },
+        {
+          "@id": "_:b320iddOtlocdOtgovresourcesworks15448959"
+        },
+        {
+          "@id": "_:b342iddOtlocdOtgovresourcesworks15448959"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/authorities/genreForms/gf2014026339",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/GenreForm"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@language": "en",
+          "@value": "Fiction"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/marcKey": [
+        {
+          "@value": "155  $aFiction"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/mstatus/uba",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Status"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "used by assigner"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "uba"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/authorities/subjects/sh85098023",
+      "@type": [
+        "http://www.loc.gov/mads/rdf/v1#Topic"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@language": "en",
+          "@value": "Parents of children with disabilities"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/marcKey": [
+        {
+          "@value": "150  $aParents of children with disabilities"
+        }
+      ]
+    },
+    {
+      "@id": "_:b271iddOtlocdOtgovresourcesworks15448959",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Title"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/mainTitle": [
+        {
+          "@value": "Handle with care"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/subtitle": [
+        {
+          "@value": "a novel"
+        }
+      ]
+    },
+    {
+      "@id": "_:b50iddOtlocdOtgovresourcesworks15448959",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/ClassificationDdc"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/classificationPortion": [
+        {
+          "@value": "813/.54"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/source": [
+        {
+          "@id": "_:b54iddOtlocdOtgovresourcesworks15448959"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/edition": [
+        {
+          "@value": "full"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/assigner": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/organizations/dlc"
+        }
+      ]
+    },
+    {
+      "@id": "_:b300iddOtlocdOtgovresourcesworks15448959",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/status": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/mstatus/c"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/date": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "@value": "2014-11-03T09:05:10"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/descriptionModifier": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/organizations/dlc"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/descriptionConventions/aacr",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/DescriptionConventions"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Anglo-American cataloguing rules"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "aacr"
+        }
+      ]
+    },
+    {
+      "@id": "_:b28iddOtlocdOtgovresourcesworks15448959",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/ClassificationLcc"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/classificationPortion": [
+        {
+          "@value": "PS3566.I372"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/itemPortion": [
+        {
+          "@value": "H36 2009"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/assigner": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/organizations/dlc"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/status": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/mstatus/uba"
+        }
+      ]
+    },
+    {
+      "@id": "_:b279iddOtlocdOtgovresourcesworks15448959",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/status": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/mstatus/n"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/date": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#date",
+          "@value": "2008-09-12"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/agent": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/organizations/dlc"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/organizations/dlc",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Organization",
+        "http://id.loc.gov/ontologies/bibframe/Organization",
+        "http://id.loc.gov/ontologies/bibframe/Agent",
+        "http://id.loc.gov/ontologies/bibframe/Organization",
+        "http://id.loc.gov/ontologies/bibframe/Organization",
+        "http://id.loc.gov/ontologies/bibframe/Organization"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "United States, Library of Congress"
+        },
+        {
+          "@value": "United States, Library of Congress"
+        },
+        {
+          "@value": "United States, Library of Congress"
+        },
+        {
+          "@value": "United States, Library of Congress"
+        },
+        {
+          "@value": "United States, Library of Congress"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/code",
+          "@value": "DLC"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+          "@value": "dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+          "@value": "US-dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/code",
+          "@value": "DLC"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+          "@value": "dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+          "@value": "US-dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/code",
+          "@value": "DLC"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+          "@value": "dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+          "@value": "US-dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/code",
+          "@value": "DLC"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+          "@value": "dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+          "@value": "US-dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/code",
+          "@value": "DLC"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+          "@value": "dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+          "@value": "US-dlc"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/authorities/subjects/sh85087526",
+      "@type": [
+        "http://www.loc.gov/mads/rdf/v1#Topic"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@language": "en",
+          "@value": "Mothers"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/marcKey": [
+        {
+          "@value": "150  $aMothers"
+        }
+      ]
+    },
+    {
+      "@id": "_:b86iddOtlocdOtgovresourcesworks15448959",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Title"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/mainTitle": [
+        {
+          "@value": "Handle with care"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/authorities/subjects/sh89004366",
+      "@type": [
+        "http://www.loc.gov/mads/rdf/v1#Topic"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@language": "en",
+          "@value": "Wrongful life"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/marcKey": [
+        {
+          "@value": "150 0$aWrongful life"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/authorities/subjects/sh2002011487",
+      "@type": [
+        "http://www.loc.gov/mads/rdf/v1#Topic"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@language": "en",
+          "@value": "Psychology"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/marcKey": [
+        {
+          "@value": "180  $xPsychology"
+        }
+      ]
+    },
+    {
+      "@id": "_:b357iddOtlocdOtgovresourcesworks15448959",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Local"
+      ],
+      "http://www.w3.org/1999/02/22-rdf-syntax-ns#value": [
+        {
+          "@value": "15448959"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/assigner": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/organizations/dlc"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/menclvl/f",
+      "@type": [
+        "http://id.loc.gov/ontologies/bflc/EncodingLevel"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "full"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "f"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/languages/eng",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Language"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@language": "en",
+          "@value": "English"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#string",
+          "@value": "eng"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/authorities/subjects/sh99001562",
+      "@type": [
+        "http://www.loc.gov/mads/rdf/v1#GenreForm",
+        "http://www.loc.gov/mads/rdf/v1#GenreForm",
+        "http://www.loc.gov/mads/rdf/v1#GenreForm",
+        "http://www.loc.gov/mads/rdf/v1#GenreForm",
+        "http://www.loc.gov/mads/rdf/v1#GenreForm",
+        "http://www.loc.gov/mads/rdf/v1#GenreForm"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@language": "en",
+          "@value": "Fiction"
+        },
+        {
+          "@language": "en",
+          "@value": "Fiction"
+        },
+        {
+          "@language": "en",
+          "@value": "Fiction"
+        },
+        {
+          "@language": "en",
+          "@value": "Fiction"
+        },
+        {
+          "@language": "en",
+          "@value": "Fiction"
+        },
+        {
+          "@language": "en",
+          "@value": "Fiction"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/marcKey": [
+        {
+          "@value": "185  $vFiction"
+        },
+        {
+          "@value": "185  $vFiction"
+        },
+        {
+          "@value": "185  $vFiction"
+        },
+        {
+          "@value": "185  $vFiction"
+        },
+        {
+          "@value": "185  $vFiction"
+        },
+        {
+          "@value": "185  $vFiction"
+        }
+      ]
+    },
+    {
+      "@id": "_:b118iddOtlocdOtgovresourcesworks15448959",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Topic",
+        "http://www.loc.gov/mads/rdf/v1#ComplexSubject"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Wrongful life--Fiction"
+        }
+      ],
+      "http://www.loc.gov/mads/rdf/v1#authoritativeLabel": [
+        {
+          "@value": "Wrongful life--Fiction"
+        }
+      ],
+      "http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme": [
+        {
+          "@id": "http://id.loc.gov/authorities/subjects"
+        }
+      ],
+      "http://www.loc.gov/mads/rdf/v1#componentList": [
+        {
+          "@list": [
+            {
+              "@id": "http://id.loc.gov/authorities/subjects/sh89004366"
+            },
+            {
+              "@id": "http://id.loc.gov/authorities/subjects/sh99001562"
+            }
+          ]
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/aap-normalized": [
+        {
+          "@value": "wrongfullifefiction"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/source": [
+        {
+          "@id": "http://id.loc.gov/authorities/subjects"
+        }
+      ]
+    },
+    {
+      "@id": "_:b174iddOtlocdOtgovresourcesworks15448959",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Topic",
+        "http://www.loc.gov/mads/rdf/v1#ComplexSubject"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Parents of children with disabilities--Fiction"
+        }
+      ],
+      "http://www.loc.gov/mads/rdf/v1#authoritativeLabel": [
+        {
+          "@value": "Parents of children with disabilities--Fiction"
+        }
+      ],
+      "http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme": [
+        {
+          "@id": "http://id.loc.gov/authorities/subjects"
+        }
+      ],
+      "http://www.loc.gov/mads/rdf/v1#componentList": [
+        {
+          "@list": [
+            {
+              "@id": "http://id.loc.gov/authorities/subjects/sh85098023"
+            },
+            {
+              "@id": "http://id.loc.gov/authorities/subjects/sh99001562"
+            }
+          ]
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/aap-normalized": [
+        {
+          "@value": "parentsofchildrenwithdisabilitiesfiction"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/source": [
+        {
+          "@id": "http://id.loc.gov/authorities/subjects"
+        }
+      ]
+    },
+    {
+      "@id": "_:b202iddOtlocdOtgovresourcesworks15448959",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Topic",
+        "http://www.loc.gov/mads/rdf/v1#ComplexSubject"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Mothers--Psychology--Fiction"
+        }
+      ],
+      "http://www.loc.gov/mads/rdf/v1#authoritativeLabel": [
+        {
+          "@value": "Mothers--Psychology--Fiction"
+        }
+      ],
+      "http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme": [
+        {
+          "@id": "http://id.loc.gov/authorities/subjects"
+        }
+      ],
+      "http://www.loc.gov/mads/rdf/v1#componentList": [
+        {
+          "@list": [
+            {
+              "@id": "http://id.loc.gov/authorities/subjects/sh85087526"
+            },
+            {
+              "@id": "http://id.loc.gov/authorities/subjects/sh2002011487"
+            },
+            {
+              "@id": "http://id.loc.gov/authorities/subjects/sh99001562"
+            }
+          ]
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/aap-normalized": [
+        {
+          "@value": "motherspsychologyfiction"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/source": [
+        {
+          "@id": "http://id.loc.gov/authorities/subjects"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/authorities/subjects/sh85095985",
+      "@type": [
+        "http://www.loc.gov/mads/rdf/v1#Topic"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@language": "en",
+          "@value": "Osteogenesis imperfecta"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/marcKey": [
+        {
+          "@value": "150 0$aOsteogenesis imperfecta"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/authorities/subjects/sh00006099",
+      "@type": [
+        "http://www.loc.gov/mads/rdf/v1#Topic"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@language": "en",
+          "@value": "Moral and ethical aspects"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/marcKey": [
+        {
+          "@value": "180  $xMoral and ethical aspects"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/organizations/dlcmrc",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Agent",
+        "http://id.loc.gov/ontologies/bibframe/Organization"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "United States, Library of Congress, Network Development and MARC Standards Office"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/code",
+          "@value": "DLC-MRC"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+          "@value": "dlcmrc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+          "@value": "US-dlcmrc"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/relators/ctb",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Role"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Contributor"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "ctb"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/authorities/subjects/sh85101608",
+      "@type": [
+        "http://www.loc.gov/mads/rdf/v1#Topic"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@language": "en",
+          "@value": "Physician and patient"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/marcKey": [
+        {
+          "@value": "150  $aPhysician and patient"
+        }
+      ]
+    },
+    {
+      "@id": "_:b146iddOtlocdOtgovresourcesworks15448959",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Topic",
+        "http://www.loc.gov/mads/rdf/v1#ComplexSubject"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Medical care, Cost of--Fiction"
+        }
+      ],
+      "http://www.loc.gov/mads/rdf/v1#authoritativeLabel": [
+        {
+          "@value": "Medical care, Cost of--Fiction"
+        }
+      ],
+      "http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme": [
+        {
+          "@id": "http://id.loc.gov/authorities/subjects"
+        }
+      ],
+      "http://www.loc.gov/mads/rdf/v1#componentList": [
+        {
+          "@list": [
+            {
+              "@id": "http://id.loc.gov/authorities/subjects/sh85082888"
+            },
+            {
+              "@id": "http://id.loc.gov/authorities/subjects/sh99001562"
+            }
+          ]
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/aap-normalized": [
+        {
+          "@value": "medicalcarecostoffiction"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/source": [
+        {
+          "@id": "http://id.loc.gov/authorities/subjects"
+        }
+      ]
+    },
+    {
+      "@id": "_:b320iddOtlocdOtgovresourcesworks15448959",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/status": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/mstatus/c"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/agent": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/organizations/dlcmrc"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/generationProcess": [
+        {
+          "@id": "https://github.com/lcnetdev/marc2bibframe2/releases/tag/v2.7.0"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/date": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "@value": "2024-08-06T19:34:04.216851-04:00"
+        }
+      ]
+    },
+    {
+      "@id": "_:b70iddOtlocdOtgovresourcesworks15448959",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Contribution",
+        "http://id.loc.gov/ontologies/bibframe/PrimaryContribution"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/agent": [
+        {
+          "@id": "http://id.loc.gov/rwo/agents/n91118775"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/role": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/relators/ctb"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/authorities/subjects/sh85082888",
+      "@type": [
+        "http://www.loc.gov/mads/rdf/v1#Topic"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@language": "en",
+          "@value": "Medical care, Cost of"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/marcKey": [
+        {
+          "@value": "150  $aMedical care, Cost of"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/mstatus/c",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Status",
+        "http://id.loc.gov/ontologies/bibframe/Status"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "changed"
+        },
+        {
+          "@value": "changed"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "c"
+        },
+        {
+          "@value": "c"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/contentTypes/txt",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Content"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "text"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "txt"
+        }
+      ]
+    },
+    {
+      "@id": "_:b54iddOtlocdOtgovresourcesworks15448959",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Source"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "22"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/rwo/agents/n91118775",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Agent",
+        "http://id.loc.gov/ontologies/bibframe/Person"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Picoult, Jodi, 1966-"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/marcKey": [
+        {
+          "@value": "1001 $aPicoult, Jodi,$d1966-"
+        }
+      ]
+    },
+    {
+      "@id": "_:b90iddOtlocdOtgovresourcesworks15448959",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Topic",
+        "http://www.loc.gov/mads/rdf/v1#ComplexSubject"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Osteogenesis imperfecta--Fiction"
+        }
+      ],
+      "http://www.loc.gov/mads/rdf/v1#authoritativeLabel": [
+        {
+          "@value": "Osteogenesis imperfecta--Fiction"
+        }
+      ],
+      "http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme": [
+        {
+          "@id": "http://id.loc.gov/authorities/subjects"
+        }
+      ],
+      "http://www.loc.gov/mads/rdf/v1#componentList": [
+        {
+          "@list": [
+            {
+              "@id": "http://id.loc.gov/authorities/subjects/sh85095985"
+            },
+            {
+              "@id": "http://id.loc.gov/authorities/subjects/sh99001562"
+            }
+          ]
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/aap-normalized": [
+        {
+          "@value": "osteogenesisimperfectafiction"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/source": [
+        {
+          "@id": "http://id.loc.gov/authorities/subjects"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/resources/instances/15448959",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Instance"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/title": [
+        {
+          "@id": "_:b271iddOtlocdOtgovresourcesworks15448959"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/publicationStatement": [
+        {
+          "@value": "New York: Atria Books, 2009"
+        }
+      ]
+    },
+    {
+      "@id": "_:b342iddOtlocdOtgovresourcesworks15448959",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/descriptionLevel": [
+        {
+          "@id": "http://id.loc.gov/ontologies/bibframe-2-3-0/"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/encodingLevel": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/menclvl/f"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/descriptionConventions": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/descriptionConventions/aacr"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/identifiedBy": [
+        {
+          "@id": "_:b357iddOtlocdOtgovresourcesworks15448959"
+        }
+      ],
+      "http://id.loc.gov/ontologies/lclocal/d906": [
+        {
+          "@value": "=906     $a 7 $b cbc $c orignew $d 1 $e ecip $f 20 $g y-gencatlg"
+        }
+      ],
+      "http://id.loc.gov/ontologies/lclocal/d925": [
+        {
+          "@value": "=925  0  $a acquire $b 1 shelf copy $x policy default"
+        },
+        {
+          "@value": "=925  1  $a acquire $b 2 shelf copies $x policy default"
+        }
+      ],
+      "http://id.loc.gov/ontologies/lclocal/d955": [
+        {
+          "@value": "=955     $a lh39 2008-09-12 $i lh39 2008-09-12 $e lh39 2008-09-12 to CIP (Auto-Dewey); $f rg04 2009-03-10 $g rg04 2009-03-10 to BCCD $t Copy 2 to BCCD"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/mstatus/n",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Status"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "new"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "n"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/authorities/subjects",
+      "@type": [
+        "http://www.loc.gov/mads/rdf/v1#MADSScheme",
+        "http://id.loc.gov/ontologies/bibframe/Source",
+        "http://www.loc.gov/mads/rdf/v1#MADSScheme",
+        "http://id.loc.gov/ontologies/bibframe/Source",
+        "http://www.loc.gov/mads/rdf/v1#MADSScheme",
+        "http://id.loc.gov/ontologies/bibframe/Source",
+        "http://www.loc.gov/mads/rdf/v1#MADSScheme",
+        "http://id.loc.gov/ontologies/bibframe/Source",
+        "http://www.loc.gov/mads/rdf/v1#MADSScheme",
+        "http://id.loc.gov/ontologies/bibframe/Source",
+        "http://www.loc.gov/mads/rdf/v1#MADSScheme",
+        "http://id.loc.gov/ontologies/bibframe/Source"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@language": "en",
+          "@value": "Library of Congress Subject Headings"
+        },
+        {
+          "@language": "en",
+          "@value": "Library of Congress Subject Headings"
+        },
+        {
+          "@language": "en",
+          "@value": "Library of Congress Subject Headings"
+        },
+        {
+          "@language": "en",
+          "@value": "Library of Congress Subject Headings"
+        },
+        {
+          "@language": "en",
+          "@value": "Library of Congress Subject Headings"
+        },
+        {
+          "@language": "en",
+          "@value": "Library of Congress Subject Headings"
+        },
+        {
+          "@language": "en",
+          "@value": "Library of Congress Subject Headings"
+        },
+        {
+          "@language": "en",
+          "@value": "Library of Congress Subject Headings"
+        },
+        {
+          "@language": "en",
+          "@value": "Library of Congress Subject Headings"
+        },
+        {
+          "@language": "en",
+          "@value": "Library of Congress Subject Headings"
+        },
+        {
+          "@language": "en",
+          "@value": "Library of Congress Subject Headings"
+        },
+        {
+          "@language": "en",
+          "@value": "Library of Congress Subject Headings"
+        }
+      ]
+    },
+    {
+      "@id": "_:b235iddOtlocdOtgovresourcesworks15448959",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Topic",
+        "http://www.loc.gov/mads/rdf/v1#ComplexSubject"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Physician and patient--Moral and ethical aspects--Fiction"
+        }
+      ],
+      "http://www.loc.gov/mads/rdf/v1#authoritativeLabel": [
+        {
+          "@value": "Physician and patient--Moral and ethical aspects--Fiction"
+        }
+      ],
+      "http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme": [
+        {
+          "@id": "http://id.loc.gov/authorities/subjects"
+        }
+      ],
+      "http://www.loc.gov/mads/rdf/v1#componentList": [
+        {
+          "@list": [
+            {
+              "@id": "http://id.loc.gov/authorities/subjects/sh85101608"
+            },
+            {
+              "@id": "http://id.loc.gov/authorities/subjects/sh00006099"
+            },
+            {
+              "@id": "http://id.loc.gov/authorities/subjects/sh99001562"
+            }
+          ]
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/aap-normalized": [
+        {
+          "@value": "physicianandpatientmoralandethicalaspectsfiction"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/source": [
+        {
+          "@id": "http://id.loc.gov/authorities/subjects"
+        }
+      ]
+    }
+  ],
+  "instance": [
+    {
+      "@id": "http://id.loc.gov/resources/works/15448959",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Work"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Picoult, Jodi, 1966- Handle with care"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/contribution": [
+        {
+          "@id": "_:b72iddOtlocdOtgovresourcesinstances15448959"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/title": [
+        {
+          "@id": "_:b88iddOtlocdOtgovresourcesinstances15448959"
+        }
+      ]
+    },
+    {
+      "@id": "_:b35iddOtlocdOtgovresourcesinstances15448959",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Lccn"
+      ],
+      "http://www.w3.org/1999/02/22-rdf-syntax-ns#value": [
+        {
+          "@value": "  2008038339"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/countries/nyu",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Place"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@language": "en",
+          "@value": "New York (State)"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#string",
+          "@value": "nyu"
+        }
+      ]
+    },
+    {
+      "@id": "_:b45iddOtlocdOtgovresourcesinstances15448959",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Isbn"
+      ],
+      "http://www.w3.org/1999/02/22-rdf-syntax-ns#value": [
+        {
+          "@value": "0743296419"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/qualifier": [
+        {
+          "@value": "alk. paper"
+        }
+      ]
+    },
+    {
+      "@id": "_:b72iddOtlocdOtgovresourcesinstances15448959",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Contribution",
+        "http://id.loc.gov/ontologies/bibframe/PrimaryContribution"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/agent": [
+        {
+          "@id": "http://id.loc.gov/rwo/agents/n91118775"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/role": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/relators/ctb"
+        }
+      ]
+    },
+    {
+      "@id": "_:b61iddOtlocdOtgovresourcesinstances15448959",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Extent"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "viii, 477 p."
+        }
+      ]
+    },
+    {
+      "@id": "_:b39iddOtlocdOtgovresourcesinstances15448959",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Isbn"
+      ],
+      "http://www.w3.org/1999/02/22-rdf-syntax-ns#value": [
+        {
+          "@value": "9780743296410"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/qualifier": [
+        {
+          "@value": "alk. paper"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/organizations/dlc",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Agent",
+        "http://id.loc.gov/ontologies/bibframe/Organization",
+        "http://id.loc.gov/ontologies/bibframe/Organization",
+        "http://id.loc.gov/ontologies/bibframe/Organization"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "United States, Library of Congress"
+        },
+        {
+          "@value": "United States, Library of Congress"
+        },
+        {
+          "@value": "United States, Library of Congress"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/code",
+          "@value": "DLC"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+          "@value": "dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+          "@value": "US-dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/code",
+          "@value": "DLC"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+          "@value": "dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+          "@value": "US-dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/code",
+          "@value": "DLC"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+          "@value": "dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+          "@value": "US-dlc"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/descriptionConventions/aacr",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/DescriptionConventions"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Anglo-American cataloguing rules"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "aacr"
+        }
+      ]
+    },
+    {
+      "@id": "_:b170iddOtlocdOtgovresourcesinstances15448959",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Local"
+      ],
+      "http://www.w3.org/1999/02/22-rdf-syntax-ns#value": [
+        {
+          "@value": "15448959"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/assigner": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/organizations/dlc"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/menclvl/f",
+      "@type": [
+        "http://id.loc.gov/ontologies/bflc/EncodingLevel"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "full"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "f"
+        }
+      ]
+    },
+    {
+      "@id": "_:b88iddOtlocdOtgovresourcesinstances15448959",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Title"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/mainTitle": [
+        {
+          "@value": "Handle with care"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/mediaTypes/n",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Media"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "unmediated"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "n"
+        }
+      ]
+    },
+    {
+      "@id": "_:b53iddOtlocdOtgovresourcesinstances15448959",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Title"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/mainTitle": [
+        {
+          "@value": "Handle with care"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/subtitle": [
+        {
+          "@value": "a novel"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/organizations/dlcmrc",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Agent",
+        "http://id.loc.gov/ontologies/bibframe/Organization"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "United States, Library of Congress, Network Development and MARC Standards Office"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/code",
+          "@value": "DLC-MRC"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+          "@value": "dlcmrc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+          "@value": "US-dlcmrc"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/relators/ctb",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Role"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Contributor"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "ctb"
+        }
+      ]
+    },
+    {
+      "@id": "_:b92iddOtlocdOtgovresourcesinstances15448959",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/status": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/mstatus/n"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/date": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#date",
+          "@value": "2008-09-12"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/agent": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/organizations/dlc"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/issuance/mono",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Issuance"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "single unit"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "mono"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/mstatus/c",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Status",
+        "http://id.loc.gov/ontologies/bibframe/Status"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "changed"
+        },
+        {
+          "@value": "changed"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "c"
+        },
+        {
+          "@value": "c"
+        }
+      ]
+    },
+    {
+      "@id": "_:b155iddOtlocdOtgovresourcesinstances15448959",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/descriptionLevel": [
+        {
+          "@id": "http://id.loc.gov/ontologies/bibframe-2-3-0/"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/encodingLevel": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/menclvl/f"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/descriptionConventions": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/descriptionConventions/aacr"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/identifiedBy": [
+        {
+          "@id": "_:b170iddOtlocdOtgovresourcesinstances15448959"
+        }
+      ],
+      "http://id.loc.gov/ontologies/lclocal/d906": [
+        {
+          "@value": "=906     $a 7 $b cbc $c orignew $d 1 $e ecip $f 20 $g y-gencatlg"
+        }
+      ],
+      "http://id.loc.gov/ontologies/lclocal/d925": [
+        {
+          "@value": "=925  0  $a acquire $b 1 shelf copy $x policy default"
+        },
+        {
+          "@value": "=925  1  $a acquire $b 2 shelf copies $x policy default"
+        }
+      ],
+      "http://id.loc.gov/ontologies/lclocal/d955": [
+        {
+          "@value": "=955     $a lh39 2008-09-12 $i lh39 2008-09-12 $e lh39 2008-09-12 to CIP (Auto-Dewey); $f rg04 2009-03-10 $g rg04 2009-03-10 to BCCD $t Copy 2 to BCCD"
+        }
+      ]
+    },
+    {
+      "@id": "_:b133iddOtlocdOtgovresourcesinstances15448959",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/status": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/mstatus/c"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/agent": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/organizations/dlcmrc"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/generationProcess": [
+        {
+          "@id": "https://github.com/lcnetdev/marc2bibframe2/releases/tag/v2.7.0"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/date": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "@value": "2024-08-06T19:34:04.216851-04:00"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/rwo/agents/n91118775",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Agent",
+        "http://id.loc.gov/ontologies/bibframe/Person"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Picoult, Jodi, 1966-"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/marcKey": [
+        {
+          "@value": "1001 $aPicoult, Jodi,$d1966-"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/resources/instances/15448959",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Instance"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/issuance": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/issuance/mono"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/provisionActivity": [
+        {
+          "@id": "_:b10iddOtlocdOtgovresourcesinstances15448959"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/publicationStatement": [
+        {
+          "@value": "New York: Atria Books, 2009"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/media": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/mediaTypes/n"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/identifiedBy": [
+        {
+          "@id": "_:b35iddOtlocdOtgovresourcesinstances15448959"
+        },
+        {
+          "@id": "_:b39iddOtlocdOtgovresourcesinstances15448959"
+        },
+        {
+          "@id": "_:b45iddOtlocdOtgovresourcesinstances15448959"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/responsibilityStatement": [
+        {
+          "@value": "Jodi Picoult"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/title": [
+        {
+          "@id": "_:b53iddOtlocdOtgovresourcesinstances15448959"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/editionStatement": [
+        {
+          "@value": "1st Atria Books hardcover ed."
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/extent": [
+        {
+          "@id": "_:b61iddOtlocdOtgovresourcesinstances15448959"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/dimensions": [
+        {
+          "@value": "25 cm"
+        }
+      ],
+      "http://purl.org/dc/terms/isPartOf": [
+        {
+          "@id": "http://id.loc.gov/resources/instances"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/instanceOf": [
+        {
+          "@id": "http://id.loc.gov/resources/works/15448959"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/adminMetadata": [
+        {
+          "@id": "_:b92iddOtlocdOtgovresourcesinstances15448959"
+        },
+        {
+          "@id": "_:b113iddOtlocdOtgovresourcesinstances15448959"
+        },
+        {
+          "@id": "_:b133iddOtlocdOtgovresourcesinstances15448959"
+        },
+        {
+          "@id": "_:b155iddOtlocdOtgovresourcesinstances15448959"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/mstatus/n",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Status"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "new"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "n"
+        }
+      ]
+    },
+    {
+      "@id": "_:b113iddOtlocdOtgovresourcesinstances15448959",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/status": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/mstatus/c"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/date": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "@value": "2014-11-03T09:05:10"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/descriptionModifier": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/organizations/dlc"
+        }
+      ]
+    },
+    {
+      "@id": "_:b10iddOtlocdOtgovresourcesinstances15448959",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/ProvisionActivity",
+        "http://id.loc.gov/ontologies/bibframe/Publication"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/date": [
+        {
+          "@type": "http://id.loc.gov/datatypes/edtf",
+          "@value": "2009"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/place": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/countries/nyu"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/simplePlace": [
+        {
+          "@value": "New York"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/simpleAgent": [
+        {
+          "@value": "Atria Books"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/simpleDate": [
+        {
+          "@value": "2009"
+        }
+      ]
+    }
+  ]
+}

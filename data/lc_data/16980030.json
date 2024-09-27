@@ -1,0 +1,1135 @@
+{
+  "work": [
+    {
+      "@id": "http://id.loc.gov/vocabulary/languages/eng",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Language"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@language": "en",
+          "@value": "English"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#string",
+          "@value": "eng"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/rwo/agents/n80033861",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Agent",
+        "http://id.loc.gov/ontologies/bibframe/Person"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Andrews, V. C. (Virginia C.)"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/marcKey": [
+        {
+          "@value": "1001 $aAndrews, V. C.$q(Virginia C.)"
+        }
+      ]
+    },
+    {
+      "@id": "_:b115iddOtlocdOtgovresourcesworks16980030",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/status": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/mstatus/c"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/agent": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/organizations/dlcmrc"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/generationProcess": [
+        {
+          "@id": "https://github.com/lcnetdev/marc2bibframe2/releases/tag/v2.7.0"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/date": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "@value": "2024-08-07T12:04:45.390347-04:00"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/organizations/dlcmrc",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Agent",
+        "http://id.loc.gov/ontologies/bibframe/Organization"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "United States, Library of Congress, Network Development and MARC Standards Office"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/code",
+          "@value": "DLC-MRC"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+          "@value": "dlcmrc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+          "@value": "US-dlcmrc"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/mstatus/uba",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Status"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "used by assigner"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "uba"
+        }
+      ]
+    },
+    {
+      "@id": "_:b64iddOtlocdOtgovresourcesworks16980030",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Agent",
+        "http://id.loc.gov/ontologies/bibframe/Person"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Sloan, Jessica Vithanage"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/relators/ctb",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Role",
+        "http://id.loc.gov/ontologies/bibframe/Role"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Contributor"
+        },
+        {
+          "@value": "Contributor"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "ctb"
+        },
+        {
+          "@value": "ctb"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/menclvl/7",
+      "@type": [
+        "http://id.loc.gov/ontologies/bflc/EncodingLevel"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "minimal"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "7"
+        }
+      ]
+    },
+    {
+      "@id": "_:b152iddOtlocdOtgovresourcesworks16980030",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Local"
+      ],
+      "http://www.w3.org/1999/02/22-rdf-syntax-ns#value": [
+        {
+          "@value": "16980030"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/assigner": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/organizations/dlc"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/resources/works/16980030",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Work",
+        "http://id.loc.gov/ontologies/bibframe/Text",
+        "http://id.loc.gov/ontologies/bibframe/Monograph"
+      ],
+      "http://id.loc.gov/ontologies/bflc/aap": [
+        {
+          "@value": "Andrews, V. C. (Virginia C.) Flowers in the attic"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/aap-normalized": [
+        {
+          "@value": "andrewsvc(virginiac)flowersintheattic"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/content": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/contentTypes/txt"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/language": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/languages/eng"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/classification": [
+        {
+          "@id": "_:b22iddOtlocdOtgovresourcesworks16980030"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/contribution": [
+        {
+          "@id": "_:b42iddOtlocdOtgovresourcesworks16980030"
+        },
+        {
+          "@id": "_:b62iddOtlocdOtgovresourcesworks16980030"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/title": [
+        {
+          "@id": "_:b58iddOtlocdOtgovresourcesworks16980030"
+        }
+      ],
+      "http://purl.org/dc/terms/isPartOf": [
+        {
+          "@id": "http://id.loc.gov/resources/works"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/hasInstance": [
+        {
+          "@id": "http://id.loc.gov/resources/instances/16980030"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/adminMetadata": [
+        {
+          "@id": "_:b84iddOtlocdOtgovresourcesworks16980030"
+        },
+        {
+          "@id": "_:b105iddOtlocdOtgovresourcesworks16980030"
+        },
+        {
+          "@id": "_:b115iddOtlocdOtgovresourcesworks16980030"
+        },
+        {
+          "@id": "_:b137iddOtlocdOtgovresourcesworks16980030"
+        }
+      ]
+    },
+    {
+      "@id": "_:b58iddOtlocdOtgovresourcesworks16980030",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Title"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/mainTitle": [
+        {
+          "@value": "Flowers in the attic"
+        }
+      ]
+    },
+    {
+      "@id": "_:b105iddOtlocdOtgovresourcesworks16980030",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/status": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/mstatus/c"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/date": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "@value": "2012-11-20T09:52:19"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/mstatus/c",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Status",
+        "http://id.loc.gov/ontologies/bibframe/Status"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "changed"
+        },
+        {
+          "@value": "changed"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "c"
+        },
+        {
+          "@value": "c"
+        }
+      ]
+    },
+    {
+      "@id": "_:b78iddOtlocdOtgovresourcesworks16980030",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Title"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/mainTitle": [
+        {
+          "@value": "Flowers in the attic"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/contentTypes/txt",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Content"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "text"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "txt"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/organizations/dlc",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Organization",
+        "http://id.loc.gov/ontologies/bibframe/Agent",
+        "http://id.loc.gov/ontologies/bibframe/Organization",
+        "http://id.loc.gov/ontologies/bibframe/Organization"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "United States, Library of Congress"
+        },
+        {
+          "@value": "United States, Library of Congress"
+        },
+        {
+          "@value": "United States, Library of Congress"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/code",
+          "@value": "DLC"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+          "@value": "dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+          "@value": "US-dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/code",
+          "@value": "DLC"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+          "@value": "dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+          "@value": "US-dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/code",
+          "@value": "DLC"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+          "@value": "dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+          "@value": "US-dlc"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/resources/instances/16980030",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Instance"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/title": [
+        {
+          "@id": "_:b78iddOtlocdOtgovresourcesworks16980030"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/publicationStatement": [
+        {
+          "@value": "New York: Ishi Press International, 2010"
+        }
+      ]
+    },
+    {
+      "@id": "_:b84iddOtlocdOtgovresourcesworks16980030",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/status": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/mstatus/n"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/date": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#date",
+          "@value": "2011-09-28"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/agent": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/organizations/dlc"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/descriptionConventions/aacr",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/DescriptionConventions"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Anglo-American cataloguing rules"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "aacr"
+        }
+      ]
+    },
+    {
+      "@id": "_:b22iddOtlocdOtgovresourcesworks16980030",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/ClassificationLcc"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/classificationPortion": [
+        {
+          "@value": "MLCS 2011/44404 (P)"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/assigner": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/organizations/dlc"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/status": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/mstatus/uba"
+        }
+      ]
+    },
+    {
+      "@id": "_:b42iddOtlocdOtgovresourcesworks16980030",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Contribution",
+        "http://id.loc.gov/ontologies/bibframe/PrimaryContribution"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/agent": [
+        {
+          "@id": "http://id.loc.gov/rwo/agents/n80033861"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/role": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/relators/ctb"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/mstatus/n",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Status"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "new"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "n"
+        }
+      ]
+    },
+    {
+      "@id": "_:b62iddOtlocdOtgovresourcesworks16980030",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Contribution"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/agent": [
+        {
+          "@id": "_:b64iddOtlocdOtgovresourcesworks16980030"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/role": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/relators/ctb"
+        }
+      ]
+    },
+    {
+      "@id": "_:b137iddOtlocdOtgovresourcesworks16980030",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/descriptionLevel": [
+        {
+          "@id": "http://id.loc.gov/ontologies/bibframe-2-3-0/"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/encodingLevel": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/menclvl/7"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/descriptionConventions": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/descriptionConventions/aacr"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/identifiedBy": [
+        {
+          "@id": "_:b152iddOtlocdOtgovresourcesworks16980030"
+        }
+      ],
+      "http://id.loc.gov/ontologies/lclocal/d906": [
+        {
+          "@value": "=906     $a 7 $b cbc $c orignew $d 4 $e ncip $f 20 $g y-gencatlg"
+        }
+      ],
+      "http://id.loc.gov/ontologies/lclocal/d925": [
+        {
+          "@value": "=925  0  $a acquire $b 1 shelf copies $x policy default"
+        }
+      ],
+      "http://id.loc.gov/ontologies/lclocal/d955": [
+        {
+          "@value": "=955     $h xc11 2011-09-28 to shelf"
+        }
+      ]
+    }
+  ],
+  "instance": [
+    {
+      "@id": "_:b76iddOtlocdOtgovresourcesinstances16980030",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Contribution"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/agent": [
+        {
+          "@id": "_:b78iddOtlocdOtgovresourcesinstances16980030"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/role": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/relators/ctb"
+        }
+      ]
+    },
+    {
+      "@id": "_:b78iddOtlocdOtgovresourcesinstances16980030",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Agent",
+        "http://id.loc.gov/ontologies/bibframe/Person"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Sloan, Jessica Vithanage"
+        }
+      ]
+    },
+    {
+      "@id": "_:b89iddOtlocdOtgovresourcesinstances16980030",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Title"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/mainTitle": [
+        {
+          "@value": "Flowers in the attic"
+        }
+      ]
+    },
+    {
+      "@id": "_:b161iddOtlocdOtgovresourcesinstances16980030",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Local"
+      ],
+      "http://www.w3.org/1999/02/22-rdf-syntax-ns#value": [
+        {
+          "@value": "16980030"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/assigner": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/organizations/dlc"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/countries/nyu",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Place"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@language": "en",
+          "@value": "New York (State)"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#string",
+          "@value": "nyu"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/resources/works/16980030",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Work"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Andrews, V. C. (Virginia C.) Flowers in the attic"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/contribution": [
+        {
+          "@id": "_:b60iddOtlocdOtgovresourcesinstances16980030"
+        },
+        {
+          "@id": "_:b76iddOtlocdOtgovresourcesinstances16980030"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/title": [
+        {
+          "@id": "_:b89iddOtlocdOtgovresourcesinstances16980030"
+        }
+      ]
+    },
+    {
+      "@id": "_:b39iddOtlocdOtgovresourcesinstances16980030",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Isbn"
+      ],
+      "http://www.w3.org/1999/02/22-rdf-syntax-ns#value": [
+        {
+          "@value": "9784871878890"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/descriptionConventions/aacr",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/DescriptionConventions"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Anglo-American cataloguing rules"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "aacr"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/organizations/dlc",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Agent",
+        "http://id.loc.gov/ontologies/bibframe/Organization",
+        "http://id.loc.gov/ontologies/bibframe/Organization"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "United States, Library of Congress"
+        },
+        {
+          "@value": "United States, Library of Congress"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/code",
+          "@value": "DLC"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+          "@value": "dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+          "@value": "US-dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/code",
+          "@value": "DLC"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+          "@value": "dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+          "@value": "US-dlc"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/mediaTypes/n",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Media"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "unmediated"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "n"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/rwo/agents/n80033861",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Agent",
+        "http://id.loc.gov/ontologies/bibframe/Person"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Andrews, V. C. (Virginia C.)"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/marcKey": [
+        {
+          "@value": "1001 $aAndrews, V. C.$q(Virginia C.)"
+        }
+      ]
+    },
+    {
+      "@id": "_:b124iddOtlocdOtgovresourcesinstances16980030",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/status": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/mstatus/c"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/agent": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/organizations/dlcmrc"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/generationProcess": [
+        {
+          "@id": "https://github.com/lcnetdev/marc2bibframe2/releases/tag/v2.7.0"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/date": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "@value": "2024-08-07T12:04:45.390347-04:00"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/organizations/dlcmrc",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Agent",
+        "http://id.loc.gov/ontologies/bibframe/Organization"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "United States, Library of Congress, Network Development and MARC Standards Office"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/code",
+          "@value": "DLC-MRC"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+          "@value": "dlcmrc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+          "@value": "US-dlcmrc"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/relators/ctb",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Role",
+        "http://id.loc.gov/ontologies/bibframe/Role"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Contributor"
+        },
+        {
+          "@value": "Contributor"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "ctb"
+        },
+        {
+          "@value": "ctb"
+        }
+      ]
+    },
+    {
+      "@id": "_:b45iddOtlocdOtgovresourcesinstances16980030",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Title"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/mainTitle": [
+        {
+          "@value": "Flowers in the attic"
+        }
+      ]
+    },
+    {
+      "@id": "_:b114iddOtlocdOtgovresourcesinstances16980030",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/status": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/mstatus/c"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/date": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "@value": "2012-11-20T09:52:19"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/menclvl/7",
+      "@type": [
+        "http://id.loc.gov/ontologies/bflc/EncodingLevel"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "minimal"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "7"
+        }
+      ]
+    },
+    {
+      "@id": "_:b49iddOtlocdOtgovresourcesinstances16980030",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Extent"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "384 p."
+        }
+      ]
+    },
+    {
+      "@id": "_:b35iddOtlocdOtgovresourcesinstances16980030",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Lccn"
+      ],
+      "http://www.w3.org/1999/02/22-rdf-syntax-ns#value": [
+        {
+          "@value": "  2011292350"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/issuance/mono",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Issuance"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "single unit"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "mono"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/mstatus/c",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Status",
+        "http://id.loc.gov/ontologies/bibframe/Status"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "changed"
+        },
+        {
+          "@value": "changed"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "c"
+        },
+        {
+          "@value": "c"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/resources/instances/16980030",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Instance"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/issuance": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/issuance/mono"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/provisionActivity": [
+        {
+          "@id": "_:b10iddOtlocdOtgovresourcesinstances16980030"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/publicationStatement": [
+        {
+          "@value": "New York: Ishi Press International, 2010"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/media": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/mediaTypes/n"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/identifiedBy": [
+        {
+          "@id": "_:b35iddOtlocdOtgovresourcesinstances16980030"
+        },
+        {
+          "@id": "_:b39iddOtlocdOtgovresourcesinstances16980030"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/responsibilityStatement": [
+        {
+          "@value": "Virginia Andrews ; [with a new foreword by Jessica Vithanage Sloan]"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/title": [
+        {
+          "@id": "_:b45iddOtlocdOtgovresourcesinstances16980030"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/extent": [
+        {
+          "@id": "_:b49iddOtlocdOtgovresourcesinstances16980030"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/dimensions": [
+        {
+          "@value": "22 cm"
+        }
+      ],
+      "http://purl.org/dc/terms/isPartOf": [
+        {
+          "@id": "http://id.loc.gov/resources/instances"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/instanceOf": [
+        {
+          "@id": "http://id.loc.gov/resources/works/16980030"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/adminMetadata": [
+        {
+          "@id": "_:b93iddOtlocdOtgovresourcesinstances16980030"
+        },
+        {
+          "@id": "_:b114iddOtlocdOtgovresourcesinstances16980030"
+        },
+        {
+          "@id": "_:b124iddOtlocdOtgovresourcesinstances16980030"
+        },
+        {
+          "@id": "_:b146iddOtlocdOtgovresourcesinstances16980030"
+        }
+      ]
+    },
+    {
+      "@id": "_:b93iddOtlocdOtgovresourcesinstances16980030",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/status": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/mstatus/n"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/date": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#date",
+          "@value": "2011-09-28"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/agent": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/organizations/dlc"
+        }
+      ]
+    },
+    {
+      "@id": "_:b10iddOtlocdOtgovresourcesinstances16980030",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/ProvisionActivity",
+        "http://id.loc.gov/ontologies/bibframe/Publication"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/date": [
+        {
+          "@type": "http://id.loc.gov/datatypes/edtf",
+          "@value": "2010"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/place": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/countries/nyu"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/simplePlace": [
+        {
+          "@value": "New York"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/simpleAgent": [
+        {
+          "@value": "Ishi Press International"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/simpleDate": [
+        {
+          "@value": "2010"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/mstatus/n",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Status"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "new"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "n"
+        }
+      ]
+    },
+    {
+      "@id": "_:b146iddOtlocdOtgovresourcesinstances16980030",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/descriptionLevel": [
+        {
+          "@id": "http://id.loc.gov/ontologies/bibframe-2-3-0/"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/encodingLevel": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/menclvl/7"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/descriptionConventions": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/descriptionConventions/aacr"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/identifiedBy": [
+        {
+          "@id": "_:b161iddOtlocdOtgovresourcesinstances16980030"
+        }
+      ],
+      "http://id.loc.gov/ontologies/lclocal/d906": [
+        {
+          "@value": "=906     $a 7 $b cbc $c orignew $d 4 $e ncip $f 20 $g y-gencatlg"
+        }
+      ],
+      "http://id.loc.gov/ontologies/lclocal/d925": [
+        {
+          "@value": "=925  0  $a acquire $b 1 shelf copies $x policy default"
+        }
+      ],
+      "http://id.loc.gov/ontologies/lclocal/d955": [
+        {
+          "@value": "=955     $h xc11 2011-09-28 to shelf"
+        }
+      ]
+    },
+    {
+      "@id": "_:b60iddOtlocdOtgovresourcesinstances16980030",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Contribution",
+        "http://id.loc.gov/ontologies/bibframe/PrimaryContribution"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/agent": [
+        {
+          "@id": "http://id.loc.gov/rwo/agents/n80033861"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/role": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/relators/ctb"
+        }
+      ]
+    }
+  ]
+}

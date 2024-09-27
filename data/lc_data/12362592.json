@@ -1,0 +1,1417 @@
+{
+  "work": [
+    {
+      "@id": "_:b50iddOtlocdOtgovresourcesworks12362592",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/ClassificationDdc"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/classificationPortion": [
+        {
+          "@value": "305.896/073"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/source": [
+        {
+          "@id": "_:b54iddOtlocdOtgovresourcesworks12362592"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/edition": [
+        {
+          "@value": "full"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/assigner": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/organizations/dlc"
+        }
+      ]
+    },
+    {
+      "@id": "_:b28iddOtlocdOtgovresourcesworks12362592",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/ClassificationLcc"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/classificationPortion": [
+        {
+          "@value": "E185.61"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/itemPortion": [
+        {
+          "@value": ".B195 2000"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/assigner": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/organizations/dlc"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/status": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/mstatus/uba"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/mstatus/uba",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Status"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "used by assigner"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "uba"
+        }
+      ]
+    },
+    {
+      "@id": "_:b54iddOtlocdOtgovresourcesworks12362592",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Source"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "21"
+        }
+      ]
+    },
+    {
+      "@id": "_:b140iddOtlocdOtgovresourcesworks12362592",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Title"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/mainTitle": [
+        {
+          "@value": "HRW library"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/resources/instances/12362592",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Instance"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/title": [
+        {
+          "@id": "_:b148iddOtlocdOtgovresourcesworks12362592"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/publicationStatement": [
+        {
+          "@value": "Austin: Holt, Rinehart and Winston, [2000]"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/descriptionConventions/aacr",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/DescriptionConventions"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Anglo-American cataloguing rules"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "aacr"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/organizations/dlc",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Organization",
+        "http://id.loc.gov/ontologies/bibframe/Organization",
+        "http://id.loc.gov/ontologies/bibframe/Agent",
+        "http://id.loc.gov/ontologies/bibframe/Organization",
+        "http://id.loc.gov/ontologies/bibframe/Organization",
+        "http://id.loc.gov/ontologies/bibframe/Organization"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "United States, Library of Congress"
+        },
+        {
+          "@value": "United States, Library of Congress"
+        },
+        {
+          "@value": "United States, Library of Congress"
+        },
+        {
+          "@value": "United States, Library of Congress"
+        },
+        {
+          "@value": "United States, Library of Congress"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/code",
+          "@value": "DLC"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+          "@value": "dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+          "@value": "US-dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/code",
+          "@value": "DLC"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+          "@value": "dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+          "@value": "US-dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/code",
+          "@value": "DLC"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+          "@value": "dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+          "@value": "US-dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/code",
+          "@value": "DLC"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+          "@value": "dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+          "@value": "US-dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/code",
+          "@value": "DLC"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+          "@value": "dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+          "@value": "US-dlc"
+        }
+      ]
+    },
+    {
+      "@id": "_:b197iddOtlocdOtgovresourcesworks12362592",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/status": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/mstatus/c"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/agent": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/organizations/dlcmrc"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/generationProcess": [
+        {
+          "@id": "https://github.com/lcnetdev/marc2bibframe2/releases/tag/v2.7.0"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/date": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "@value": "2024-08-06T10:13:23.685818-04:00"
+        }
+      ]
+    },
+    {
+      "@id": "_:b92iddOtlocdOtgovresourcesworks12362592",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/TableOfContents"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Connections: Burn, baby, burn / by Jimmy Collier -- Whatever is necessary to protect ourselves, from Malcolm X, \"The last speeches\" -- Passing / by Langston Hughes -- We shall overcome / by President Lyndon B. Johnson -- After the revolution / by Henry Louis Gates, Jr. -- A knowing so deep / by Toni Morrison -- The saint / by V.S. Pritchett"
+        }
+      ]
+    },
+    {
+      "@id": "_:b112iddOtlocdOtgovresourcesworks12362592",
+      "@type": [
+        "http://www.loc.gov/mads/rdf/v1#GeographicElement"
+      ],
+      "http://www.loc.gov/mads/rdf/v1#elementValue": [
+        {
+          "@language": "en",
+          "@value": "United States"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/authorities/subjects/sh85014589",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Topic"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@language": "en",
+          "@value": "Black Muslims"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/marcKey": [
+        {
+          "@value": "150  $aBlack Muslims"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/menclvl/f",
+      "@type": [
+        "http://id.loc.gov/ontologies/bflc/EncodingLevel"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "full"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "f"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/geographicAreas/n-us",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/GeographicCoverage"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@language": "en",
+          "@value": "United States"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#string",
+          "@value": "n-us"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/languages/eng",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Language"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@language": "en",
+          "@value": "English"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#string",
+          "@value": "eng"
+        }
+      ]
+    },
+    {
+      "@id": "_:b86iddOtlocdOtgovresourcesworks12362592",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Title"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/mainTitle": [
+        {
+          "@value": "The fire next time"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/nonSortNum": [
+        {
+          "@value": "4"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/organizations/dlcmrc",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Agent",
+        "http://id.loc.gov/ontologies/bibframe/Organization"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "United States, Library of Congress, Network Development and MARC Standards Office"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/code",
+          "@value": "DLC-MRC"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+          "@value": "dlcmrc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+          "@value": "US-dlcmrc"
+        }
+      ]
+    },
+    {
+      "@id": "_:b132iddOtlocdOtgovresourcesworks12362592",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Relation"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/relationship": [
+        {
+          "@id": "http://id.loc.gov/ontologies/bibframe/hasSeries"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/associatedResource": [
+        {
+          "@id": "http://id.loc.gov/resources/hubs/d9c39c20-5718-6fa6-f4fb-5ea722d3c9ed"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/relators/ctb",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Role"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Contributor"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "ctb"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/authorities/subjects/sh85001932",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Topic"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@language": "en",
+          "@value": "African Americans"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/marcKey": [
+        {
+          "@value": "150  $aAfrican Americans"
+        }
+      ]
+    },
+    {
+      "@id": "_:b234iddOtlocdOtgovresourcesworks12362592",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Local"
+      ],
+      "http://www.w3.org/1999/02/22-rdf-syntax-ns#value": [
+        {
+          "@value": "12362592"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/assigner": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/organizations/dlc"
+        }
+      ]
+    },
+    {
+      "@id": "_:b70iddOtlocdOtgovresourcesworks12362592",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Contribution",
+        "http://id.loc.gov/ontologies/bibframe/PrimaryContribution"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/agent": [
+        {
+          "@id": "http://id.loc.gov/rwo/agents/n79076619"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/role": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/relators/ctb"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/authorities/subjects/sh85140494",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Topic"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@language": "en",
+          "@value": "United States--Race relations"
+        }
+      ],
+      "http://www.loc.gov/mads/rdf/v1#componentList": [
+        {
+          "@list": [
+            {
+              "@id": "_:b107iddOtlocdOtgovresourcesworks12362592"
+            },
+            {
+              "@id": "_:b115iddOtlocdOtgovresourcesworks12362592"
+            }
+          ]
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/marcKey": [
+        {
+          "@value": "151  $aUnited States$xRace relations"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/mstatus/c",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Status",
+        "http://id.loc.gov/ontologies/bibframe/Status"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "changed"
+        },
+        {
+          "@value": "changed"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "c"
+        },
+        {
+          "@value": "c"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/resources/works/12362592",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Work",
+        "http://id.loc.gov/ontologies/bibframe/Text",
+        "http://id.loc.gov/ontologies/bibframe/Monograph"
+      ],
+      "http://id.loc.gov/ontologies/bflc/aap": [
+        {
+          "@value": "Baldwin, James, 1924-1987 The fire next time"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/aap-normalized": [
+        {
+          "@value": "baldwinjames19241987thefirenexttime"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/content": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/contentTypes/txt"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/language": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/languages/eng"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/geographicCoverage": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/geographicAreas/n-us"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/classification": [
+        {
+          "@id": "_:b28iddOtlocdOtgovresourcesworks12362592"
+        },
+        {
+          "@id": "_:b50iddOtlocdOtgovresourcesworks12362592"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/contribution": [
+        {
+          "@id": "_:b70iddOtlocdOtgovresourcesworks12362592"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/title": [
+        {
+          "@id": "_:b86iddOtlocdOtgovresourcesworks12362592"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/tableOfContents": [
+        {
+          "@id": "_:b92iddOtlocdOtgovresourcesworks12362592"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/subject": [
+        {
+          "@id": "http://id.loc.gov/authorities/subjects/sh85001932"
+        },
+        {
+          "@id": "http://id.loc.gov/authorities/subjects/sh85140494"
+        },
+        {
+          "@id": "http://id.loc.gov/authorities/subjects/sh85014589"
+        }
+      ],
+      "http://purl.org/dc/terms/isPartOf": [
+        {
+          "@id": "http://id.loc.gov/resources/works"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/relation": [
+        {
+          "@id": "_:b132iddOtlocdOtgovresourcesworks12362592"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/hasInstance": [
+        {
+          "@id": "http://id.loc.gov/resources/instances/12362592"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/adminMetadata": [
+        {
+          "@id": "_:b156iddOtlocdOtgovresourcesworks12362592"
+        },
+        {
+          "@id": "_:b177iddOtlocdOtgovresourcesworks12362592"
+        },
+        {
+          "@id": "_:b197iddOtlocdOtgovresourcesworks12362592"
+        },
+        {
+          "@id": "_:b219iddOtlocdOtgovresourcesworks12362592"
+        }
+      ]
+    },
+    {
+      "@id": "_:b107iddOtlocdOtgovresourcesworks12362592",
+      "@type": [
+        "http://www.loc.gov/mads/rdf/v1#Geographic",
+        "http://www.loc.gov/mads/rdf/v1#Authority"
+      ],
+      "http://www.loc.gov/mads/rdf/v1#authoritativeLabel": [
+        {
+          "@language": "en",
+          "@value": "United States"
+        }
+      ],
+      "http://www.loc.gov/mads/rdf/v1#elementList": [
+        {
+          "@list": [
+            {
+              "@id": "_:b112iddOtlocdOtgovresourcesworks12362592"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/contentTypes/txt",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Content"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "text"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "txt"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/resources/hubs/d9c39c20-5718-6fa6-f4fb-5ea722d3c9ed",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Hub",
+        "http://id.loc.gov/ontologies/bibframe/Series"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "HRW library"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/title": [
+        {
+          "@id": "_:b140iddOtlocdOtgovresourcesworks12362592"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/marcKey": [
+        {
+          "@value": "1300 $aHRW library"
+        }
+      ]
+    },
+    {
+      "@id": "_:b156iddOtlocdOtgovresourcesworks12362592",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/status": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/mstatus/n"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/date": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#date",
+          "@value": "2001-03-28"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/agent": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/organizations/dlc"
+        }
+      ]
+    },
+    {
+      "@id": "_:b120iddOtlocdOtgovresourcesworks12362592",
+      "@type": [
+        "http://www.loc.gov/mads/rdf/v1#TopicElement"
+      ],
+      "http://www.loc.gov/mads/rdf/v1#elementValue": [
+        {
+          "@language": "en",
+          "@value": "Race relations"
+        }
+      ]
+    },
+    {
+      "@id": "_:b177iddOtlocdOtgovresourcesworks12362592",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/status": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/mstatus/c"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/date": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "@value": "2006-03-09T14:50:26"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/descriptionModifier": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/organizations/dlc"
+        }
+      ]
+    },
+    {
+      "@id": "_:b148iddOtlocdOtgovresourcesworks12362592",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Title"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/mainTitle": [
+        {
+          "@value": "The fire next time"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/nonSortNum": [
+        {
+          "@value": "4"
+        }
+      ]
+    },
+    {
+      "@id": "_:b115iddOtlocdOtgovresourcesworks12362592",
+      "@type": [
+        "http://www.loc.gov/mads/rdf/v1#Topic",
+        "http://www.loc.gov/mads/rdf/v1#Authority"
+      ],
+      "http://www.loc.gov/mads/rdf/v1#authoritativeLabel": [
+        {
+          "@language": "en",
+          "@value": "Race relations"
+        }
+      ],
+      "http://www.loc.gov/mads/rdf/v1#elementList": [
+        {
+          "@list": [
+            {
+              "@id": "_:b120iddOtlocdOtgovresourcesworks12362592"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/mstatus/n",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Status"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "new"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "n"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/rwo/agents/n79076619",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Agent",
+        "http://id.loc.gov/ontologies/bibframe/Person"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Baldwin, James, 1924-1987"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/marcKey": [
+        {
+          "@value": "1001 $aBaldwin, James,$d1924-1987"
+        }
+      ]
+    },
+    {
+      "@id": "_:b219iddOtlocdOtgovresourcesworks12362592",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/descriptionLevel": [
+        {
+          "@id": "http://id.loc.gov/ontologies/bibframe-2-3-0/"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/encodingLevel": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/menclvl/f"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/descriptionConventions": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/descriptionConventions/aacr"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/identifiedBy": [
+        {
+          "@id": "_:b234iddOtlocdOtgovresourcesworks12362592"
+        }
+      ],
+      "http://id.loc.gov/ontologies/lclocal/d906": [
+        {
+          "@value": "=906     $a 7 $b cbc $c origcop $d 2 $e ncip $f 20 $g y-gencatlg"
+        }
+      ],
+      "http://id.loc.gov/ontologies/lclocal/d925": [
+        {
+          "@value": "=925  0  $a acquire $b 1 shelf copy $x policy default"
+        }
+      ],
+      "http://id.loc.gov/ontologies/lclocal/d955": [
+        {
+          "@value": "=955     $a to HLCD pb18 03-28-01; lj10 04-03-01; lj10/lj24 to subj. cat. 04-04-01; AA3s lk03 received for subject Apr 4, 2001; forwarded for shelflisting Apr 4, 2001 $e lk18 2001-08-22; to Dewey 08-22-01 $a aa20 2001-08-28"
+        }
+      ]
+    }
+  ],
+  "instance": [
+    {
+      "@id": "_:b78iddOtlocdOtgovresourcesinstances12362592",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Title"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/mainTitle": [
+        {
+          "@value": "The fire next time"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/nonSortNum": [
+        {
+          "@value": "4"
+        }
+      ]
+    },
+    {
+      "@id": "_:b147iddOtlocdOtgovresourcesinstances12362592",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/descriptionLevel": [
+        {
+          "@id": "http://id.loc.gov/ontologies/bibframe-2-3-0/"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/encodingLevel": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/menclvl/f"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/descriptionConventions": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/descriptionConventions/aacr"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/identifiedBy": [
+        {
+          "@id": "_:b162iddOtlocdOtgovresourcesinstances12362592"
+        }
+      ],
+      "http://id.loc.gov/ontologies/lclocal/d906": [
+        {
+          "@value": "=906     $a 7 $b cbc $c origcop $d 2 $e ncip $f 20 $g y-gencatlg"
+        }
+      ],
+      "http://id.loc.gov/ontologies/lclocal/d925": [
+        {
+          "@value": "=925  0  $a acquire $b 1 shelf copy $x policy default"
+        }
+      ],
+      "http://id.loc.gov/ontologies/lclocal/d955": [
+        {
+          "@value": "=955     $a to HLCD pb18 03-28-01; lj10 04-03-01; lj10/lj24 to subj. cat. 04-04-01; AA3s lk03 received for subject Apr 4, 2001; forwarded for shelflisting Apr 4, 2001 $e lk18 2001-08-22; to Dewey 08-22-01 $a aa20 2001-08-28"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/resources/instances/12362592",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Instance"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/issuance": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/issuance/mono"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/provisionActivity": [
+        {
+          "@id": "_:b10iddOtlocdOtgovresourcesinstances12362592"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/publicationStatement": [
+        {
+          "@value": "Austin: Holt, Rinehart and Winston, [2000]"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/media": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/mediaTypes/n"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/identifiedBy": [
+        {
+          "@id": "_:b35iddOtlocdOtgovresourcesinstances12362592"
+        },
+        {
+          "@id": "_:b39iddOtlocdOtgovresourcesinstances12362592"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/responsibilityStatement": [
+        {
+          "@value": "James Baldwin ; with connections"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/title": [
+        {
+          "@id": "_:b45iddOtlocdOtgovresourcesinstances12362592"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/extent": [
+        {
+          "@id": "_:b51iddOtlocdOtgovresourcesinstances12362592"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/dimensions": [
+        {
+          "@value": "21 cm"
+        }
+      ],
+      "http://purl.org/dc/terms/isPartOf": [
+        {
+          "@id": "http://id.loc.gov/resources/instances"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/instanceOf": [
+        {
+          "@id": "http://id.loc.gov/resources/works/12362592"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/adminMetadata": [
+        {
+          "@id": "_:b84iddOtlocdOtgovresourcesinstances12362592"
+        },
+        {
+          "@id": "_:b105iddOtlocdOtgovresourcesinstances12362592"
+        },
+        {
+          "@id": "_:b125iddOtlocdOtgovresourcesinstances12362592"
+        },
+        {
+          "@id": "_:b147iddOtlocdOtgovresourcesinstances12362592"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/descriptionConventions/aacr",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/DescriptionConventions"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Anglo-American cataloguing rules"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "aacr"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/organizations/dlc",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Agent",
+        "http://id.loc.gov/ontologies/bibframe/Organization",
+        "http://id.loc.gov/ontologies/bibframe/Organization",
+        "http://id.loc.gov/ontologies/bibframe/Organization"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "United States, Library of Congress"
+        },
+        {
+          "@value": "United States, Library of Congress"
+        },
+        {
+          "@value": "United States, Library of Congress"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/code",
+          "@value": "DLC"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+          "@value": "dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+          "@value": "US-dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/code",
+          "@value": "DLC"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+          "@value": "dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+          "@value": "US-dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/code",
+          "@value": "DLC"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+          "@value": "dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+          "@value": "US-dlc"
+        }
+      ]
+    },
+    {
+      "@id": "_:b162iddOtlocdOtgovresourcesinstances12362592",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Local"
+      ],
+      "http://www.w3.org/1999/02/22-rdf-syntax-ns#value": [
+        {
+          "@value": "12362592"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/assigner": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/organizations/dlc"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/countries/txu",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Place"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@language": "en",
+          "@value": "Texas"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#string",
+          "@value": "txu"
+        }
+      ]
+    },
+    {
+      "@id": "_:b84iddOtlocdOtgovresourcesinstances12362592",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/status": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/mstatus/n"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/date": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#date",
+          "@value": "2001-03-28"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/agent": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/organizations/dlc"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/menclvl/f",
+      "@type": [
+        "http://id.loc.gov/ontologies/bflc/EncodingLevel"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "full"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "f"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/mediaTypes/n",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Media"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "unmediated"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "n"
+        }
+      ]
+    },
+    {
+      "@id": "_:b10iddOtlocdOtgovresourcesinstances12362592",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/ProvisionActivity",
+        "http://id.loc.gov/ontologies/bibframe/Publication"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/date": [
+        {
+          "@type": "http://id.loc.gov/datatypes/edtf",
+          "@value": "2000"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/place": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/countries/txu"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/simplePlace": [
+        {
+          "@value": "Austin"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/simpleAgent": [
+        {
+          "@value": "Holt, Rinehart and Winston"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/simpleDate": [
+        {
+          "@value": "[2000]"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/organizations/dlcmrc",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Agent",
+        "http://id.loc.gov/ontologies/bibframe/Organization"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "United States, Library of Congress, Network Development and MARC Standards Office"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/code",
+          "@value": "DLC-MRC"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+          "@value": "dlcmrc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+          "@value": "US-dlcmrc"
+        }
+      ]
+    },
+    {
+      "@id": "_:b105iddOtlocdOtgovresourcesinstances12362592",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/status": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/mstatus/c"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/date": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "@value": "2006-03-09T14:50:26"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/descriptionModifier": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/organizations/dlc"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/relators/ctb",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Role"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Contributor"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "ctb"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/issuance/mono",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Issuance"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "single unit"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "mono"
+        }
+      ]
+    },
+    {
+      "@id": "_:b35iddOtlocdOtgovresourcesinstances12362592",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Lccn"
+      ],
+      "http://www.w3.org/1999/02/22-rdf-syntax-ns#value": [
+        {
+          "@value": "  2001265860"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/resources/works/12362592",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Work"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Baldwin, James, 1924-1987 The fire next time"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/contribution": [
+        {
+          "@id": "_:b62iddOtlocdOtgovresourcesinstances12362592"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/title": [
+        {
+          "@id": "_:b78iddOtlocdOtgovresourcesinstances12362592"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/mstatus/c",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Status",
+        "http://id.loc.gov/ontologies/bibframe/Status"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "changed"
+        },
+        {
+          "@value": "changed"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "c"
+        },
+        {
+          "@value": "c"
+        }
+      ]
+    },
+    {
+      "@id": "_:b125iddOtlocdOtgovresourcesinstances12362592",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/status": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/mstatus/c"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/agent": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/organizations/dlcmrc"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/generationProcess": [
+        {
+          "@id": "https://github.com/lcnetdev/marc2bibframe2/releases/tag/v2.7.0"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/date": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "@value": "2024-08-06T10:13:23.685818-04:00"
+        }
+      ]
+    },
+    {
+      "@id": "_:b39iddOtlocdOtgovresourcesinstances12362592",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Isbn"
+      ],
+      "http://www.w3.org/1999/02/22-rdf-syntax-ns#value": [
+        {
+          "@value": "003055442X"
+        }
+      ]
+    },
+    {
+      "@id": "_:b62iddOtlocdOtgovresourcesinstances12362592",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Contribution",
+        "http://id.loc.gov/ontologies/bibframe/PrimaryContribution"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/agent": [
+        {
+          "@id": "http://id.loc.gov/rwo/agents/n79076619"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/role": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/relators/ctb"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/mstatus/n",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Status"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "new"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "n"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/rwo/agents/n79076619",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Agent",
+        "http://id.loc.gov/ontologies/bibframe/Person"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Baldwin, James, 1924-1987"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/marcKey": [
+        {
+          "@value": "1001 $aBaldwin, James,$d1924-1987"
+        }
+      ]
+    },
+    {
+      "@id": "_:b45iddOtlocdOtgovresourcesinstances12362592",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Title"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/mainTitle": [
+        {
+          "@value": "The fire next time"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/nonSortNum": [
+        {
+          "@value": "4"
+        }
+      ]
+    },
+    {
+      "@id": "_:b51iddOtlocdOtgovresourcesinstances12362592",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Extent"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "167 p."
+        }
+      ]
+    }
+  ]
+}

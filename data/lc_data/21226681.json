@@ -1,0 +1,1975 @@
+{
+  "work": [
+    {
+      "@id": "http://id.loc.gov/authorities/genreForms/gf2014026339",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/GenreForm"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@language": "en",
+          "@value": "Fiction"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/marcKey": [
+        {
+          "@value": "155  $aFiction"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/resources/works/21226681",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Work",
+        "http://id.loc.gov/ontologies/bibframe/Text",
+        "http://id.loc.gov/ontologies/bibframe/Monograph"
+      ],
+      "http://id.loc.gov/ontologies/bflc/aap": [
+        {
+          "@value": "Capin, Hannah Foul is fair"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/aap-normalized": [
+        {
+          "@value": "capinhannahfoulisfair"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/language": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/languages/eng"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/intendedAudience": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/maudience/ado"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/genreForm": [
+        {
+          "@id": "http://id.loc.gov/authorities/genreForms/gf2014026339"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/classification": [
+        {
+          "@id": "_:b28iddOtlocdOtgovresourcesworks21226681"
+        },
+        {
+          "@id": "_:b50iddOtlocdOtgovresourcesworks21226681"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/contribution": [
+        {
+          "@id": "_:b70iddOtlocdOtgovresourcesworks21226681"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/title": [
+        {
+          "@id": "_:b86iddOtlocdOtgovresourcesworks21226681"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/content": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/contentTypes/txt"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/summary": [
+        {
+          "@id": "_:b96iddOtlocdOtgovresourcesworks21226681"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/subject": [
+        {
+          "@id": "_:b100iddOtlocdOtgovresourcesworks21226681"
+        },
+        {
+          "@id": "_:b128iddOtlocdOtgovresourcesworks21226681"
+        },
+        {
+          "@id": "_:b156iddOtlocdOtgovresourcesworks21226681"
+        },
+        {
+          "@id": "http://id.loc.gov/authorities/childrensSubjects/sj96006090"
+        },
+        {
+          "@id": "_:b207iddOtlocdOtgovresourcesworks21226681"
+        },
+        {
+          "@id": "_:b235iddOtlocdOtgovresourcesworks21226681"
+        }
+      ],
+      "http://purl.org/dc/terms/isPartOf": [
+        {
+          "@id": "http://id.loc.gov/resources/works"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/hasInstance": [
+        {
+          "@id": "http://id.loc.gov/resources/instances/21226681"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/adminMetadata": [
+        {
+          "@id": "_:b272iddOtlocdOtgovresourcesworks21226681"
+        },
+        {
+          "@id": "_:b293iddOtlocdOtgovresourcesworks21226681"
+        },
+        {
+          "@id": "_:b313iddOtlocdOtgovresourcesworks21226681"
+        },
+        {
+          "@id": "_:b335iddOtlocdOtgovresourcesworks21226681"
+        }
+      ]
+    },
+    {
+      "@id": "_:b128iddOtlocdOtgovresourcesworks21226681",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Topic",
+        "http://www.loc.gov/mads/rdf/v1#ComplexSubject"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Revenge--Fiction"
+        }
+      ],
+      "http://www.loc.gov/mads/rdf/v1#authoritativeLabel": [
+        {
+          "@value": "Revenge--Fiction"
+        }
+      ],
+      "http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme": [
+        {
+          "@id": "http://id.loc.gov/authorities/childrensSubjects"
+        }
+      ],
+      "http://www.loc.gov/mads/rdf/v1#componentList": [
+        {
+          "@list": [
+            {
+              "@id": "http://id.loc.gov/authorities/childrensSubjects/sj2021051730"
+            },
+            {
+              "@id": "http://id.loc.gov/authorities/childrensSubjects/sj2020050019"
+            }
+          ]
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/aap-normalized": [
+        {
+          "@value": "revengefiction"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/source": [
+        {
+          "@id": "http://id.loc.gov/authorities/childrensSubjects"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/mstatus/uba",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Status"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "used by assigner"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "uba"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/authorities/childrensSubjects",
+      "@type": [
+        "http://www.loc.gov/mads/rdf/v1#MADSScheme",
+        "http://id.loc.gov/ontologies/bibframe/Source",
+        "http://www.loc.gov/mads/rdf/v1#MADSScheme",
+        "http://id.loc.gov/ontologies/bibframe/Source",
+        "http://www.loc.gov/mads/rdf/v1#MADSScheme",
+        "http://id.loc.gov/ontologies/bibframe/Source",
+        "http://www.loc.gov/mads/rdf/v1#MADSScheme",
+        "http://id.loc.gov/ontologies/bibframe/Source",
+        "http://www.loc.gov/mads/rdf/v1#MADSScheme",
+        "http://id.loc.gov/ontologies/bibframe/Source"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@language": "en",
+          "@value": "Library of Congress Children's Subject Headings"
+        },
+        {
+          "@language": "en",
+          "@value": "Library of Congress Children's Subject Headings"
+        },
+        {
+          "@language": "en",
+          "@value": "Library of Congress Children's Subject Headings"
+        },
+        {
+          "@language": "en",
+          "@value": "Library of Congress Children's Subject Headings"
+        },
+        {
+          "@language": "en",
+          "@value": "Library of Congress Children's Subject Headings"
+        },
+        {
+          "@language": "en",
+          "@value": "Library of Congress Children's Subject Headings"
+        },
+        {
+          "@language": "en",
+          "@value": "Library of Congress Children's Subject Headings"
+        },
+        {
+          "@language": "en",
+          "@value": "Library of Congress Children's Subject Headings"
+        },
+        {
+          "@language": "en",
+          "@value": "Library of Congress Children's Subject Headings"
+        },
+        {
+          "@language": "en",
+          "@value": "Library of Congress Children's Subject Headings"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/relators/aut",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Role"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Author"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "aut"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/resources/instances/21226681",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Instance"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/title": [
+        {
+          "@id": "_:b266iddOtlocdOtgovresourcesworks21226681"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/publicationStatement": [
+        {
+          "@value": "New York: Wednesday Books, 2020"
+        }
+      ]
+    },
+    {
+      "@id": "_:b313iddOtlocdOtgovresourcesworks21226681",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/status": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/mstatus/c"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/agent": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/organizations/dlcmrc"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/generationProcess": [
+        {
+          "@id": "https://github.com/lcnetdev/marc2bibframe2/releases/tag/v2.7.0"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/date": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "@value": "2024-08-02T09:10:51.450214-04:00"
+        }
+      ]
+    },
+    {
+      "@id": "_:b266iddOtlocdOtgovresourcesworks21226681",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Title"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/mainTitle": [
+        {
+          "@value": "Foul is fair"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/authorities/childrensSubjects/sj2020050019",
+      "@type": [
+        "http://www.loc.gov/mads/rdf/v1#GenreForm",
+        "http://www.loc.gov/mads/rdf/v1#GenreForm",
+        "http://www.loc.gov/mads/rdf/v1#GenreForm",
+        "http://www.loc.gov/mads/rdf/v1#GenreForm",
+        "http://www.loc.gov/mads/rdf/v1#GenreForm"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@language": "en",
+          "@value": "Fiction"
+        },
+        {
+          "@language": "en",
+          "@value": "Fiction"
+        },
+        {
+          "@language": "en",
+          "@value": "Fiction"
+        },
+        {
+          "@language": "en",
+          "@value": "Fiction"
+        },
+        {
+          "@language": "en",
+          "@value": "Fiction"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/marcKey": [
+        {
+          "@value": "185  $vFiction"
+        },
+        {
+          "@value": "185  $vFiction"
+        },
+        {
+          "@value": "185  $vFiction"
+        },
+        {
+          "@value": "185  $vFiction"
+        },
+        {
+          "@value": "185  $vFiction"
+        }
+      ]
+    },
+    {
+      "@id": "_:b197iddOtlocdOtgovresourcesworks21226681",
+      "@type": [
+        "http://www.loc.gov/mads/rdf/v1#GenreForm",
+        "http://www.loc.gov/mads/rdf/v1#Authority"
+      ],
+      "http://www.loc.gov/mads/rdf/v1#authoritativeLabel": [
+        {
+          "@language": "en",
+          "@value": "Fiction"
+        }
+      ],
+      "http://www.loc.gov/mads/rdf/v1#elementList": [
+        {
+          "@list": [
+            {
+              "@id": "_:b202iddOtlocdOtgovresourcesworks21226681"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/organizations/dlc",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Organization",
+        "http://id.loc.gov/ontologies/bibframe/Organization",
+        "http://id.loc.gov/ontologies/bibframe/Agent",
+        "http://id.loc.gov/ontologies/bibframe/Organization",
+        "http://id.loc.gov/ontologies/bibframe/Organization",
+        "http://id.loc.gov/ontologies/bibframe/Organization"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "United States, Library of Congress"
+        },
+        {
+          "@value": "United States, Library of Congress"
+        },
+        {
+          "@value": "United States, Library of Congress"
+        },
+        {
+          "@value": "United States, Library of Congress"
+        },
+        {
+          "@value": "United States, Library of Congress"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/code",
+          "@value": "DLC"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+          "@value": "dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+          "@value": "US-dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/code",
+          "@value": "DLC"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+          "@value": "dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+          "@value": "US-dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/code",
+          "@value": "DLC"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+          "@value": "dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+          "@value": "US-dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/code",
+          "@value": "DLC"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+          "@value": "dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+          "@value": "US-dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/code",
+          "@value": "DLC"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+          "@value": "dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+          "@value": "US-dlc"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/descriptionConventions/rda",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/DescriptionConventions"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Resource description and access"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "rda"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/authorities/childrensSubjects/sj2021052036",
+      "@type": [
+        "http://www.loc.gov/mads/rdf/v1#Topic"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@language": "en",
+          "@value": "Murder"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/marcKey": [
+        {
+          "@value": "150  $aMurder"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/maudience/ado",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/IntendedAudience"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Adolescent"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "ado"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/menclvl/f",
+      "@type": [
+        "http://id.loc.gov/ontologies/bflc/EncodingLevel"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "full"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "f"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/authorities/childrensSubjects/sj96006090",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Topic"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@language": "en",
+          "@value": "Schools--Fiction"
+        }
+      ],
+      "http://www.loc.gov/mads/rdf/v1#componentList": [
+        {
+          "@list": [
+            {
+              "@id": "_:b189iddOtlocdOtgovresourcesworks21226681"
+            },
+            {
+              "@id": "_:b197iddOtlocdOtgovresourcesworks21226681"
+            }
+          ]
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/marcKey": [
+        {
+          "@value": "150  $aSchools$vFiction"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/languages/eng",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Language",
+        "http://id.loc.gov/ontologies/bibframe/Language"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@language": "en",
+          "@value": "English"
+        },
+        {
+          "@language": "en",
+          "@value": "English"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#string",
+          "@value": "eng"
+        },
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#string",
+          "@value": "eng"
+        }
+      ]
+    },
+    {
+      "@id": "_:b194iddOtlocdOtgovresourcesworks21226681",
+      "@type": [
+        "http://www.loc.gov/mads/rdf/v1#TopicElement"
+      ],
+      "http://www.loc.gov/mads/rdf/v1#elementValue": [
+        {
+          "@language": "en",
+          "@value": "Schools"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/organizations/dlcmrc",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Agent",
+        "http://id.loc.gov/ontologies/bibframe/Organization"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "United States, Library of Congress, Network Development and MARC Standards Office"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/code",
+          "@value": "DLC-MRC"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+          "@value": "dlcmrc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+          "@value": "US-dlcmrc"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/rwo/agents/no2019012479",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Agent",
+        "http://id.loc.gov/ontologies/bibframe/Person"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Capin, Hannah"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/marcKey": [
+        {
+          "@value": "1001 $aCapin, Hannah"
+        }
+      ]
+    },
+    {
+      "@id": "_:b70iddOtlocdOtgovresourcesworks21226681",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Contribution",
+        "http://id.loc.gov/ontologies/bibframe/PrimaryContribution"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/agent": [
+        {
+          "@id": "http://id.loc.gov/rwo/agents/no2019012479"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/role": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/relators/aut"
+        }
+      ]
+    },
+    {
+      "@id": "_:b189iddOtlocdOtgovresourcesworks21226681",
+      "@type": [
+        "http://www.loc.gov/mads/rdf/v1#Topic",
+        "http://www.loc.gov/mads/rdf/v1#Authority"
+      ],
+      "http://www.loc.gov/mads/rdf/v1#authoritativeLabel": [
+        {
+          "@language": "en",
+          "@value": "Schools"
+        }
+      ],
+      "http://www.loc.gov/mads/rdf/v1#elementList": [
+        {
+          "@list": [
+            {
+              "@id": "_:b194iddOtlocdOtgovresourcesworks21226681"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "_:b235iddOtlocdOtgovresourcesworks21226681",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Topic",
+        "http://www.loc.gov/mads/rdf/v1#ComplexSubject"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Murder--Fiction"
+        }
+      ],
+      "http://www.loc.gov/mads/rdf/v1#authoritativeLabel": [
+        {
+          "@value": "Murder--Fiction"
+        }
+      ],
+      "http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme": [
+        {
+          "@id": "http://id.loc.gov/authorities/childrensSubjects"
+        }
+      ],
+      "http://www.loc.gov/mads/rdf/v1#componentList": [
+        {
+          "@list": [
+            {
+              "@id": "http://id.loc.gov/authorities/childrensSubjects/sj2021052036"
+            },
+            {
+              "@id": "http://id.loc.gov/authorities/childrensSubjects/sj2020050019"
+            }
+          ]
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/aap-normalized": [
+        {
+          "@value": "murderfiction"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/source": [
+        {
+          "@id": "http://id.loc.gov/authorities/childrensSubjects"
+        }
+      ]
+    },
+    {
+      "@id": "_:b100iddOtlocdOtgovresourcesworks21226681",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Topic",
+        "http://www.loc.gov/mads/rdf/v1#ComplexSubject"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Rape--Fiction"
+        }
+      ],
+      "http://www.loc.gov/mads/rdf/v1#authoritativeLabel": [
+        {
+          "@value": "Rape--Fiction"
+        }
+      ],
+      "http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme": [
+        {
+          "@id": "http://id.loc.gov/authorities/childrensSubjects"
+        }
+      ],
+      "http://www.loc.gov/mads/rdf/v1#componentList": [
+        {
+          "@list": [
+            {
+              "@id": "http://id.loc.gov/authorities/childrensSubjects/sj2021053112"
+            },
+            {
+              "@id": "http://id.loc.gov/authorities/childrensSubjects/sj2020050019"
+            }
+          ]
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/aap-normalized": [
+        {
+          "@value": "rapefiction"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/source": [
+        {
+          "@id": "http://id.loc.gov/authorities/childrensSubjects"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/authorities/childrensSubjects/sj2021059134",
+      "@type": [
+        "http://www.loc.gov/mads/rdf/v1#Topic"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@language": "en",
+          "@value": "Preparatory schools"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/marcKey": [
+        {
+          "@value": "150  $aPreparatory schools"
+        }
+      ]
+    },
+    {
+      "@id": "_:b272iddOtlocdOtgovresourcesworks21226681",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/status": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/mstatus/n"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/date": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#date",
+          "@value": "2019-10-03"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/agent": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/organizations/dlc"
+        }
+      ]
+    },
+    {
+      "@id": "_:b86iddOtlocdOtgovresourcesworks21226681",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Title"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/mainTitle": [
+        {
+          "@value": "Foul is fair"
+        }
+      ]
+    },
+    {
+      "@id": "_:b335iddOtlocdOtgovresourcesworks21226681",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/descriptionLevel": [
+        {
+          "@id": "http://id.loc.gov/ontologies/bibframe-2-3-0/"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/encodingLevel": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/menclvl/f"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/descriptionConventions": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/descriptionConventions/isbd"
+        },
+        {
+          "@id": "http://id.loc.gov/vocabulary/descriptionConventions/rda"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/identifiedBy": [
+        {
+          "@id": "_:b350iddOtlocdOtgovresourcesworks21226681"
+        }
+      ],
+      "http://id.loc.gov/ontologies/lclocal/d906": [
+        {
+          "@value": "=906     $a 7 $b cbc $c orignew $d 1 $e ecip $f 20 $g y-gencatlg"
+        }
+      ],
+      "http://id.loc.gov/ontologies/lclocal/d925": [
+        {
+          "@value": "=925  0  $a acquire $b 1 shelf copy $x policy default"
+        }
+      ],
+      "http://id.loc.gov/ontologies/lclocal/d955": [
+        {
+          "@value": "=955     $b xk05 2019-10-03 $i xk05 2019-10-03 (telework) to CIP $a xn11 2020-08-06 1 copy rec'd., to CIP ver. $f xk02 2020-09-02 to CALM (telework)"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/descriptionLanguage": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/languages/eng"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/descriptionAuthentication": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/marcauthen/pcc"
+        },
+        {
+          "@id": "http://id.loc.gov/vocabulary/marcauthen/lcac"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/descriptionConventions/isbd",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/DescriptionConventions"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "ISBD: International standard bibliographic description"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "isbd"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/marcauthen/lcac",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/DescriptionAuthentication"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Library of Congress Children's and Young Adults' Cataloging Program"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "lcac"
+        }
+      ]
+    },
+    {
+      "@id": "_:b350iddOtlocdOtgovresourcesworks21226681",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Local"
+      ],
+      "http://www.w3.org/1999/02/22-rdf-syntax-ns#value": [
+        {
+          "@value": "21226681"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/assigner": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/organizations/dlc"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/authorities/childrensSubjects/sj2021053112",
+      "@type": [
+        "http://www.loc.gov/mads/rdf/v1#Topic"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@language": "en",
+          "@value": "Rape"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/marcKey": [
+        {
+          "@value": "150  $aRape"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/mstatus/c",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Status",
+        "http://id.loc.gov/ontologies/bibframe/Status"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "changed"
+        },
+        {
+          "@value": "changed"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "c"
+        },
+        {
+          "@value": "c"
+        }
+      ]
+    },
+    {
+      "@id": "_:b50iddOtlocdOtgovresourcesworks21226681",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/ClassificationDdc"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/classificationPortion": [
+        {
+          "@value": "[Fic]"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/source": [
+        {
+          "@id": "_:b54iddOtlocdOtgovresourcesworks21226681"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/edition": [
+        {
+          "@value": "full"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/assigner": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/organizations/dlc"
+        }
+      ]
+    },
+    {
+      "@id": "_:b207iddOtlocdOtgovresourcesworks21226681",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Topic",
+        "http://www.loc.gov/mads/rdf/v1#ComplexSubject"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Friendship--Fiction"
+        }
+      ],
+      "http://www.loc.gov/mads/rdf/v1#authoritativeLabel": [
+        {
+          "@value": "Friendship--Fiction"
+        }
+      ],
+      "http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme": [
+        {
+          "@id": "http://id.loc.gov/authorities/childrensSubjects"
+        }
+      ],
+      "http://www.loc.gov/mads/rdf/v1#componentList": [
+        {
+          "@list": [
+            {
+              "@id": "http://id.loc.gov/authorities/childrensSubjects/sj96005569"
+            },
+            {
+              "@id": "http://id.loc.gov/authorities/childrensSubjects/sj2020050019"
+            }
+          ]
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/aap-normalized": [
+        {
+          "@value": "friendshipfiction"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/source": [
+        {
+          "@id": "http://id.loc.gov/authorities/childrensSubjects"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/contentTypes/txt",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Content"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "text"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "txt"
+        }
+      ]
+    },
+    {
+      "@id": "_:b202iddOtlocdOtgovresourcesworks21226681",
+      "@type": [
+        "http://www.loc.gov/mads/rdf/v1#GenreFormElement"
+      ],
+      "http://www.loc.gov/mads/rdf/v1#elementValue": [
+        {
+          "@language": "en",
+          "@value": "Fiction"
+        }
+      ]
+    },
+    {
+      "@id": "_:b54iddOtlocdOtgovresourcesworks21226681",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Source"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "23"
+        }
+      ]
+    },
+    {
+      "@id": "_:b156iddOtlocdOtgovresourcesworks21226681",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Topic",
+        "http://www.loc.gov/mads/rdf/v1#ComplexSubject"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Preparatory schools--Fiction"
+        }
+      ],
+      "http://www.loc.gov/mads/rdf/v1#authoritativeLabel": [
+        {
+          "@value": "Preparatory schools--Fiction"
+        }
+      ],
+      "http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme": [
+        {
+          "@id": "http://id.loc.gov/authorities/childrensSubjects"
+        }
+      ],
+      "http://www.loc.gov/mads/rdf/v1#componentList": [
+        {
+          "@list": [
+            {
+              "@id": "http://id.loc.gov/authorities/childrensSubjects/sj2021059134"
+            },
+            {
+              "@id": "http://id.loc.gov/authorities/childrensSubjects/sj2020050019"
+            }
+          ]
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/aap-normalized": [
+        {
+          "@value": "preparatoryschoolsfiction"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/source": [
+        {
+          "@id": "http://id.loc.gov/authorities/childrensSubjects"
+        }
+      ]
+    },
+    {
+      "@id": "_:b293iddOtlocdOtgovresourcesworks21226681",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/status": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/mstatus/c"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/date": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "@value": "2022-05-05T15:28:57"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/descriptionModifier": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/organizations/dlc"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/authorities/childrensSubjects/sj2021051730",
+      "@type": [
+        "http://www.loc.gov/mads/rdf/v1#Topic"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@language": "en",
+          "@value": "Revenge"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/marcKey": [
+        {
+          "@value": "150  $aRevenge"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/marcauthen/pcc",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/DescriptionAuthentication"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Program for Cooperative Cataloging"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "pcc"
+        }
+      ]
+    },
+    {
+      "@id": "_:b96iddOtlocdOtgovresourcesworks21226681",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Summary"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "After being drugged and gang-raped while crashing a St. Andrew's Prep party on her sixteenth birthday, Jade leads her friends in exacting a horrific revenge on the golden boys who attacked her."
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/mstatus/n",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Status"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "new"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "n"
+        }
+      ]
+    },
+    {
+      "@id": "_:b28iddOtlocdOtgovresourcesworks21226681",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/ClassificationLcc"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/classificationPortion": [
+        {
+          "@value": "PZ7.1.C383"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/itemPortion": [
+        {
+          "@value": "Fou 2020"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/assigner": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/organizations/dlc"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/status": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/mstatus/uba"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/authorities/childrensSubjects/sj96005569",
+      "@type": [
+        "http://www.loc.gov/mads/rdf/v1#Topic"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@language": "en",
+          "@value": "Friendship"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/marcKey": [
+        {
+          "@value": "150  $aFriendship"
+        }
+      ]
+    }
+  ],
+  "instance": [
+    {
+      "@id": "_:b165iddOtlocdOtgovresourcesinstances21226681",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/descriptionLevel": [
+        {
+          "@id": "http://id.loc.gov/ontologies/bibframe-2-3-0/"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/encodingLevel": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/menclvl/f"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/descriptionConventions": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/descriptionConventions/isbd"
+        },
+        {
+          "@id": "http://id.loc.gov/vocabulary/descriptionConventions/rda"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/identifiedBy": [
+        {
+          "@id": "_:b180iddOtlocdOtgovresourcesinstances21226681"
+        }
+      ],
+      "http://id.loc.gov/ontologies/lclocal/d906": [
+        {
+          "@value": "=906     $a 7 $b cbc $c orignew $d 1 $e ecip $f 20 $g y-gencatlg"
+        }
+      ],
+      "http://id.loc.gov/ontologies/lclocal/d925": [
+        {
+          "@value": "=925  0  $a acquire $b 1 shelf copy $x policy default"
+        }
+      ],
+      "http://id.loc.gov/ontologies/lclocal/d955": [
+        {
+          "@value": "=955     $b xk05 2019-10-03 $i xk05 2019-10-03 (telework) to CIP $a xn11 2020-08-06 1 copy rec'd., to CIP ver. $f xk02 2020-09-02 to CALM (telework)"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/descriptionLanguage": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/languages/eng"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/descriptionAuthentication": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/marcauthen/pcc"
+        },
+        {
+          "@id": "http://id.loc.gov/vocabulary/marcauthen/lcac"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/resources/works/21226681",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Work"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Capin, Hannah Foul is fair"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/contribution": [
+        {
+          "@id": "_:b82iddOtlocdOtgovresourcesinstances21226681"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/title": [
+        {
+          "@id": "_:b98iddOtlocdOtgovresourcesinstances21226681"
+        }
+      ]
+    },
+    {
+      "@id": "_:b143iddOtlocdOtgovresourcesinstances21226681",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/status": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/mstatus/c"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/agent": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/organizations/dlcmrc"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/generationProcess": [
+        {
+          "@id": "https://github.com/lcnetdev/marc2bibframe2/releases/tag/v2.7.0"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/date": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "@value": "2024-08-02T09:10:51.450214-04:00"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/resources/instances/21226681",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Instance"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/issuance": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/issuance/mono"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/provisionActivity": [
+        {
+          "@id": "_:b10iddOtlocdOtgovresourcesinstances21226681"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/publicationStatement": [
+        {
+          "@value": "New York: Wednesday Books, 2020"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/identifiedBy": [
+        {
+          "@id": "_:b29iddOtlocdOtgovresourcesinstances21226681"
+        },
+        {
+          "@id": "_:b33iddOtlocdOtgovresourcesinstances21226681"
+        },
+        {
+          "@id": "_:b39iddOtlocdOtgovresourcesinstances21226681"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/responsibilityStatement": [
+        {
+          "@value": "Hannah Capin"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/title": [
+        {
+          "@id": "_:b53iddOtlocdOtgovresourcesinstances21226681"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/editionStatement": [
+        {
+          "@value": "First edition"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/extent": [
+        {
+          "@id": "_:b59iddOtlocdOtgovresourcesinstances21226681"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/dimensions": [
+        {
+          "@value": "22 cm"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/media": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/mediaTypes/n"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/carrier": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/carriers/nc"
+        }
+      ],
+      "http://purl.org/dc/terms/isPartOf": [
+        {
+          "@id": "http://id.loc.gov/resources/instances"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/instanceOf": [
+        {
+          "@id": "http://id.loc.gov/resources/works/21226681"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/adminMetadata": [
+        {
+          "@id": "_:b102iddOtlocdOtgovresourcesinstances21226681"
+        },
+        {
+          "@id": "_:b123iddOtlocdOtgovresourcesinstances21226681"
+        },
+        {
+          "@id": "_:b143iddOtlocdOtgovresourcesinstances21226681"
+        },
+        {
+          "@id": "_:b165iddOtlocdOtgovresourcesinstances21226681"
+        }
+      ]
+    },
+    {
+      "@id": "_:b29iddOtlocdOtgovresourcesinstances21226681",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Lccn"
+      ],
+      "http://www.w3.org/1999/02/22-rdf-syntax-ns#value": [
+        {
+          "@value": "  2019044430"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/relators/aut",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Role"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Author"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "aut"
+        }
+      ]
+    },
+    {
+      "@id": "_:b33iddOtlocdOtgovresourcesinstances21226681",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Isbn"
+      ],
+      "http://www.w3.org/1999/02/22-rdf-syntax-ns#value": [
+        {
+          "@value": "9781250239549"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/qualifier": [
+        {
+          "@value": "hardcover"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/countries/nyu",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Place"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@language": "en",
+          "@value": "New York (State)"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#string",
+          "@value": "nyu"
+        }
+      ]
+    },
+    {
+      "@id": "_:b59iddOtlocdOtgovresourcesinstances21226681",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Extent"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "326 pages"
+        }
+      ]
+    },
+    {
+      "@id": "_:b180iddOtlocdOtgovresourcesinstances21226681",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Local"
+      ],
+      "http://www.w3.org/1999/02/22-rdf-syntax-ns#value": [
+        {
+          "@value": "21226681"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/assigner": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/organizations/dlc"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/descriptionConventions/rda",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/DescriptionConventions"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Resource description and access"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "rda"
+        }
+      ]
+    },
+    {
+      "@id": "_:b98iddOtlocdOtgovresourcesinstances21226681",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Title"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/mainTitle": [
+        {
+          "@value": "Foul is fair"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/organizations/dlc",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Agent",
+        "http://id.loc.gov/ontologies/bibframe/Organization",
+        "http://id.loc.gov/ontologies/bibframe/Organization",
+        "http://id.loc.gov/ontologies/bibframe/Organization"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "United States, Library of Congress"
+        },
+        {
+          "@value": "United States, Library of Congress"
+        },
+        {
+          "@value": "United States, Library of Congress"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/code",
+          "@value": "DLC"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+          "@value": "dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+          "@value": "US-dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/code",
+          "@value": "DLC"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+          "@value": "dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+          "@value": "US-dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/code",
+          "@value": "DLC"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+          "@value": "dlc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+          "@value": "US-dlc"
+        }
+      ]
+    },
+    {
+      "@id": "_:b102iddOtlocdOtgovresourcesinstances21226681",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/status": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/mstatus/n"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/date": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#date",
+          "@value": "2019-10-03"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/agent": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/organizations/dlc"
+        }
+      ]
+    },
+    {
+      "@id": "_:b10iddOtlocdOtgovresourcesinstances21226681",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/ProvisionActivity",
+        "http://id.loc.gov/ontologies/bibframe/Publication"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/date": [
+        {
+          "@type": "http://id.loc.gov/datatypes/edtf",
+          "@value": "2020"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/place": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/countries/nyu"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/simplePlace": [
+        {
+          "@value": "New York"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/simpleAgent": [
+        {
+          "@value": "Wednesday Books"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/simpleDate": [
+        {
+          "@value": "2020"
+        }
+      ]
+    },
+    {
+      "@id": "_:b82iddOtlocdOtgovresourcesinstances21226681",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Contribution",
+        "http://id.loc.gov/ontologies/bibframe/PrimaryContribution"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/agent": [
+        {
+          "@id": "http://id.loc.gov/rwo/agents/no2019012479"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/role": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/relators/aut"
+        }
+      ]
+    },
+    {
+      "@id": "_:b123iddOtlocdOtgovresourcesinstances21226681",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/status": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/mstatus/c"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/date": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "@value": "2022-05-05T15:28:57"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/descriptionModifier": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/organizations/dlc"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/menclvl/f",
+      "@type": [
+        "http://id.loc.gov/ontologies/bflc/EncodingLevel"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "full"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "f"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/mediaTypes/n",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Media"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "unmediated"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "n"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/descriptionConventions/isbd",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/DescriptionConventions"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "ISBD: International standard bibliographic description"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "isbd"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/languages/eng",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Language"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@language": "en",
+          "@value": "English"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#string",
+          "@value": "eng"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/organizations/dlcmrc",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Agent",
+        "http://id.loc.gov/ontologies/bibframe/Organization"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "United States, Library of Congress, Network Development and MARC Standards Office"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/code",
+          "@value": "DLC-MRC"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+          "@value": "dlcmrc"
+        },
+        {
+          "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+          "@value": "US-dlcmrc"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/rwo/agents/no2019012479",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Agent",
+        "http://id.loc.gov/ontologies/bibframe/Person"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Capin, Hannah"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bflc/marcKey": [
+        {
+          "@value": "1001 $aCapin, Hannah"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/marcauthen/lcac",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/DescriptionAuthentication"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Library of Congress Children's and Young Adults' Cataloging Program"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "lcac"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/mstatus/cancinv",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Status"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "canceled or invalid"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "cancinv"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/carriers/nc",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Carrier"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "volume"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "nc"
+        }
+      ]
+    },
+    {
+      "@id": "_:b39iddOtlocdOtgovresourcesinstances21226681",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Isbn"
+      ],
+      "http://www.w3.org/1999/02/22-rdf-syntax-ns#value": [
+        {
+          "@value": "9781250239556"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/status": [
+        {
+          "@id": "http://id.loc.gov/vocabulary/mstatus/cancinv"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/qualifier": [
+        {
+          "@value": "ebook"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/issuance/mono",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Issuance"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "single unit"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "mono"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/mstatus/c",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Status",
+        "http://id.loc.gov/ontologies/bibframe/Status"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "changed"
+        },
+        {
+          "@value": "changed"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "c"
+        },
+        {
+          "@value": "c"
+        }
+      ]
+    },
+    {
+      "@id": "_:b53iddOtlocdOtgovresourcesinstances21226681",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Title"
+      ],
+      "http://id.loc.gov/ontologies/bibframe/mainTitle": [
+        {
+          "@value": "Foul is fair"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/marcauthen/pcc",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/DescriptionAuthentication"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "Program for Cooperative Cataloging"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "pcc"
+        }
+      ]
+    },
+    {
+      "@id": "http://id.loc.gov/vocabulary/mstatus/n",
+      "@type": [
+        "http://id.loc.gov/ontologies/bibframe/Status"
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+        {
+          "@value": "new"
+        }
+      ],
+      "http://id.loc.gov/ontologies/bibframe/code": [
+        {
+          "@value": "n"
+        }
+      ]
+    }
+  ]
+}

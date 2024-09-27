@@ -1,0 +1,289 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mets="http://www.loc.gov/METS/" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:bfidx="info:lc/xq-modules/bfidx" xmlns:semtriples="http://marklogic.com/semantic" xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bflc="http://id.loc.gov/ontologies/bflc/" xmlns:bfsimple="http://id.loc.gov/ontologies/bfsimple/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <marcxml:leader>03927cam a2200757 i 4500</marcxml:leader>
+  <marcxml:controlfield tag="001">20946129</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20210714120237.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">190424t20192019nyu           000 f eng d</marcxml:controlfield>
+  <marcxml:datafield ind1=" " ind2=" " tag="906">
+    <marcxml:subfield code="a">7</marcxml:subfield>
+    <marcxml:subfield code="b">cbc</marcxml:subfield>
+    <marcxml:subfield code="c">copycat</marcxml:subfield>
+    <marcxml:subfield code="d">2</marcxml:subfield>
+    <marcxml:subfield code="e">epcn</marcxml:subfield>
+    <marcxml:subfield code="f">20</marcxml:subfield>
+    <marcxml:subfield code="g">y-gencatlg</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1="0" ind2=" " tag="925">
+    <marcxml:subfield code="a">acquire</marcxml:subfield>
+    <marcxml:subfield code="b">2 shelf copies</marcxml:subfield>
+    <marcxml:subfield code="x">Sel/ddw, 2019-10-21</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1=" " ind2=" " tag="955">
+    <marcxml:subfield code="b">xk18 2019-11-19 z-processor</marcxml:subfield>
+    <marcxml:subfield code="i">xk18 2019-11-19 to LOAN</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1=" " ind2=" " tag="955">
+    <marcxml:subfield code="a">pc24 2019-04-24</marcxml:subfield>
+    <marcxml:subfield code="a">hh20 2019-11-01 2 copies on order for LOAN</marcxml:subfield>
+    <marcxml:subfield code="a">xk25 2020-09-04 discard (CLHC) to CALM</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1=" " ind2=" " tag="010">
+    <marcxml:subfield code="a">  2019940775</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1=" " ind2=" " tag="020">
+    <marcxml:subfield code="a">9780385543781</marcxml:subfield>
+    <marcxml:subfield code="q">(hardcover)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1=" " ind2=" " tag="020">
+    <marcxml:subfield code="a">0385543786</marcxml:subfield>
+    <marcxml:subfield code="q">(hardcover)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1=" " ind2=" " tag="020">
+    <marcxml:subfield code="a">9780525562627</marcxml:subfield>
+    <marcxml:subfield code="q">(paperback)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1=" " ind2=" " tag="020">
+    <marcxml:subfield code="z">9780385543798</marcxml:subfield>
+    <marcxml:subfield code="q">(ebook)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1=" " ind2=" " tag="035">
+    <marcxml:subfield code="a">(OCoLC)on1098191298</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1=" " ind2=" " tag="040">
+    <marcxml:subfield code="a">ERASA</marcxml:subfield>
+    <marcxml:subfield code="b">eng</marcxml:subfield>
+    <marcxml:subfield code="c">ERASA</marcxml:subfield>
+    <marcxml:subfield code="e">rda</marcxml:subfield>
+    <marcxml:subfield code="d">BDX</marcxml:subfield>
+    <marcxml:subfield code="d">CVM</marcxml:subfield>
+    <marcxml:subfield code="d">IEP</marcxml:subfield>
+    <marcxml:subfield code="d">FOLLT</marcxml:subfield>
+    <marcxml:subfield code="d">NLN</marcxml:subfield>
+    <marcxml:subfield code="d">OCLCF</marcxml:subfield>
+    <marcxml:subfield code="d">PX0</marcxml:subfield>
+    <marcxml:subfield code="d">VLR</marcxml:subfield>
+    <marcxml:subfield code="d">YBM</marcxml:subfield>
+    <marcxml:subfield code="d">ILC</marcxml:subfield>
+    <marcxml:subfield code="d">UAB</marcxml:subfield>
+    <marcxml:subfield code="d">TCH</marcxml:subfield>
+    <marcxml:subfield code="d">CM2</marcxml:subfield>
+    <marcxml:subfield code="d">YDXIT</marcxml:subfield>
+    <marcxml:subfield code="d">NDS</marcxml:subfield>
+    <marcxml:subfield code="d">GTA</marcxml:subfield>
+    <marcxml:subfield code="d">IBI</marcxml:subfield>
+    <marcxml:subfield code="d">UBC</marcxml:subfield>
+    <marcxml:subfield code="d">MQ6</marcxml:subfield>
+    <marcxml:subfield code="d">TXKIL</marcxml:subfield>
+    <marcxml:subfield code="d">YBM</marcxml:subfield>
+    <marcxml:subfield code="d">ALCCP</marcxml:subfield>
+    <marcxml:subfield code="d">CQA</marcxml:subfield>
+    <marcxml:subfield code="d">OCLCO</marcxml:subfield>
+    <marcxml:subfield code="d">WAU</marcxml:subfield>
+    <marcxml:subfield code="d">YDX</marcxml:subfield>
+    <marcxml:subfield code="d">OCLCO</marcxml:subfield>
+    <marcxml:subfield code="d">GZN</marcxml:subfield>
+    <marcxml:subfield code="d">CHVBK</marcxml:subfield>
+    <marcxml:subfield code="d">OCLCO</marcxml:subfield>
+    <marcxml:subfield code="d">KD5</marcxml:subfield>
+    <marcxml:subfield code="d">OCLCQ</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1=" " ind2=" " tag="042">
+    <marcxml:subfield code="a">lccopycat</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1=" " ind2=" " tag="046">
+    <marcxml:subfield code="k">2019</marcxml:subfield>
+    <marcxml:subfield code="2">edtf</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1="0" ind2="0" tag="050">
+    <marcxml:subfield code="a">PR9199.3.A8</marcxml:subfield>
+    <marcxml:subfield code="b">T47 2019</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1=" " ind2="8" tag="055">
+    <marcxml:subfield code="a">PS8501.T86</marcxml:subfield>
+    <marcxml:subfield code="b">T47 2019</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1="0" ind2="4" tag="082">
+    <marcxml:subfield code="a">813/.54</marcxml:subfield>
+    <marcxml:subfield code="2">23</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1="1" ind2=" " tag="100">
+    <marcxml:subfield code="a">Atwood, Margaret,</marcxml:subfield>
+    <marcxml:subfield code="d">1939-</marcxml:subfield>
+    <marcxml:subfield code="e">author.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1="1" ind2="4" tag="245">
+    <marcxml:subfield code="a">The testaments /</marcxml:subfield>
+    <marcxml:subfield code="c">Margaret Atwood.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1=" " ind2=" " tag="250">
+    <marcxml:subfield code="a">First edition.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1=" " ind2="1" tag="264">
+    <marcxml:subfield code="a">New York :</marcxml:subfield>
+    <marcxml:subfield code="b">Nan A. Talese/Doubleday,</marcxml:subfield>
+    <marcxml:subfield code="c">[2019]</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1=" " ind2="4" tag="264">
+    <marcxml:subfield code="c">©2019</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1=" " ind2=" " tag="300">
+    <marcxml:subfield code="a">x, 419 pages ;</marcxml:subfield>
+    <marcxml:subfield code="c">25 cm</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1=" " ind2=" " tag="336">
+    <marcxml:subfield code="a">text</marcxml:subfield>
+    <marcxml:subfield code="b">txt</marcxml:subfield>
+    <marcxml:subfield code="2">rdacontent</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1=" " ind2=" " tag="337">
+    <marcxml:subfield code="a">unmediated</marcxml:subfield>
+    <marcxml:subfield code="b">n</marcxml:subfield>
+    <marcxml:subfield code="2">rdamedia</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1=" " ind2=" " tag="338">
+    <marcxml:subfield code="a">volume</marcxml:subfield>
+    <marcxml:subfield code="b">nc</marcxml:subfield>
+    <marcxml:subfield code="2">rdacarrier</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1=" " ind2=" " tag="386">
+    <marcxml:subfield code="a">Canadians</marcxml:subfield>
+    <marcxml:subfield code="2">lcdgt</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1=" " ind2=" " tag="386">
+    <marcxml:subfield code="a">Women</marcxml:subfield>
+    <marcxml:subfield code="2">lcdgt</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1=" " ind2=" " tag="500">
+    <marcxml:subfield code="a">Sequel to: The Handmaid's Tale.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1="0" ind2=" " tag="505">
+    <marcxml:subfield code="a">Statue -- Precious flower -- Hymn -- The clothes hound -- Van -- Six for dead -- Stadium -- Carnarvon -- Thank tank -- Spring green -- Sackcloth -- Carpitz -- Secateurs -- Ardua Hall -- Fox and cat -- Pearl girls -- Perfect teeth -- Reading room -- Study -- Bloodlines -- Fast and thick -- Heartstopper -- Wall -- The Nellie J. Banks -- Wakeup -- Landfall -- Sendoff -- The thirteenth symposium.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1=" " ind2=" " tag="520">
+    <marcxml:subfield code="a">More than fifteen years after the events of The Handmaid's Tale, the theocratic regime of the Republic of Gilead maintains its grip on power, but there are signs it is beginning to rot from within. At this crucial moment, the lives of three radically different women converge, with potentially explosive results. Two have grown up as part of the first generation to come of age in the new order. The testimonies of these two young women are joined by a third voice: a woman who wields power through the ruthless accumulation and deployment of secrets. As Atwood unfolds The Testaments, she opens up the innermost workings of Gilead as each woman is forced to come to terms with who she is, and how far she will go for what she believes. --Publisher description</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1=" " ind2="0" tag="650">
+    <marcxml:subfield code="a">Theocracy</marcxml:subfield>
+    <marcxml:subfield code="v">Fiction.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1=" " ind2="0" tag="650">
+    <marcxml:subfield code="a">Surrogate mothers</marcxml:subfield>
+    <marcxml:subfield code="v">Fiction.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1=" " ind2="0" tag="650">
+    <marcxml:subfield code="a">Misogyny</marcxml:subfield>
+    <marcxml:subfield code="v">Fiction.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1=" " ind2="0" tag="650">
+    <marcxml:subfield code="a">Women</marcxml:subfield>
+    <marcxml:subfield code="v">Fiction.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1=" " ind2="0" tag="650">
+    <marcxml:subfield code="a">Government, Resistance to</marcxml:subfield>
+    <marcxml:subfield code="v">Fiction.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1=" " ind2="0" tag="650">
+    <marcxml:subfield code="a">Pregnancy</marcxml:subfield>
+    <marcxml:subfield code="x">Social aspects</marcxml:subfield>
+    <marcxml:subfield code="v">Fiction.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1=" " ind2="0" tag="650">
+    <marcxml:subfield code="a">Dystopias</marcxml:subfield>
+    <marcxml:subfield code="v">Fiction.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1=" " ind2="7" tag="650">
+    <marcxml:subfield code="a">FICTION</marcxml:subfield>
+    <marcxml:subfield code="x">Dystopian.</marcxml:subfield>
+    <marcxml:subfield code="2">bisacsh</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1=" " ind2="7" tag="650">
+    <marcxml:subfield code="a">FICTION</marcxml:subfield>
+    <marcxml:subfield code="x">Literary.</marcxml:subfield>
+    <marcxml:subfield code="2">bisacsh</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1=" " ind2="7" tag="650">
+    <marcxml:subfield code="a">FICTION</marcxml:subfield>
+    <marcxml:subfield code="x">Science Fiction</marcxml:subfield>
+    <marcxml:subfield code="x">General.</marcxml:subfield>
+    <marcxml:subfield code="2">bisacsh</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1=" " ind2="7" tag="655">
+    <marcxml:subfield code="a">Dystopian fiction.</marcxml:subfield>
+    <marcxml:subfield code="2">bisacsh</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1=" " ind2="7" tag="655">
+    <marcxml:subfield code="a">Political fiction.</marcxml:subfield>
+    <marcxml:subfield code="2">bisacsh</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1=" " ind2="7" tag="650">
+    <marcxml:subfield code="a">Misogyny.</marcxml:subfield>
+    <marcxml:subfield code="2">fast</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1=" " ind2="7" tag="650">
+    <marcxml:subfield code="a">Women.</marcxml:subfield>
+    <marcxml:subfield code="2">fast</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1=" " ind2="7" tag="655">
+    <marcxml:subfield code="a">Dystopian fiction.</marcxml:subfield>
+    <marcxml:subfield code="2">fast</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1=" " ind2="7" tag="655">
+    <marcxml:subfield code="a">Fiction.</marcxml:subfield>
+    <marcxml:subfield code="2">fast</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1=" " ind2="7" tag="650">
+    <marcxml:subfield code="a">Frauenfeindlichkeit</marcxml:subfield>
+    <marcxml:subfield code="2">gnd</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1=" " ind2="7" tag="650">
+    <marcxml:subfield code="a">Geschlechterverhältnis</marcxml:subfield>
+    <marcxml:subfield code="2">gnd</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1=" " ind2="7" tag="655">
+    <marcxml:subfield code="a">Dystopias.</marcxml:subfield>
+    <marcxml:subfield code="2">gsafd</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1=" " ind2="7" tag="655">
+    <marcxml:subfield code="a">Fantasy fiction.</marcxml:subfield>
+    <marcxml:subfield code="2">lcgft</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1=" " ind2="7" tag="655">
+    <marcxml:subfield code="a">Dystopian fiction.</marcxml:subfield>
+    <marcxml:subfield code="2">lcgft</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1=" " ind2="7" tag="655">
+    <marcxml:subfield code="a">Political fiction.</marcxml:subfield>
+    <marcxml:subfield code="2">lcgft</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1=" " ind2="7" tag="655">
+    <marcxml:subfield code="a">Novels.</marcxml:subfield>
+    <marcxml:subfield code="2">lcgft</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1=" " ind2="7" tag="650">
+    <marcxml:subfield code="a">Misogyny</marcxml:subfield>
+    <marcxml:subfield code="v">Fiction.</marcxml:subfield>
+    <marcxml:subfield code="2">sears</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1=" " ind2="7" tag="650">
+    <marcxml:subfield code="a">Women</marcxml:subfield>
+    <marcxml:subfield code="v">Fiction.</marcxml:subfield>
+    <marcxml:subfield code="2">sears</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1=" " ind2="7" tag="655">
+    <marcxml:subfield code="a">Dystopian fiction.</marcxml:subfield>
+    <marcxml:subfield code="2">sears</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1="1" ind2=" " tag="700">
+    <marcxml:subfield code="a">Atwood, Margaret,</marcxml:subfield>
+    <marcxml:subfield code="d">1939-</marcxml:subfield>
+    <marcxml:subfield code="t">Handmaid's tale.</marcxml:subfield>
+    <marcxml:subfield code="i">Sequel to:</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield ind1=" " ind2=" " tag="923">
+    <marcxml:subfield code="a">Purchase</marcxml:subfield>
+    <marcxml:subfield code="d">20191101</marcxml:subfield>
+    <marcxml:subfield code="i">Loan Div. folder (FY20)</marcxml:subfield>
+    <marcxml:subfield code="n">347029</marcxml:subfield>
+    <marcxml:subfield code="s">East City Bookshop</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

@@ -1,0 +1,143 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bflc="http://id.loc.gov/ontologies/bflc/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:streams="info:lc/streams#">
+  <marcxml:leader>01766cam a22004578i 4500</marcxml:leader>
+  <marcxml:controlfield tag="001">21481818</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20200327122025.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">200327s2020    nyu    c 6    000 1 eng  </marcxml:controlfield>
+  <marcxml:datafield tag="906" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">7</marcxml:subfield>
+    <marcxml:subfield code="b">cbc</marcxml:subfield>
+    <marcxml:subfield code="c">orignew</marcxml:subfield>
+    <marcxml:subfield code="d">1</marcxml:subfield>
+    <marcxml:subfield code="e">ecip</marcxml:subfield>
+    <marcxml:subfield code="f">20</marcxml:subfield>
+    <marcxml:subfield code="g">y-gencatlg</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="925" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">acquire</marcxml:subfield>
+    <marcxml:subfield code="b">1 shelf copy</marcxml:subfield>
+    <marcxml:subfield code="x">policy default</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="955" ind1=" " ind2=" ">
+    <marcxml:subfield code="b">xk05 2020-03-27</marcxml:subfield>
+    <marcxml:subfield code="i">xk05 2020-03-27 (telework) to CIP</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">  2020014917</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="020" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">9781534441538</marcxml:subfield>
+    <marcxml:subfield code="q">(hardcover)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="020" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">9781534441545</marcxml:subfield>
+    <marcxml:subfield code="q">(paperback)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="020" ind1=" " ind2=" ">
+    <marcxml:subfield code="z">9781534441552</marcxml:subfield>
+    <marcxml:subfield code="q">(ebook)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">DLC</marcxml:subfield>
+    <marcxml:subfield code="b">eng</marcxml:subfield>
+    <marcxml:subfield code="e">rda</marcxml:subfield>
+    <marcxml:subfield code="c">DLC</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="042" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">pcc</marcxml:subfield>
+    <marcxml:subfield code="a">lcac</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="050" ind1="0" ind2="0">
+    <marcxml:subfield code="a">PZ7.7.L3965</marcxml:subfield>
+    <marcxml:subfield code="b">Bee 2020</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="082" ind1="0" ind2="0">
+    <marcxml:subfield code="a">741.5/973</marcxml:subfield>
+    <marcxml:subfield code="2">23</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="100" ind1="1" ind2=" ">
+    <marcxml:subfield code="a">Layne, Aliza,</marcxml:subfield>
+    <marcxml:subfield code="e">author.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="245" ind1="1" ind2="0">
+    <marcxml:subfield code="a">Beetle &amp; the Hollowbones /</marcxml:subfield>
+    <marcxml:subfield code="c">Aliza Layne ; coloring by Natalie Riess and Kristen Acampora.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="246" ind1="3" ind2=" ">
+    <marcxml:subfield code="a">Beetle and the Hollowbones.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="250" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">First Atheneum Books for Young Readers hardcover edition.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="263" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">2007</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="264" ind1=" " ind2="1">
+    <marcxml:subfield code="a">New York :</marcxml:subfield>
+    <marcxml:subfield code="b">Atheneum Books for Young Readers,</marcxml:subfield>
+    <marcxml:subfield code="c">[2020]</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="300" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">pages cm</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="336" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">text</marcxml:subfield>
+    <marcxml:subfield code="b">txt</marcxml:subfield>
+    <marcxml:subfield code="2">rdacontent</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="336" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">still image</marcxml:subfield>
+    <marcxml:subfield code="b">sti</marcxml:subfield>
+    <marcxml:subfield code="2">rdacontent</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="337" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">unmediated</marcxml:subfield>
+    <marcxml:subfield code="b">n</marcxml:subfield>
+    <marcxml:subfield code="2">rdamedia</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="338" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">volume</marcxml:subfield>
+    <marcxml:subfield code="b">nc</marcxml:subfield>
+    <marcxml:subfield code="2">rdacarrier</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="521" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Ages 8-12.</marcxml:subfield>
+    <marcxml:subfield code="b">Atheneum Books for Young Readers.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="521" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Grades 4-6.</marcxml:subfield>
+    <marcxml:subfield code="b">Atheneum Books for Young Readers.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="520" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Twelve-year-old goblin and witch-in-training Beetle enlists her former best friend, Kat Hollowbones, to help stop Kat's sorceress aunt from demolishing the mall where Beetle's friend Blob Ghost is trapped.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="1">
+    <marcxml:subfield code="a">Graphic novels.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="1">
+    <marcxml:subfield code="a">Witches</marcxml:subfield>
+    <marcxml:subfield code="v">Fiction.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="1">
+    <marcxml:subfield code="a">Goblins</marcxml:subfield>
+    <marcxml:subfield code="v">Fiction.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="1">
+    <marcxml:subfield code="a">Ghosts</marcxml:subfield>
+    <marcxml:subfield code="v">Fiction.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="1">
+    <marcxml:subfield code="a">Magic</marcxml:subfield>
+    <marcxml:subfield code="v">Fiction.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="655" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Graphic novels.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="700" ind1="1" ind2=" ">
+    <marcxml:subfield code="a">Reiss, Natalie,</marcxml:subfield>
+    <marcxml:subfield code="e">colourist.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="700" ind1="1" ind2=" ">
+    <marcxml:subfield code="a">Acampora, Kristen,</marcxml:subfield>
+    <marcxml:subfield code="e">colourist.</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

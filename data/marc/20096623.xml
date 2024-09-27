@@ -1,0 +1,111 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bflc="http://id.loc.gov/ontologies/bflc/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:streams="info:lc/streams#">
+  <marcxml:leader>01415cam a2200349 i 4500</marcxml:leader>
+  <marcxml:controlfield tag="001">20096623</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20200121150648.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">171025s2016    caua   j 6    000 1 eng  </marcxml:controlfield>
+  <marcxml:datafield tag="906" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">7</marcxml:subfield>
+    <marcxml:subfield code="b">cbc</marcxml:subfield>
+    <marcxml:subfield code="c">orignew</marcxml:subfield>
+    <marcxml:subfield code="d">3</marcxml:subfield>
+    <marcxml:subfield code="e">ncip</marcxml:subfield>
+    <marcxml:subfield code="f">20</marcxml:subfield>
+    <marcxml:subfield code="g">y-gencatlg</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="925" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">acquire</marcxml:subfield>
+    <marcxml:subfield code="b">1 shelf copy</marcxml:subfield>
+    <marcxml:subfield code="x">policy default</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="955" ind1=" " ind2=" ">
+    <marcxml:subfield code="b">xk58 2017-10-25</marcxml:subfield>
+    <marcxml:subfield code="i">xk14 2017-11-20</marcxml:subfield>
+    <marcxml:subfield code="w">xk14 2017-11-20 volume one to BCCD</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">  2017299429</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="020" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">9781608868339 (v. 1)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">DLC</marcxml:subfield>
+    <marcxml:subfield code="b">eng</marcxml:subfield>
+    <marcxml:subfield code="c">DLC</marcxml:subfield>
+    <marcxml:subfield code="e">rda</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="042" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">lcac</marcxml:subfield>
+    <marcxml:subfield code="a">pcc</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="050" ind1="0" ind2="0">
+    <marcxml:subfield code="a">PZ7.7.B377</marcxml:subfield>
+    <marcxml:subfield code="b">Cu 2016</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="082" ind1="0" ind2="0">
+    <marcxml:subfield code="a">741.5/973</marcxml:subfield>
+    <marcxml:subfield code="2">23</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="100" ind1="1" ind2=" ">
+    <marcxml:subfield code="a">Bastian, Jeremy,</marcxml:subfield>
+    <marcxml:subfield code="d">1978-</marcxml:subfield>
+    <marcxml:subfield code="e">writer,</marcxml:subfield>
+    <marcxml:subfield code="e">illustrator.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="245" ind1="1" ind2="0">
+    <marcxml:subfield code="a">Cursed pirate girl /</marcxml:subfield>
+    <marcxml:subfield code="c">written and illustrated by Jeremy A. Bastian.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="264" ind1=" " ind2="1">
+    <marcxml:subfield code="a">Los Angeles, CA :</marcxml:subfield>
+    <marcxml:subfield code="b">Archaia,</marcxml:subfield>
+    <marcxml:subfield code="c">2016.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="300" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">volumes ;</marcxml:subfield>
+    <marcxml:subfield code="b">chiefly illustrations ;</marcxml:subfield>
+    <marcxml:subfield code="c">26 cm</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="336" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">text</marcxml:subfield>
+    <marcxml:subfield code="b">txt</marcxml:subfield>
+    <marcxml:subfield code="2">rdacontent</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="336" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">still image</marcxml:subfield>
+    <marcxml:subfield code="2">rdacontent</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="337" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">unmediated</marcxml:subfield>
+    <marcxml:subfield code="b">n</marcxml:subfield>
+    <marcxml:subfield code="2">rdamedia</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="338" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">volume</marcxml:subfield>
+    <marcxml:subfield code="b">nc</marcxml:subfield>
+    <marcxml:subfield code="2">rdacarrier</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="520" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">A cursed pirate girl goes on a journey above and below the sea in order to find her father.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="505" ind1="1" ind2=" ">
+    <marcxml:subfield code="a">Volume one: The little fishy that got away -- Through the obscurum per obscurious -- 4 not 5 -- Epilogue: in Apollonia's room -- Alternate cover-gallery -- The Royal portraiturist.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="655" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Graphic novels.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="1">
+    <marcxml:subfield code="a">Graphic novels.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="1">
+    <marcxml:subfield code="a">Adventure and adventurers</marcxml:subfield>
+    <marcxml:subfield code="v">Fiction.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="1">
+    <marcxml:subfield code="a">Pirates</marcxml:subfield>
+    <marcxml:subfield code="v">Fiction.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="1">
+    <marcxml:subfield code="a">Sea stories.</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

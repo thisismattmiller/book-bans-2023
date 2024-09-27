@@ -1,0 +1,418 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bflc="http://id.loc.gov/ontologies/bflc/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:streams="info:lc/streams#">
+  <marcxml:leader>06090cam a22010217i 4500</marcxml:leader>
+  <marcxml:controlfield tag="001">21768751</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20201028101951.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">201026t20202020nyua   d 6    000 0aeng d</marcxml:controlfield>
+  <marcxml:datafield tag="906" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">0</marcxml:subfield>
+    <marcxml:subfield code="b">ibc</marcxml:subfield>
+    <marcxml:subfield code="c">copycat</marcxml:subfield>
+    <marcxml:subfield code="d">2</marcxml:subfield>
+    <marcxml:subfield code="e">ncip</marcxml:subfield>
+    <marcxml:subfield code="f">20</marcxml:subfield>
+    <marcxml:subfield code="g">y-gencatlg</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="925" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">acquire</marcxml:subfield>
+    <marcxml:subfield code="b">2 shelf copies</marcxml:subfield>
+    <marcxml:subfield code="x">policy default</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="955" ind1=" " ind2=" ">
+    <marcxml:subfield code="b">xn11 2020-10-26 z-processor to USASH</marcxml:subfield>
+    <marcxml:subfield code="i">rk11 2020-10-28 to SHEd</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">  2020288662</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="020" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">9780062685100</marcxml:subfield>
+    <marcxml:subfield code="q">(hardcover)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="020" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">0062685104</marcxml:subfield>
+    <marcxml:subfield code="q">(hardcover)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="020" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">9780062685094</marcxml:subfield>
+    <marcxml:subfield code="q">(paperback)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="020" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">0062685090</marcxml:subfield>
+    <marcxml:subfield code="q">(paperback)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="035" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">(OCoLC)on1137374420</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="037" ind1=" " ind2=" ">
+    <marcxml:subfield code="b">Harpercollins Childrens Books, Attn Elaine Nealon 53 Glenmaura National Blvd Ste 300, Moosaic, PA, USA, 18507-2132</marcxml:subfield>
+    <marcxml:subfield code="n">SAN 200-2086</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">VAJ</marcxml:subfield>
+    <marcxml:subfield code="b">eng</marcxml:subfield>
+    <marcxml:subfield code="e">rda</marcxml:subfield>
+    <marcxml:subfield code="c">VAJ</marcxml:subfield>
+    <marcxml:subfield code="d">OPW</marcxml:subfield>
+    <marcxml:subfield code="d">OCO</marcxml:subfield>
+    <marcxml:subfield code="d">OCLCO</marcxml:subfield>
+    <marcxml:subfield code="d">PX0</marcxml:subfield>
+    <marcxml:subfield code="d">OCLCO</marcxml:subfield>
+    <marcxml:subfield code="d">UAP</marcxml:subfield>
+    <marcxml:subfield code="d">VP@</marcxml:subfield>
+    <marcxml:subfield code="d">NYP</marcxml:subfield>
+    <marcxml:subfield code="d">CLE</marcxml:subfield>
+    <marcxml:subfield code="d">ORX</marcxml:subfield>
+    <marcxml:subfield code="d">JQW</marcxml:subfield>
+    <marcxml:subfield code="d">EHH</marcxml:subfield>
+    <marcxml:subfield code="d">GK8</marcxml:subfield>
+    <marcxml:subfield code="d">YDX</marcxml:subfield>
+    <marcxml:subfield code="d">BDX</marcxml:subfield>
+    <marcxml:subfield code="d">LMJ</marcxml:subfield>
+    <marcxml:subfield code="d">JTH</marcxml:subfield>
+    <marcxml:subfield code="d">TXSCH</marcxml:subfield>
+    <marcxml:subfield code="d">SDG</marcxml:subfield>
+    <marcxml:subfield code="d">OCLCF</marcxml:subfield>
+    <marcxml:subfield code="d">OCLCO</marcxml:subfield>
+    <marcxml:subfield code="d">YU6</marcxml:subfield>
+    <marcxml:subfield code="d">OCLCO</marcxml:subfield>
+    <marcxml:subfield code="d">NZAUC</marcxml:subfield>
+    <marcxml:subfield code="d">ANK</marcxml:subfield>
+    <marcxml:subfield code="d">SLPLM</marcxml:subfield>
+    <marcxml:subfield code="d">FLQ</marcxml:subfield>
+    <marcxml:subfield code="d">ALD</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="042" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">lccopycat</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="043" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">n-us---</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="050" ind1="0" ind2="0">
+    <marcxml:subfield code="a">PN6727.H23</marcxml:subfield>
+    <marcxml:subfield code="b">Z46 2020</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="082" ind1="0" ind2="4">
+    <marcxml:subfield code="a">305.9/06912</marcxml:subfield>
+    <marcxml:subfield code="2">23</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="100" ind1="1" ind2=" ">
+    <marcxml:subfield code="a">Ha, Robin,</marcxml:subfield>
+    <marcxml:subfield code="e">author,</marcxml:subfield>
+    <marcxml:subfield code="e">illustrator.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="245" ind1="1" ind2="0">
+    <marcxml:subfield code="a">Almost American girl :</marcxml:subfield>
+    <marcxml:subfield code="b">an illustrated memoir /</marcxml:subfield>
+    <marcxml:subfield code="c">Robin Ha.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="250" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">First edition.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="264" ind1=" " ind2="1">
+    <marcxml:subfield code="a">New York, NY :</marcxml:subfield>
+    <marcxml:subfield code="b">Balzer + Bray/Harper Alley, imprints of HarperCollins Publishers,</marcxml:subfield>
+    <marcxml:subfield code="c">[2020]</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="264" ind1=" " ind2="4">
+    <marcxml:subfield code="c">©2020</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="300" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">227 pages :</marcxml:subfield>
+    <marcxml:subfield code="b">color illustrations ;</marcxml:subfield>
+    <marcxml:subfield code="c">24 cm</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="336" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">text</marcxml:subfield>
+    <marcxml:subfield code="b">txt</marcxml:subfield>
+    <marcxml:subfield code="2">rdacontent</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="336" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">still image</marcxml:subfield>
+    <marcxml:subfield code="b">sti</marcxml:subfield>
+    <marcxml:subfield code="2">rdacontent</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="337" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">unmediated</marcxml:subfield>
+    <marcxml:subfield code="b">n</marcxml:subfield>
+    <marcxml:subfield code="2">rdamedia</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="338" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">volume</marcxml:subfield>
+    <marcxml:subfield code="b">nc</marcxml:subfield>
+    <marcxml:subfield code="2">rdacarrier</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="380" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Book</marcxml:subfield>
+    <marcxml:subfield code="2">marcgt</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="520" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">"A powerful and moving teen graphic novel memoir about immigration, belonging, and how arts can save a life--perfect for fans of American Born Chinese and Hey, Kiddo. For as long as she can remember, it's been Robin and her mom against the world. Growing up as the only child of a single mother in Seoul, Korea, wasn't always easy, but it has bonded them fiercely together. So when a vacation to visit friends in Huntsville, Alabama, unexpectedly becomes a permanent relocation--following her mother's announcement that she's getting married--Robin is devastated. Overnight, her life changes. She is dropped into a new school where she doesn't understand the language and struggles to keep up. She is completely cut off from her friends in Seoul and has no access to her beloved comics. At home, she doesn't fit in with her new stepfamily, and worst of all, she is furious with the one person she is closest to--her mother. Then one day Robin's mother enrolls her in a local comic drawing class, which opens the window to a future Robin could never have imagined."--Provided by publisher.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="600" ind1="1" ind2="0">
+    <marcxml:subfield code="a">Ha, Robin</marcxml:subfield>
+    <marcxml:subfield code="v">Comic books, strips, etc.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Korean American women cartoonists</marcxml:subfield>
+    <marcxml:subfield code="v">Biography</marcxml:subfield>
+    <marcxml:subfield code="v">Comic books, strips, etc.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Korean American women illustrators</marcxml:subfield>
+    <marcxml:subfield code="v">Biography</marcxml:subfield>
+    <marcxml:subfield code="v">Comic books, strips, etc.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Cartoonists</marcxml:subfield>
+    <marcxml:subfield code="z">United States</marcxml:subfield>
+    <marcxml:subfield code="v">Biography</marcxml:subfield>
+    <marcxml:subfield code="v">Comic books, strips, etc.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Illustrators</marcxml:subfield>
+    <marcxml:subfield code="z">United States</marcxml:subfield>
+    <marcxml:subfield code="v">Biography</marcxml:subfield>
+    <marcxml:subfield code="v">Comic books, strips, etc.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Mothers and daughters</marcxml:subfield>
+    <marcxml:subfield code="z">United States</marcxml:subfield>
+    <marcxml:subfield code="v">Biography</marcxml:subfield>
+    <marcxml:subfield code="v">Comic books, strips, etc.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Teenage girls</marcxml:subfield>
+    <marcxml:subfield code="z">United States</marcxml:subfield>
+    <marcxml:subfield code="v">Biography</marcxml:subfield>
+    <marcxml:subfield code="v">Comic books, strips, etc.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Korean Americans</marcxml:subfield>
+    <marcxml:subfield code="x">Cultural assimilation</marcxml:subfield>
+    <marcxml:subfield code="v">Comic books, strips, etc.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="655" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Young adult fiction.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="600" ind1="1" ind2="1">
+    <marcxml:subfield code="a">Ha, Robin</marcxml:subfield>
+    <marcxml:subfield code="v">Cartoons and comics.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="1">
+    <marcxml:subfield code="a">Comic books, strips, etc.</marcxml:subfield>
+    <marcxml:subfield code="x">Korean American authors</marcxml:subfield>
+    <marcxml:subfield code="v">Cartoons and comics.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="1">
+    <marcxml:subfield code="a">Graphic novels.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Authors, American.</marcxml:subfield>
+    <marcxml:subfield code="2">fast</marcxml:subfield>
+    <marcxml:subfield code="0">(OCoLC)fst00821764</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Comic books, strips, etc.</marcxml:subfield>
+    <marcxml:subfield code="x">Authorship.</marcxml:subfield>
+    <marcxml:subfield code="2">fast</marcxml:subfield>
+    <marcxml:subfield code="0">(OCoLC)fst00869148</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Emigration and immigration.</marcxml:subfield>
+    <marcxml:subfield code="2">fast</marcxml:subfield>
+    <marcxml:subfield code="0">(OCoLC)fst00908690</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="7">
+    <marcxml:subfield code="a">English language</marcxml:subfield>
+    <marcxml:subfield code="x">Study and teaching.</marcxml:subfield>
+    <marcxml:subfield code="2">fast</marcxml:subfield>
+    <marcxml:subfield code="0">(OCoLC)fst00911670</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Immigrants.</marcxml:subfield>
+    <marcxml:subfield code="2">fast</marcxml:subfield>
+    <marcxml:subfield code="0">(OCoLC)fst00967712</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Korean American families.</marcxml:subfield>
+    <marcxml:subfield code="2">fast</marcxml:subfield>
+    <marcxml:subfield code="0">(OCoLC)fst00988568</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Korean Americans.</marcxml:subfield>
+    <marcxml:subfield code="2">fast</marcxml:subfield>
+    <marcxml:subfield code="0">(OCoLC)fst00988587</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Koreans.</marcxml:subfield>
+    <marcxml:subfield code="2">fast</marcxml:subfield>
+    <marcxml:subfield code="0">(OCoLC)fst00988927</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Mothers and daughters.</marcxml:subfield>
+    <marcxml:subfield code="2">fast</marcxml:subfield>
+    <marcxml:subfield code="0">(OCoLC)fst01026997</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Single mothers.</marcxml:subfield>
+    <marcxml:subfield code="2">fast</marcxml:subfield>
+    <marcxml:subfield code="0">(OCoLC)fst01119370</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Stepfamilies.</marcxml:subfield>
+    <marcxml:subfield code="2">fast</marcxml:subfield>
+    <marcxml:subfield code="0">(OCoLC)fst01133080</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Teenage girls.</marcxml:subfield>
+    <marcxml:subfield code="2">fast</marcxml:subfield>
+    <marcxml:subfield code="0">(OCoLC)fst01145412</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Women illustrators.</marcxml:subfield>
+    <marcxml:subfield code="2">fast</marcxml:subfield>
+    <marcxml:subfield code="0">(OCoLC)fst01177763</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Women immigrants.</marcxml:subfield>
+    <marcxml:subfield code="2">fast</marcxml:subfield>
+    <marcxml:subfield code="0">(OCoLC)fst01177764</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="651" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Alabama.</marcxml:subfield>
+    <marcxml:subfield code="2">fast</marcxml:subfield>
+    <marcxml:subfield code="0">(OCoLC)fst01204694</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="651" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Korea.</marcxml:subfield>
+    <marcxml:subfield code="2">fast</marcxml:subfield>
+    <marcxml:subfield code="0">(OCoLC)fst01206434</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="651" ind1=" " ind2="7">
+    <marcxml:subfield code="a">United States.</marcxml:subfield>
+    <marcxml:subfield code="2">fast</marcxml:subfield>
+    <marcxml:subfield code="0">(OCoLC)fst01204155</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="651" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Virginia</marcxml:subfield>
+    <marcxml:subfield code="z">Falls Church.</marcxml:subfield>
+    <marcxml:subfield code="2">fast</marcxml:subfield>
+    <marcxml:subfield code="0">(OCoLC)fst01206556</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="655" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Autobiographical comics.</marcxml:subfield>
+    <marcxml:subfield code="2">fast</marcxml:subfield>
+    <marcxml:subfield code="0">(OCoLC)fst01921583</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="655" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Comic books, strips, etc.</marcxml:subfield>
+    <marcxml:subfield code="2">fast</marcxml:subfield>
+    <marcxml:subfield code="0">(OCoLC)fst01423722</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="655" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Graphic novels.</marcxml:subfield>
+    <marcxml:subfield code="2">fast</marcxml:subfield>
+    <marcxml:subfield code="0">(OCoLC)fst01726630</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="655" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Nonfiction comics.</marcxml:subfield>
+    <marcxml:subfield code="2">fast</marcxml:subfield>
+    <marcxml:subfield code="0">(OCoLC)fst01921721</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="655" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Autobiographies.</marcxml:subfield>
+    <marcxml:subfield code="2">lcgft</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="655" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Graphic novels.</marcxml:subfield>
+    <marcxml:subfield code="2">lcgft</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="655" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Autobiographical comics.</marcxml:subfield>
+    <marcxml:subfield code="2">lcgft</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="655" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Nonfiction comics.</marcxml:subfield>
+    <marcxml:subfield code="2">lcgft</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Cartoonists</marcxml:subfield>
+    <marcxml:subfield code="v">Biography</marcxml:subfield>
+    <marcxml:subfield code="v">Comic books, strips, etc.</marcxml:subfield>
+    <marcxml:subfield code="2">sears</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Women cartoonists</marcxml:subfield>
+    <marcxml:subfield code="v">Biography</marcxml:subfield>
+    <marcxml:subfield code="v">Comic books, strips, etc.</marcxml:subfield>
+    <marcxml:subfield code="2">sears</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Women illustrators</marcxml:subfield>
+    <marcxml:subfield code="v">Biography</marcxml:subfield>
+    <marcxml:subfield code="v">Comic books, strips, etc.</marcxml:subfield>
+    <marcxml:subfield code="2">sears</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Women immigrants</marcxml:subfield>
+    <marcxml:subfield code="v">Biography</marcxml:subfield>
+    <marcxml:subfield code="v">Comic books, strips, etc.</marcxml:subfield>
+    <marcxml:subfield code="2">sears</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Immigration and emigration</marcxml:subfield>
+    <marcxml:subfield code="v">Comic books, strips, etc.</marcxml:subfield>
+    <marcxml:subfield code="2">sears</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Immigrants</marcxml:subfield>
+    <marcxml:subfield code="v">Comic books, strips, etc.</marcxml:subfield>
+    <marcxml:subfield code="2">sears</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Mother-daughter relationship</marcxml:subfield>
+    <marcxml:subfield code="v">Comic books, strips, etc.</marcxml:subfield>
+    <marcxml:subfield code="2">sears</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Single parents</marcxml:subfield>
+    <marcxml:subfield code="v">Comic books, strips, etc.</marcxml:subfield>
+    <marcxml:subfield code="2">sears</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Teenagers</marcxml:subfield>
+    <marcxml:subfield code="v">Comic books, strips, etc.</marcxml:subfield>
+    <marcxml:subfield code="2">sears</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Koreans</marcxml:subfield>
+    <marcxml:subfield code="v">Comic books, strips, etc.</marcxml:subfield>
+    <marcxml:subfield code="2">sears</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Stepfamilies</marcxml:subfield>
+    <marcxml:subfield code="v">Comic books, strips, etc.</marcxml:subfield>
+    <marcxml:subfield code="2">sears</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Korean American families</marcxml:subfield>
+    <marcxml:subfield code="v">Comic books, strips, etc.</marcxml:subfield>
+    <marcxml:subfield code="2">sears</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Korean Americans</marcxml:subfield>
+    <marcxml:subfield code="v">Comic books, strips, etc.</marcxml:subfield>
+    <marcxml:subfield code="2">sears</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Comic books, strips, etc</marcxml:subfield>
+    <marcxml:subfield code="v">Comic books, strips, etc.</marcxml:subfield>
+    <marcxml:subfield code="2">sears</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Graphic novels</marcxml:subfield>
+    <marcxml:subfield code="v">Comic books, strips, etc.</marcxml:subfield>
+    <marcxml:subfield code="2">sears</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

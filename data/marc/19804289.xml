@@ -1,0 +1,134 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bflc="http://id.loc.gov/ontologies/bflc/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:streams="info:lc/streams#">
+  <marcxml:leader>02269cam a2200373 i 4500</marcxml:leader>
+  <marcxml:controlfield tag="001">19804289</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20190712125422.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">170720s2018    nyua          000 0beng  </marcxml:controlfield>
+  <marcxml:datafield tag="906" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">7</marcxml:subfield>
+    <marcxml:subfield code="b">cbc</marcxml:subfield>
+    <marcxml:subfield code="c">orignew</marcxml:subfield>
+    <marcxml:subfield code="d">1</marcxml:subfield>
+    <marcxml:subfield code="e">ecip</marcxml:subfield>
+    <marcxml:subfield code="f">20</marcxml:subfield>
+    <marcxml:subfield code="g">y-gencatlg</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="925" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">acquire</marcxml:subfield>
+    <marcxml:subfield code="b">1 shelf copy</marcxml:subfield>
+    <marcxml:subfield code="x">policy default</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="955" ind1=" " ind2=" ">
+    <marcxml:subfield code="b">cd06 2017-07-20</marcxml:subfield>
+    <marcxml:subfield code="i">cd06 2017-07-20 to Dewey</marcxml:subfield>
+    <marcxml:subfield code="w">xm06 2017-07-21</marcxml:subfield>
+    <marcxml:subfield code="a">xn13 2018-11-06 1 copy rec'd., to CIP ver.</marcxml:subfield>
+    <marcxml:subfield code="f">rf10 2018-11-20 (telework) CIP ver. to CALM ;</marcxml:subfield>
+    <marcxml:subfield code="e">cd06 2019-03-20 added 100, 700, corrected 050 (still mark) to GenGoll.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">  2017034415</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="020" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">9781101871799 (hard cover : alk. paper)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="020" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">9781101871805 (e-book)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">DLC</marcxml:subfield>
+    <marcxml:subfield code="b">eng</marcxml:subfield>
+    <marcxml:subfield code="c">DLC</marcxml:subfield>
+    <marcxml:subfield code="e">rda</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="042" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">pcc</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="043" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">e-ne---</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="050" ind1="0" ind2="0">
+    <marcxml:subfield code="a">DS135.N6</marcxml:subfield>
+    <marcxml:subfield code="b">F73295 2018</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="082" ind1="0" ind2="0">
+    <marcxml:subfield code="a">940.53/18092</marcxml:subfield>
+    <marcxml:subfield code="a">B</marcxml:subfield>
+    <marcxml:subfield code="2">23</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="100" ind1="1" ind2=" ">
+    <marcxml:subfield code="a">Folman, Ari,</marcxml:subfield>
+    <marcxml:subfield code="e">author.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="245" ind1="1" ind2="0">
+    <marcxml:subfield code="a">Anne Frank's diary :</marcxml:subfield>
+    <marcxml:subfield code="b">the graphic adaptation /</marcxml:subfield>
+    <marcxml:subfield code="c">Anne Frank ; adapted by Ari Folman ; illustrations by David Polonsky.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="250" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">First edition.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="264" ind1=" " ind2="1">
+    <marcxml:subfield code="a">New York :</marcxml:subfield>
+    <marcxml:subfield code="b">Pantheon Books,</marcxml:subfield>
+    <marcxml:subfield code="c">[2018]</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="300" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">149 pages :</marcxml:subfield>
+    <marcxml:subfield code="b">illustrations (chiefly color) ;</marcxml:subfield>
+    <marcxml:subfield code="c">27 cm</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="336" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">text</marcxml:subfield>
+    <marcxml:subfield code="b">txt</marcxml:subfield>
+    <marcxml:subfield code="2">rdacontent</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="337" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">unmediated</marcxml:subfield>
+    <marcxml:subfield code="b">n</marcxml:subfield>
+    <marcxml:subfield code="2">rdamedia</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="338" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">volume</marcxml:subfield>
+    <marcxml:subfield code="b">nc</marcxml:subfield>
+    <marcxml:subfield code="2">rdacarrier</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="520" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">"The only graphic biography of Anne Frank's diary that has been authorized by the Anne Frank Foundation and that uses text from the diary--it will introduce a new generation of young readers to this classic of Holocaust literature. This adaptation of Anne Frank's Diary of a Young Girl into a graphic version for a young readership, maintains the integrity and power of the original work. With stunning, expressive illustrations and ample direct quotation from the diary, this edition will expand the readership for this important and lasting work of history and literature"--</marcxml:subfield>
+    <marcxml:subfield code="c">Provided by publisher.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="600" ind1="1" ind2="0">
+    <marcxml:subfield code="a">Frank, Anne,</marcxml:subfield>
+    <marcxml:subfield code="d">1929-1945</marcxml:subfield>
+    <marcxml:subfield code="v">Comic books, strips, etc.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Jewish children in the Holocaust</marcxml:subfield>
+    <marcxml:subfield code="z">Netherlands</marcxml:subfield>
+    <marcxml:subfield code="z">Amsterdam</marcxml:subfield>
+    <marcxml:subfield code="v">Biography</marcxml:subfield>
+    <marcxml:subfield code="v">Comic books, strips, etc.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Jews</marcxml:subfield>
+    <marcxml:subfield code="x">Persecutions</marcxml:subfield>
+    <marcxml:subfield code="z">Netherlands</marcxml:subfield>
+    <marcxml:subfield code="z">Amsterdam</marcxml:subfield>
+    <marcxml:subfield code="v">Biography</marcxml:subfield>
+    <marcxml:subfield code="v">Comic books, strips, etc.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="651" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Amsterdam (Netherlands)</marcxml:subfield>
+    <marcxml:subfield code="v">Biography</marcxml:subfield>
+    <marcxml:subfield code="v">Biography</marcxml:subfield>
+    <marcxml:subfield code="v">Comic books, strips, etc.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="700" ind1="1" ind2=" ">
+    <marcxml:subfield code="a">Frank, Anne,</marcxml:subfield>
+    <marcxml:subfield code="d">1929-1945.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="700" ind1="1" ind2=" ">
+    <marcxml:subfield code="a">Polonsky, David,</marcxml:subfield>
+    <marcxml:subfield code="e">illustrator.</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

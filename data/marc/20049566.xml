@@ -1,0 +1,387 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bflc="http://id.loc.gov/ontologies/bflc/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:streams="info:lc/streams#">
+  <marcxml:leader>04379cam a2200985 i 4500</marcxml:leader>
+  <marcxml:controlfield tag="001">20049566</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20200721081414.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">171005t20182018nyua   j 6    000 1 eng d</marcxml:controlfield>
+  <marcxml:datafield tag="906" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">7</marcxml:subfield>
+    <marcxml:subfield code="b">cbc</marcxml:subfield>
+    <marcxml:subfield code="c">copycat</marcxml:subfield>
+    <marcxml:subfield code="d">2</marcxml:subfield>
+    <marcxml:subfield code="e">ncip</marcxml:subfield>
+    <marcxml:subfield code="f">20</marcxml:subfield>
+    <marcxml:subfield code="g">y-gencatlg</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="925" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">acquire</marcxml:subfield>
+    <marcxml:subfield code="b">1 shelf copy</marcxml:subfield>
+    <marcxml:subfield code="x">policy default</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="955" ind1=" " ind2=" ">
+    <marcxml:subfield code="b">xk28 2019-04-11 z-processor</marcxml:subfield>
+    <marcxml:subfield code="d">sr02 2019-09-24</marcxml:subfield>
+    <marcxml:subfield code="i">xk05 2020-07-21 (TW Situational) to CALM</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">  2017957140</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="015" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">GBB8G2888</marcxml:subfield>
+    <marcxml:subfield code="2">bnb</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="016" ind1="7" ind2=" ">
+    <marcxml:subfield code="a">019039769</marcxml:subfield>
+    <marcxml:subfield code="2">Uk</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="020" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">9781250177957</marcxml:subfield>
+    <marcxml:subfield code="q">(hardcover)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="020" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">1250177952</marcxml:subfield>
+    <marcxml:subfield code="q">(hardcover)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="020" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">9781250177964</marcxml:subfield>
+    <marcxml:subfield code="q">(paperback)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="020" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">1250177960</marcxml:subfield>
+    <marcxml:subfield code="q">(paperback)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="035" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">(OCoLC)on1051238912</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">XYZ</marcxml:subfield>
+    <marcxml:subfield code="b">eng</marcxml:subfield>
+    <marcxml:subfield code="c">XYZ</marcxml:subfield>
+    <marcxml:subfield code="e">rda</marcxml:subfield>
+    <marcxml:subfield code="d">XYZ</marcxml:subfield>
+    <marcxml:subfield code="d">OCLCO</marcxml:subfield>
+    <marcxml:subfield code="d">OCO</marcxml:subfield>
+    <marcxml:subfield code="d">ZQP</marcxml:subfield>
+    <marcxml:subfield code="d">NYP</marcxml:subfield>
+    <marcxml:subfield code="d">BDX</marcxml:subfield>
+    <marcxml:subfield code="d">UNL</marcxml:subfield>
+    <marcxml:subfield code="d">LNC</marcxml:subfield>
+    <marcxml:subfield code="d">JQW</marcxml:subfield>
+    <marcxml:subfield code="d">IHX</marcxml:subfield>
+    <marcxml:subfield code="d">UIU</marcxml:subfield>
+    <marcxml:subfield code="d">VP@</marcxml:subfield>
+    <marcxml:subfield code="d">OCLCF</marcxml:subfield>
+    <marcxml:subfield code="d">IAL</marcxml:subfield>
+    <marcxml:subfield code="d">EHH</marcxml:subfield>
+    <marcxml:subfield code="d">HAS</marcxml:subfield>
+    <marcxml:subfield code="d">UKMGB</marcxml:subfield>
+    <marcxml:subfield code="d">UAB</marcxml:subfield>
+    <marcxml:subfield code="d">TY2</marcxml:subfield>
+    <marcxml:subfield code="d">MAC</marcxml:subfield>
+    <marcxml:subfield code="d">T7L</marcxml:subfield>
+    <marcxml:subfield code="d">MLM</marcxml:subfield>
+    <marcxml:subfield code="d">HQD</marcxml:subfield>
+    <marcxml:subfield code="d">JVQ</marcxml:subfield>
+    <marcxml:subfield code="d">NQF</marcxml:subfield>
+    <marcxml:subfield code="d">JP3</marcxml:subfield>
+    <marcxml:subfield code="d">IDY</marcxml:subfield>
+    <marcxml:subfield code="d">MJ8</marcxml:subfield>
+    <marcxml:subfield code="d">HTPCL</marcxml:subfield>
+    <marcxml:subfield code="d">TP7</marcxml:subfield>
+    <marcxml:subfield code="d">OCLCO</marcxml:subfield>
+    <marcxml:subfield code="d">KL8</marcxml:subfield>
+    <marcxml:subfield code="d">SSH</marcxml:subfield>
+    <marcxml:subfield code="d">IBH</marcxml:subfield>
+    <marcxml:subfield code="d">OCLCO</marcxml:subfield>
+    <marcxml:subfield code="d">BGI</marcxml:subfield>
+    <marcxml:subfield code="d">JWS</marcxml:subfield>
+    <marcxml:subfield code="d">IV0</marcxml:subfield>
+    <marcxml:subfield code="d">LKC</marcxml:subfield>
+    <marcxml:subfield code="d">LMJ</marcxml:subfield>
+    <marcxml:subfield code="d">TXSCH</marcxml:subfield>
+    <marcxml:subfield code="d">TL4</marcxml:subfield>
+    <marcxml:subfield code="d">OCLCO</marcxml:subfield>
+    <marcxml:subfield code="d">CNKEY</marcxml:subfield>
+    <marcxml:subfield code="d">OCLCO</marcxml:subfield>
+    <marcxml:subfield code="d">XXWGB</marcxml:subfield>
+    <marcxml:subfield code="d">OCLCO</marcxml:subfield>
+    <marcxml:subfield code="d">Y#4</marcxml:subfield>
+    <marcxml:subfield code="d">OCLCO</marcxml:subfield>
+    <marcxml:subfield code="d">W8A</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="042" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">lccopycat</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="050" ind1="0" ind2="0">
+    <marcxml:subfield code="a">Comic Book 17508</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="050" ind1="0" ind2="0">
+    <marcxml:subfield code="a">PZ7.7.U48</marcxml:subfield>
+    <marcxml:subfield code="b">Che 2018</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="082" ind1="0" ind2="4">
+    <marcxml:subfield code="a">741.5/973</marcxml:subfield>
+    <marcxml:subfield code="2">23</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="100" ind1="1" ind2=" ">
+    <marcxml:subfield code="a">Ukazu, Ngozi,</marcxml:subfield>
+    <marcxml:subfield code="e">artist,</marcxml:subfield>
+    <marcxml:subfield code="e">author.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="245" ind1="1" ind2="0">
+    <marcxml:subfield code="a">Check, please!</marcxml:subfield>
+    <marcxml:subfield code="n">Book 1,</marcxml:subfield>
+    <marcxml:subfield code="p">#Hockey /</marcxml:subfield>
+    <marcxml:subfield code="c">Ngozi Ukazu.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="246" ind1="3" ind2=" ">
+    <marcxml:subfield code="a">Check, please!</marcxml:subfield>
+    <marcxml:subfield code="p">#Hockey!</marcxml:subfield>
+    <marcxml:subfield code="n">1</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="246" ind1="3" ind2=" ">
+    <marcxml:subfield code="a">Check, please!</marcxml:subfield>
+    <marcxml:subfield code="n">1</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="246" ind1="3" ind2="0">
+    <marcxml:subfield code="a">#Hockey</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="246" ind1="3" ind2=" ">
+    <marcxml:subfield code="a">Hockey</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="246" ind1="3" ind2=" ">
+    <marcxml:subfield code="a">Hashtag hockey</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="250" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">First edition.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="264" ind1=" " ind2="1">
+    <marcxml:subfield code="a">New York :</marcxml:subfield>
+    <marcxml:subfield code="b">First Second,</marcxml:subfield>
+    <marcxml:subfield code="c">2018.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="264" ind1=" " ind2="4">
+    <marcxml:subfield code="c">©2018</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="300" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">240 pages, 37 unnumbered pages of tweets :</marcxml:subfield>
+    <marcxml:subfield code="b">chiefly color illustrations,</marcxml:subfield>
+    <marcxml:subfield code="c">23 cm</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="336" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">text</marcxml:subfield>
+    <marcxml:subfield code="b">txt</marcxml:subfield>
+    <marcxml:subfield code="2">rdacontent</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="336" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">still image</marcxml:subfield>
+    <marcxml:subfield code="b">sti</marcxml:subfield>
+    <marcxml:subfield code="2">rdacontent</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="337" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">unmediated</marcxml:subfield>
+    <marcxml:subfield code="b">n</marcxml:subfield>
+    <marcxml:subfield code="2">rdamedia</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="338" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">volume</marcxml:subfield>
+    <marcxml:subfield code="b">nc</marcxml:subfield>
+    <marcxml:subfield code="2">rdacarrier</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="380" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Comic or graphic novel</marcxml:subfield>
+    <marcxml:subfield code="2">marcgt</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="380" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Book</marcxml:subfield>
+    <marcxml:subfield code="a">Book</marcxml:subfield>
+    <marcxml:subfield code="a">Book</marcxml:subfield>
+    <marcxml:subfield code="2">tlcgt</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="490" ind1="1" ind2=" ">
+    <marcxml:subfield code="a">Check, please!</marcxml:subfield>
+    <marcxml:subfield code="v">1</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="500" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Chiefly illustrations.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="505" ind1="0" ind2="0">
+    <marcxml:subfield code="t">Freshman year --</marcxml:subfield>
+    <marcxml:subfield code="t">Sophomore year --</marcxml:subfield>
+    <marcxml:subfield code="t">Extra comics --</marcxml:subfield>
+    <marcxml:subfield code="t">Tweets.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="520" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">"Y'all... I might not be ready for this. I may be a former junior figure skating champion, vlogger extraordinaire, and very talented amateur pâtissier, but being a freshman on the Samwell University hockey team is a whole new challenge. It's nothing like co-ed club hockey back in Georgia! First of all? There's checking. And then, there is Jack... You see the problem"--</marcxml:subfield>
+    <marcxml:subfield code="c">Back cover.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="586" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Ignatz award winner.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="586" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">William C. Morris Award finalist, 2019.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Hockey players</marcxml:subfield>
+    <marcxml:subfield code="v">Comic books, strips, etc.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Gay college students</marcxml:subfield>
+    <marcxml:subfield code="v">Comic books, strips, etc.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="0">
+    <marcxml:subfield code="a">College sports</marcxml:subfield>
+    <marcxml:subfield code="v">Comic books, strips, etc.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Bloggers</marcxml:subfield>
+    <marcxml:subfield code="v">Comic books, strips, etc.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Bakers</marcxml:subfield>
+    <marcxml:subfield code="v">Comic books, strips, etc.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Hockey players</marcxml:subfield>
+    <marcxml:subfield code="v">Juvenile fiction.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Gay college students</marcxml:subfield>
+    <marcxml:subfield code="v">Juvenile fiction.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="0">
+    <marcxml:subfield code="a">College sports</marcxml:subfield>
+    <marcxml:subfield code="v">Juvenile fiction.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Bakers</marcxml:subfield>
+    <marcxml:subfield code="v">Juvenile fiction.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Bloggers</marcxml:subfield>
+    <marcxml:subfield code="v">Juvenile fiction.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="1">
+    <marcxml:subfield code="a">Graphic novels.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="1">
+    <marcxml:subfield code="a">Hockey</marcxml:subfield>
+    <marcxml:subfield code="v">Fiction.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="1">
+    <marcxml:subfield code="a">Gays</marcxml:subfield>
+    <marcxml:subfield code="v">Fiction.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="1">
+    <marcxml:subfield code="a">Colleges and universities</marcxml:subfield>
+    <marcxml:subfield code="v">Fiction.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="4">
+    <marcxml:subfield code="a">Gay college students</marcxml:subfield>
+    <marcxml:subfield code="v">Comic books, strips, etc.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="4">
+    <marcxml:subfield code="a">College sports</marcxml:subfield>
+    <marcxml:subfield code="v">Comic books, strips, etc.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="4">
+    <marcxml:subfield code="a">Hockey players</marcxml:subfield>
+    <marcxml:subfield code="v">Comic books, strips, etc.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="655" ind1=" " ind2="4">
+    <marcxml:subfield code="a">Graphic novels.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Bakers.</marcxml:subfield>
+    <marcxml:subfield code="2">fast</marcxml:subfield>
+    <marcxml:subfield code="0">(OCoLC)fst01431877</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Bloggers.</marcxml:subfield>
+    <marcxml:subfield code="2">fast</marcxml:subfield>
+    <marcxml:subfield code="0">(OCoLC)fst01940000</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="7">
+    <marcxml:subfield code="a">College sports.</marcxml:subfield>
+    <marcxml:subfield code="2">fast</marcxml:subfield>
+    <marcxml:subfield code="0">(OCoLC)fst00867925</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Gay college students.</marcxml:subfield>
+    <marcxml:subfield code="2">fast</marcxml:subfield>
+    <marcxml:subfield code="0">(OCoLC)fst00939073</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Hockey players.</marcxml:subfield>
+    <marcxml:subfield code="2">fast</marcxml:subfield>
+    <marcxml:subfield code="0">(OCoLC)fst00958581</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="655" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Comic books, strips, etc.</marcxml:subfield>
+    <marcxml:subfield code="2">fast</marcxml:subfield>
+    <marcxml:subfield code="0">(OCoLC)fst01423722</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="655" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Comics (Graphic works)</marcxml:subfield>
+    <marcxml:subfield code="2">fast</marcxml:subfield>
+    <marcxml:subfield code="0">(OCoLC)fst01921613</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="655" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Fiction.</marcxml:subfield>
+    <marcxml:subfield code="2">fast</marcxml:subfield>
+    <marcxml:subfield code="0">(OCoLC)fst01423787</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="655" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Gay comics.</marcxml:subfield>
+    <marcxml:subfield code="2">fast</marcxml:subfield>
+    <marcxml:subfield code="0">(OCoLC)fst02000486</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="655" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Graphic novels.</marcxml:subfield>
+    <marcxml:subfield code="2">fast</marcxml:subfield>
+    <marcxml:subfield code="0">(OCoLC)fst01726630</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="655" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Juvenile works.</marcxml:subfield>
+    <marcxml:subfield code="2">fast</marcxml:subfield>
+    <marcxml:subfield code="0">(OCoLC)fst01411637</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="655" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Sports comics.</marcxml:subfield>
+    <marcxml:subfield code="2">fast</marcxml:subfield>
+    <marcxml:subfield code="0">(OCoLC)fst01922557</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="655" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Sports comics.</marcxml:subfield>
+    <marcxml:subfield code="2">gsafd</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="655" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Graphic novels.</marcxml:subfield>
+    <marcxml:subfield code="2">lcgft</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="655" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Comics (Graphic works)</marcxml:subfield>
+    <marcxml:subfield code="2">lcgft</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="655" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Gay comics.</marcxml:subfield>
+    <marcxml:subfield code="2">lcgft</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="655" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Sports comics.</marcxml:subfield>
+    <marcxml:subfield code="2">lcgft</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="655" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Graphic novels.</marcxml:subfield>
+    <marcxml:subfield code="2">tlcgt</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="710" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Small Press Expo Collection (Library of Congress)</marcxml:subfield>
+    <marcxml:subfield code="5">DLC</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="800" ind1="1" ind2=" ">
+    <marcxml:subfield code="a">Ukazu, Ngozi.</marcxml:subfield>
+    <marcxml:subfield code="t">Check, please! ;</marcxml:subfield>
+    <marcxml:subfield code="v">bk. 1.</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

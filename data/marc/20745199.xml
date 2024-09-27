@@ -1,0 +1,404 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bflc="http://id.loc.gov/ontologies/bflc/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:streams="info:lc/streams#">
+  <marcxml:leader>05526cam a2200673 i 4500</marcxml:leader>
+  <marcxml:controlfield tag="001">20745199</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20181120110205.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">181115t20182018nyua          000 e eng c</marcxml:controlfield>
+  <marcxml:datafield tag="906" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">7</marcxml:subfield>
+    <marcxml:subfield code="b">cbc</marcxml:subfield>
+    <marcxml:subfield code="c">pccadap</marcxml:subfield>
+    <marcxml:subfield code="d">2</marcxml:subfield>
+    <marcxml:subfield code="e">epcn</marcxml:subfield>
+    <marcxml:subfield code="f">20</marcxml:subfield>
+    <marcxml:subfield code="g">y-gencatlg</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="925" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">acquire</marcxml:subfield>
+    <marcxml:subfield code="b">1 shelf copy</marcxml:subfield>
+    <marcxml:subfield code="x">policy default</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="955" ind1=" " ind2=" ">
+    <marcxml:subfield code="b">rm11 2018-11-15 z-processor to USASH-SS</marcxml:subfield>
+    <marcxml:subfield code="e">rm11 2018-11-19 to Dewey</marcxml:subfield>
+    <marcxml:subfield code="w">xm06 2018-11-20</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">  2018418420</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="020" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">9780062851468</marcxml:subfield>
+    <marcxml:subfield code="q">(hardcover)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="020" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">0062851462</marcxml:subfield>
+    <marcxml:subfield code="q">(hardcover)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="020" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">9780062413512</marcxml:subfield>
+    <marcxml:subfield code="q">(paperback)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="020" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">0062413511</marcxml:subfield>
+    <marcxml:subfield code="q">(paperback)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="035" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">(OCoLC)on1032448960</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">CGL</marcxml:subfield>
+    <marcxml:subfield code="b">eng</marcxml:subfield>
+    <marcxml:subfield code="c">CGL</marcxml:subfield>
+    <marcxml:subfield code="e">rda</marcxml:subfield>
+    <marcxml:subfield code="d">FM0</marcxml:subfield>
+    <marcxml:subfield code="d">JQW</marcxml:subfield>
+    <marcxml:subfield code="d">UAP</marcxml:subfield>
+    <marcxml:subfield code="d">YDX</marcxml:subfield>
+    <marcxml:subfield code="d">ETC</marcxml:subfield>
+    <marcxml:subfield code="d">TOH</marcxml:subfield>
+    <marcxml:subfield code="d">UOK</marcxml:subfield>
+    <marcxml:subfield code="d">GTA</marcxml:subfield>
+    <marcxml:subfield code="d">TCH</marcxml:subfield>
+    <marcxml:subfield code="d">VP@</marcxml:subfield>
+    <marcxml:subfield code="d">CZA</marcxml:subfield>
+    <marcxml:subfield code="d">BDX</marcxml:subfield>
+    <marcxml:subfield code="d">FBR</marcxml:subfield>
+    <marcxml:subfield code="d">NGU</marcxml:subfield>
+    <marcxml:subfield code="d">OCLCO</marcxml:subfield>
+    <marcxml:subfield code="d">TJZ</marcxml:subfield>
+    <marcxml:subfield code="d">OBE</marcxml:subfield>
+    <marcxml:subfield code="d">NBU</marcxml:subfield>
+    <marcxml:subfield code="d">ORK</marcxml:subfield>
+    <marcxml:subfield code="d">ZVR</marcxml:subfield>
+    <marcxml:subfield code="d">TNX</marcxml:subfield>
+    <marcxml:subfield code="d">B@L</marcxml:subfield>
+    <marcxml:subfield code="d">NFR</marcxml:subfield>
+    <marcxml:subfield code="d">ALD</marcxml:subfield>
+    <marcxml:subfield code="d">JQH</marcxml:subfield>
+    <marcxml:subfield code="d">POR</marcxml:subfield>
+    <marcxml:subfield code="d">PFLCL</marcxml:subfield>
+    <marcxml:subfield code="d">HLS</marcxml:subfield>
+    <marcxml:subfield code="d">TXWBR</marcxml:subfield>
+    <marcxml:subfield code="d">PAU</marcxml:subfield>
+    <marcxml:subfield code="d">KCP</marcxml:subfield>
+    <marcxml:subfield code="d">KN7</marcxml:subfield>
+    <marcxml:subfield code="d">OD9</marcxml:subfield>
+    <marcxml:subfield code="d">JP3</marcxml:subfield>
+    <marcxml:subfield code="d">JZU</marcxml:subfield>
+    <marcxml:subfield code="d">OCLCF</marcxml:subfield>
+    <marcxml:subfield code="d">ANK</marcxml:subfield>
+    <marcxml:subfield code="d">JBG</marcxml:subfield>
+    <marcxml:subfield code="d">VLW</marcxml:subfield>
+    <marcxml:subfield code="d">FCK</marcxml:subfield>
+    <marcxml:subfield code="d">FPB</marcxml:subfield>
+    <marcxml:subfield code="d">NZAUC</marcxml:subfield>
+    <marcxml:subfield code="d">D9M</marcxml:subfield>
+    <marcxml:subfield code="d">QS5</marcxml:subfield>
+    <marcxml:subfield code="d">WSD</marcxml:subfield>
+    <marcxml:subfield code="d">CNCAR</marcxml:subfield>
+    <marcxml:subfield code="d">FLWMD</marcxml:subfield>
+    <marcxml:subfield code="d">RCJ</marcxml:subfield>
+    <marcxml:subfield code="d">TFW</marcxml:subfield>
+    <marcxml:subfield code="d">LE#</marcxml:subfield>
+    <marcxml:subfield code="d">M4L</marcxml:subfield>
+    <marcxml:subfield code="d">YVR</marcxml:subfield>
+    <marcxml:subfield code="d">CNEDM</marcxml:subfield>
+    <marcxml:subfield code="d">CGP</marcxml:subfield>
+    <marcxml:subfield code="d">KG7</marcxml:subfield>
+    <marcxml:subfield code="d">EYB</marcxml:subfield>
+    <marcxml:subfield code="d">TXC</marcxml:subfield>
+    <marcxml:subfield code="d">KYC</marcxml:subfield>
+    <marcxml:subfield code="d">ICL</marcxml:subfield>
+    <marcxml:subfield code="d">XII</marcxml:subfield>
+    <marcxml:subfield code="d">GZN</marcxml:subfield>
+    <marcxml:subfield code="d">LKC</marcxml:subfield>
+    <marcxml:subfield code="d">Y#4</marcxml:subfield>
+    <marcxml:subfield code="d">IV0</marcxml:subfield>
+    <marcxml:subfield code="d">UII</marcxml:subfield>
+    <marcxml:subfield code="d">LEPLL</marcxml:subfield>
+    <marcxml:subfield code="d">BTS</marcxml:subfield>
+    <marcxml:subfield code="d">OY4</marcxml:subfield>
+    <marcxml:subfield code="d">OI6</marcxml:subfield>
+    <marcxml:subfield code="d">ON8</marcxml:subfield>
+    <marcxml:subfield code="d">OJ4</marcxml:subfield>
+    <marcxml:subfield code="d">UAB</marcxml:subfield>
+    <marcxml:subfield code="d">WUO</marcxml:subfield>
+    <marcxml:subfield code="d">S#L</marcxml:subfield>
+    <marcxml:subfield code="d">PEX</marcxml:subfield>
+    <marcxml:subfield code="d">NTG</marcxml:subfield>
+    <marcxml:subfield code="d">IEW</marcxml:subfield>
+    <marcxml:subfield code="d">M@S</marcxml:subfield>
+    <marcxml:subfield code="d">JY9</marcxml:subfield>
+    <marcxml:subfield code="d">IJ5</marcxml:subfield>
+    <marcxml:subfield code="d">FMU</marcxml:subfield>
+    <marcxml:subfield code="d">LSD</marcxml:subfield>
+    <marcxml:subfield code="d">FJD</marcxml:subfield>
+    <marcxml:subfield code="d">IHE</marcxml:subfield>
+    <marcxml:subfield code="d">MOV</marcxml:subfield>
+    <marcxml:subfield code="d">KZS</marcxml:subfield>
+    <marcxml:subfield code="d">OCLCQ</marcxml:subfield>
+    <marcxml:subfield code="d">CLE</marcxml:subfield>
+    <marcxml:subfield code="d">IAY</marcxml:subfield>
+    <marcxml:subfield code="d">VAN</marcxml:subfield>
+    <marcxml:subfield code="d">AZT</marcxml:subfield>
+    <marcxml:subfield code="d">WTU</marcxml:subfield>
+    <marcxml:subfield code="d">CPP</marcxml:subfield>
+    <marcxml:subfield code="d">NJB</marcxml:subfield>
+    <marcxml:subfield code="d">IUK</marcxml:subfield>
+    <marcxml:subfield code="d">JAS</marcxml:subfield>
+    <marcxml:subfield code="d">BPE</marcxml:subfield>
+    <marcxml:subfield code="d">ZCU</marcxml:subfield>
+    <marcxml:subfield code="d">KNM</marcxml:subfield>
+    <marcxml:subfield code="d">BGU</marcxml:subfield>
+    <marcxml:subfield code="d">T3V</marcxml:subfield>
+    <marcxml:subfield code="d">YU6</marcxml:subfield>
+    <marcxml:subfield code="d">WNL</marcxml:subfield>
+    <marcxml:subfield code="d">NVQ</marcxml:subfield>
+    <marcxml:subfield code="d">TXGPM</marcxml:subfield>
+    <marcxml:subfield code="d">KOTUI</marcxml:subfield>
+    <marcxml:subfield code="d">WYG</marcxml:subfield>
+    <marcxml:subfield code="d">AU@</marcxml:subfield>
+    <marcxml:subfield code="d">XFF</marcxml:subfield>
+    <marcxml:subfield code="d">FSP</marcxml:subfield>
+    <marcxml:subfield code="d">XXWGB</marcxml:subfield>
+    <marcxml:subfield code="d">WC$</marcxml:subfield>
+    <marcxml:subfield code="d">JZ2</marcxml:subfield>
+    <marcxml:subfield code="d">PLS</marcxml:subfield>
+    <marcxml:subfield code="d">ILM</marcxml:subfield>
+    <marcxml:subfield code="d">MZ5</marcxml:subfield>
+    <marcxml:subfield code="d">BUR</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="042" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">pcc</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="043" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">n-us---</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="050" ind1="0" ind2="0">
+    <marcxml:subfield code="a">HV6558</marcxml:subfield>
+    <marcxml:subfield code="b">.N68 2018</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="082" ind1="0" ind2="0">
+    <marcxml:subfield code="a">362.8830973</marcxml:subfield>
+    <marcxml:subfield code="2">23</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="245" ind1="0" ind2="0">
+    <marcxml:subfield code="a">Not that bad :</marcxml:subfield>
+    <marcxml:subfield code="b">dispatches from rape culture /</marcxml:subfield>
+    <marcxml:subfield code="c">edited by Roxane Gay.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="250" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">First edition.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="264" ind1=" " ind2="1">
+    <marcxml:subfield code="a">New York, NY :</marcxml:subfield>
+    <marcxml:subfield code="b">Harper, an imprint of HarperCollins Publishers,</marcxml:subfield>
+    <marcxml:subfield code="c">[2018]</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="264" ind1=" " ind2="4">
+    <marcxml:subfield code="c">©2018</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="300" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">xii, 350 pages :</marcxml:subfield>
+    <marcxml:subfield code="b">illustrations ;</marcxml:subfield>
+    <marcxml:subfield code="c">24 cm</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="336" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">text</marcxml:subfield>
+    <marcxml:subfield code="b">txt</marcxml:subfield>
+    <marcxml:subfield code="2">rdacontent</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="337" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">unmediated</marcxml:subfield>
+    <marcxml:subfield code="b">n</marcxml:subfield>
+    <marcxml:subfield code="2">rdamedia</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="338" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">volume</marcxml:subfield>
+    <marcxml:subfield code="b">nc</marcxml:subfield>
+    <marcxml:subfield code="2">rdacarrier</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="505" ind1="0" ind2="0">
+    <marcxml:subfield code="t">Fragments /</marcxml:subfield>
+    <marcxml:subfield code="r">Aubrey Hirsch --</marcxml:subfield>
+    <marcxml:subfield code="t">Slaughterhouse Island /</marcxml:subfield>
+    <marcxml:subfield code="r">Jill Christman --</marcxml:subfield>
+    <marcxml:subfield code="t">&amp; the truth is, I have no story /</marcxml:subfield>
+    <marcxml:subfield code="r">Claire Schwartz --</marcxml:subfield>
+    <marcxml:subfield code="t">The luckiest MILF in Brooklyn /</marcxml:subfield>
+    <marcxml:subfield code="r">Lynn Melnick --</marcxml:subfield>
+    <marcxml:subfield code="t">Spectator: my family, my rapist, and mourning online /</marcxml:subfield>
+    <marcxml:subfield code="r">Brandon Taylor --</marcxml:subfield>
+    <marcxml:subfield code="t">The sun /</marcxml:subfield>
+    <marcxml:subfield code="r">Emma Smith-Stevens --</marcxml:subfield>
+    <marcxml:subfield code="t">Sixty-three days /</marcxml:subfield>
+    <marcxml:subfield code="r">AJ McKenna --</marcxml:subfield>
+    <marcxml:subfield code="t">Only the lonely /</marcxml:subfield>
+    <marcxml:subfield code="r">Lisa Mecham --</marcxml:subfield>
+    <marcxml:subfield code="t">What I told myself /</marcxml:subfield>
+    <marcxml:subfield code="r">Vanessa Mártir --</marcxml:subfield>
+    <marcxml:subfield code="t">Stasis /</marcxml:subfield>
+    <marcxml:subfield code="r">Ally Sheedy --</marcxml:subfield>
+    <marcxml:subfield code="t">The ways we are taught to be a girl /</marcxml:subfield>
+    <marcxml:subfield code="r">xTx --</marcxml:subfield>
+    <marcxml:subfield code="t">Floccinaucinihilipilification /</marcxml:subfield>
+    <marcxml:subfield code="r">So Mayer --</marcxml:subfield>
+    <marcxml:subfield code="t">The life ruiner /</marcxml:subfield>
+    <marcxml:subfield code="r">Nora Salem --</marcxml:subfield>
+    <marcxml:subfield code="t">All the angry women /</marcxml:subfield>
+    <marcxml:subfield code="r">Lyz Lenz --</marcxml:subfield>
+    <marcxml:subfield code="t">Good girls /</marcxml:subfield>
+    <marcxml:subfield code="r">Amy Jo Burns --</marcxml:subfield>
+    <marcxml:subfield code="t">Utmost resistance: law and the queer woman or How I sat in a classroom and listened to my male classmates debate how to define force and consent /</marcxml:subfield>
+    <marcxml:subfield code="r">V.L. Seek --</marcxml:subfield>
+    <marcxml:subfield code="t">Bodies against borders /</marcxml:subfield>
+    <marcxml:subfield code="r">Michelle Chen --</marcxml:subfield>
+    <marcxml:subfield code="t">Wiping the stain clean /</marcxml:subfield>
+    <marcxml:subfield code="r">Gabrielle Union --</marcxml:subfield>
+    <marcxml:subfield code="t">What we didn't say /</marcxml:subfield>
+    <marcxml:subfield code="r">Liz Rosema --</marcxml:subfield>
+    <marcxml:subfield code="t">I said yes /</marcxml:subfield>
+    <marcxml:subfield code="r">Anthony Frame --</marcxml:subfield>
+    <marcxml:subfield code="t">Knowing better /</marcxml:subfield>
+    <marcxml:subfield code="r">Samhita Mukhopadhyay --</marcxml:subfield>
+    <marcxml:subfield code="t">Not that loud: quiet encounters with rape culture /</marcxml:subfield>
+    <marcxml:subfield code="r">Miriam Zoila Pérez --</marcxml:subfield>
+    <marcxml:subfield code="t">Why I stopped /</marcxml:subfield>
+    <marcxml:subfield code="r">Zoë Medeiros --</marcxml:subfield>
+    <marcxml:subfield code="t">Picture perfect /</marcxml:subfield>
+    <marcxml:subfield code="r">Sharisse Tracey --</marcxml:subfield>
+    <marcxml:subfield code="t">To get out from under it /</marcxml:subfield>
+    <marcxml:subfield code="r">Stacey May Fowles --</marcxml:subfield>
+    <marcxml:subfield code="t">Reaping what rape culture sows: live from the killing fields of growing up female in America /</marcxml:subfield>
+    <marcxml:subfield code="r">Elisabeth Fairfield Stokes --</marcxml:subfield>
+    <marcxml:subfield code="t">Invisible light waves /</marcxml:subfield>
+    <marcxml:subfield code="r">Meredith Talusan --</marcxml:subfield>
+    <marcxml:subfield code="t">Getting home /</marcxml:subfield>
+    <marcxml:subfield code="r">Nicole Boyce --</marcxml:subfield>
+    <marcxml:subfield code="t">Why I didn't say no /</marcxml:subfield>
+    <marcxml:subfield code="r">Elissa Bassist.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="520" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">"In this valuable and timely anthology, cultural critic and bestselling author Roxane Gay has collected original and previously published pieces that address what it means to live in a world where women have to measure the harassment, violence, and aggression they face, and where they are 'routinely second-guessed, blown off, discredited, denigrated, besmirched, belittled, patronized, mocked, shamed, gaslit, insulted, and bullied' for speaking out. Highlighting the stories of well-known actors, writers, and experts, as well as new voices being published for the first time, Not That Bad covers a wide range of topics and experiences, from an exploration of the rape epidemic embedded in the refugee crisis to first-person accounts of child molestation and street harassment. Often deeply personal and always unflinchingly honest, this provocative collection both reflects the world we live in and offers a call to arms insisting that 'not that bad' must no longer be good enough."--Dust jacket flap.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Rape.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Sexual harassment of women.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Rape</marcxml:subfield>
+    <marcxml:subfield code="x">Psychological aspects.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Rape</marcxml:subfield>
+    <marcxml:subfield code="x">Sociological aspects.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Rape victims.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Rape</marcxml:subfield>
+    <marcxml:subfield code="x">Attitudes.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Rape</marcxml:subfield>
+    <marcxml:subfield code="x">Public opinion.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Child sexual abuse.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="4">
+    <marcxml:subfield code="a">Rape.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="4">
+    <marcxml:subfield code="a">Sexual harrassment.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="4">
+    <marcxml:subfield code="a">Sex crimes.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="7">
+    <marcxml:subfield code="a">SOCIAL SCIENCE</marcxml:subfield>
+    <marcxml:subfield code="x">Gender Studies.</marcxml:subfield>
+    <marcxml:subfield code="2">bisacsh</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="7">
+    <marcxml:subfield code="a">SOCIAL SCIENCE</marcxml:subfield>
+    <marcxml:subfield code="x">Sexual Abuse &amp; Harassment.</marcxml:subfield>
+    <marcxml:subfield code="2">bisacsh</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="7">
+    <marcxml:subfield code="a">BIOGRAPHY &amp; AUTOBIOGRAPHY</marcxml:subfield>
+    <marcxml:subfield code="x">Personal Memoirs.</marcxml:subfield>
+    <marcxml:subfield code="2">bisacsh</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Child sexual abuse.</marcxml:subfield>
+    <marcxml:subfield code="2">fast</marcxml:subfield>
+    <marcxml:subfield code="0">(OCoLC)fst00854640</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Rape.</marcxml:subfield>
+    <marcxml:subfield code="2">fast</marcxml:subfield>
+    <marcxml:subfield code="0">(OCoLC)fst01089970</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Rape</marcxml:subfield>
+    <marcxml:subfield code="x">Attitudes.</marcxml:subfield>
+    <marcxml:subfield code="2">fast</marcxml:subfield>
+    <marcxml:subfield code="0">(OCoLC)fst01089971</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Rape</marcxml:subfield>
+    <marcxml:subfield code="x">Psychological aspects.</marcxml:subfield>
+    <marcxml:subfield code="2">fast</marcxml:subfield>
+    <marcxml:subfield code="0">(OCoLC)fst01089980</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Rape</marcxml:subfield>
+    <marcxml:subfield code="x">Public opinion.</marcxml:subfield>
+    <marcxml:subfield code="2">fast</marcxml:subfield>
+    <marcxml:subfield code="0">(OCoLC)fst01089982</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Rape victims.</marcxml:subfield>
+    <marcxml:subfield code="2">fast</marcxml:subfield>
+    <marcxml:subfield code="0">(OCoLC)fst01090022</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Rape victims</marcxml:subfield>
+    <marcxml:subfield code="x">Psychology.</marcxml:subfield>
+    <marcxml:subfield code="2">fast</marcxml:subfield>
+    <marcxml:subfield code="0">(OCoLC)fst01090034</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Sexual abuse victims.</marcxml:subfield>
+    <marcxml:subfield code="2">fast</marcxml:subfield>
+    <marcxml:subfield code="0">(OCoLC)fst01114783</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Sexual harassment of women.</marcxml:subfield>
+    <marcxml:subfield code="2">fast</marcxml:subfield>
+    <marcxml:subfield code="0">(OCoLC)fst01114883</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="650" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Women</marcxml:subfield>
+    <marcxml:subfield code="x">Violence against.</marcxml:subfield>
+    <marcxml:subfield code="2">fast</marcxml:subfield>
+    <marcxml:subfield code="0">(OCoLC)fst01427006</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="655" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Essays.</marcxml:subfield>
+    <marcxml:subfield code="2">fast</marcxml:subfield>
+    <marcxml:subfield code="0">(OCoLC)fst01919922</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="655" ind1=" " ind2="7">
+    <marcxml:subfield code="a">Essays.</marcxml:subfield>
+    <marcxml:subfield code="2">lcgft</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="700" ind1="1" ind2=" ">
+    <marcxml:subfield code="a">Gay, Roxane,</marcxml:subfield>
+    <marcxml:subfield code="e">editor.</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>
