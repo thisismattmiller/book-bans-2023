@@ -217,7 +217,7 @@ for t in titles_compiled:
 		marc_file=None
 		if titles_compiled[t]['lcBib'] != None:
 			if os.path.isfile('../data/marc/'+titles_compiled[t]['lcBib'] + '.xml'):
-				marc_file = f"https://thisismattmiller.s3.amazonaws.com/banned-metadata-2023/{titles_compiled[t]['lcBib']}.xml"
+				marc_file = f"https://raw.githubusercontent.com/thisismattmiller/book-bans-2023/refs/heads/main/data/marc/{titles_compiled[t]['lcBib']}.xml"
 			
 				
 
